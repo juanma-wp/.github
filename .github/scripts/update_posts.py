@@ -13,7 +13,7 @@ RSS_FEED_URL = "https://juanma.codes/feed"
 README_PATH = "profile/README.md"
 MAX_POSTS = 5
 MAX_ACTIVITY = 5
-GITHUB_USERNAME = "juanma-wp"
+GITHUB_USERNAME = "juanmaguitar"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Optional, improves rate limits
 EXCLUDED_REPOS = []  # Repos to exclude from activity feed
 
@@ -55,7 +55,7 @@ def fetch_latest_posts(feed_url, max_posts):
 
 
 def fetch_github_activity(username, max_items):
-    """Fetch recent commits and releases from non-fork repos."""
+    """Fetch recent commits and releases from non-fork repos in both personal and org accounts."""
     try:
         # Prepare headers with token if available
         headers = {}
@@ -63,15 +63,36 @@ def fetch_github_activity(username, max_items):
             headers['Authorization'] = f'token {GITHUB_TOKEN}'
             print("Using authenticated GitHub API requests")
 
-        # Get user's repos (non-fork), sorted by most recently updated
-        repos_url = f"https://api.github.com/users/{username}/repos?per_page=100&type=owner&sort=updated"
-        repos_response = requests.get(repos_url, headers=headers)
-        repos_response.raise_for_status()
-        repos = [r for r in repos_response.json()
-                 if not r.get('fork', False) and r['name'] not in EXCLUDED_REPOS]
+        repos = []
+
+        # Get user's personal repos (non-fork)
+        user_repos_url = f"https://api.github.com/users/{username}/repos?per_page=100&type=owner&sort=updated"
+        user_repos_response = requests.get(user_repos_url, headers=headers)
+        user_repos_response.raise_for_status()
+        user_repos = [r for r in user_repos_response.json()
+                      if not r.get('fork', False) and r['name'] not in EXCLUDED_REPOS]
+        repos.extend(user_repos)
+        print(f"Found {len(user_repos)} personal non-fork repositories")
+
+        # Get organization repos
+        org_name = "juanma-wp"
+        org_repos_url = f"https://api.github.com/orgs/{org_name}/repos?per_page=100&type=all&sort=updated"
+        org_repos_response = requests.get(org_repos_url, headers=headers)
+
+        if org_repos_response.status_code == 200:
+            org_repos = [r for r in org_repos_response.json()
+                         if not r.get('fork', False) and r['name'] not in EXCLUDED_REPOS]
+            repos.extend(org_repos)
+            print(
+                f"Found {len(org_repos)} organization non-fork repositories from {org_name}")
+        else:
+            print(f"Could not fetch repos from organization {org_name}")
+
+        # Sort all repos by updated date
+        repos.sort(key=lambda x: x.get('updated_at', ''), reverse=True)
 
         print(
-            f"Found {len(repos)} non-fork repositories (excluding {len(EXCLUDED_REPOS)} repos)")
+            f"Total: {len(repos)} non-fork repositories (excluding {len(EXCLUDED_REPOS)} repos)")
 
         activities = []
 
@@ -79,9 +100,11 @@ def fetch_github_activity(username, max_items):
         for repo in repos[:20]:  # Limit to first 20 repos to avoid rate limits
             repo_name = repo['name']
             repo_url = repo['html_url']
+            # Get the actual owner (user or org)
+            repo_owner = repo['owner']['login']
 
             # Get commits
-            commits_url = f"https://api.github.com/repos/{username}/{repo_name}/commits?per_page=3"
+            commits_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/commits?per_page=3"
             commits_response = requests.get(commits_url, headers=headers)
 
             if commits_response.status_code == 200:
@@ -113,7 +136,7 @@ def fetch_github_activity(username, max_items):
                         })
 
             # Get releases
-            releases_url = f"https://api.github.com/repos/{username}/{repo_name}/releases?per_page=3"
+            releases_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases?per_page=3"
             releases_response = requests.get(releases_url, headers=headers)
 
             if releases_response.status_code == 200:
