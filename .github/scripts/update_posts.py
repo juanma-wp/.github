@@ -10,7 +10,7 @@ import os
 from datetime import datetime, timezone
 
 RSS_FEED_URL = "https://juanma.codes/feed"
-README_PATH = "README.md"
+README_PATH = "profile/README.md"
 MAX_POSTS = 5
 MAX_ACTIVITY = 5
 GITHUB_USERNAME = "juanma-wp"
