@@ -13,7 +13,7 @@ RSS_FEED_URL = "https://juanma.codes/feed"
 README_PATH = "README.md"
 MAX_POSTS = 5
 MAX_ACTIVITY = 5
-GITHUB_USERNAME = "juanmaguitar"
+GITHUB_USERNAME = "juanma-wp"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Optional, improves rate limits
 EXCLUDED_REPOS = []  # Repos to exclude from activity feed
 
