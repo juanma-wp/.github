@@ -361,6 +361,15 @@ function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
   const lines = [REPOS_START_MARKER];
 
   for (const repo of repos) {
+    // Start with repo name
+    let line = `- **[${repo.name}](${repo.html_url})**`;
+
+    // Add description if available
+    if (repo.description) {
+      line += `: ${repo.description}`;
+    }
+
+    // Add last commit details if available
     if (repo.lastCommit) {
       const commitDate = repo.lastCommit.date.toLocaleDateString('en-US', {
         year: 'numeric',
@@ -368,9 +377,7 @@ function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
         day: '2-digit'
       });
 
-      lines.push(
-        `- **[${repo.name}](${repo.html_url})**: [${repo.lastCommit.sha}](${repo.lastCommit.url}) - ${repo.lastCommit.message} (${commitDate})`
-      );
+      line += `\n  - Last commit: [${repo.lastCommit.sha}](${repo.lastCommit.url}) - ${repo.lastCommit.message} (${commitDate})`;
     } else {
       // Fallback if we couldn't fetch the last commit
       const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', {
@@ -378,8 +385,10 @@ function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
         month: 'long',
         day: '2-digit'
       });
-      lines.push(`- **[${repo.name}](${repo.html_url})** - Last updated: ${updatedDate}`);
+      line += `\n  - Last updated: ${updatedDate}`;
     }
+
+    lines.push(line);
   }
 
   lines.push(REPOS_END_MARKER);
