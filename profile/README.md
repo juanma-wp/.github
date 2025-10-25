@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 ## 🔨 What I've been working on on GitHub lately
 
 > [!NOTE]
-> Most of my recent work happens under the [juanma-wp](https://github.com/juanma-wp)organization, dedicated to WordPress development, while my personal GitHub profile is [juanmaguitar](https://github.com/juanmaguitar).
+> Most of my recent work happens under the [juanma-wp](https://github.com/juanma-wp) organization, dedicated to WordPress development, while my personal GitHub profile is [juanmaguitar](https://github.com/juanmaguitar).
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
