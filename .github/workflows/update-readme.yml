@@ -16,19 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.11'
+          node-version: '20'
 
       - name: Install dependencies
-        run: |
-          pip install feedparser requests
+        run: npm install
+
+      - name: Build TypeScript
+        run: npm run build
 
       - name: Update README with latest posts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/update_posts.py
+        run: npm run update-profile
 
       - name: Commit and push if changed
         run: |

@@ -12,15 +12,15 @@ Welcome to my GitHub profile!
 - [Playing with Telex: Building a Mermaid Diagram Block in Just a Few Prompts](https://juanma.codes/2025/09/19/playing-with-telex-building-a-mermaid-diagram-block-in-just-a-few-prompts/) - September 19, 2025
 <!-- BLOG-POSTS:END -->
 
-## 🔨 Recent GitHub Activity
+## 🔨 What I've been working on on GitHub lately
 
-<!-- GITHUB-ACTIVITY:START -->
-- **[wordpress-playground-handler](https://github.com/juanmaguitar/wordpress-playground-handler)**: [5825cf3](https://github.com/juanmaguitar/wordpress-playground-handler/commit/5825cf36c85de34fba93483ea1e0c11fb5fd3d44) - Increment version in package.json from 1.1.2 to 1.1.3 for release preparation (September 19, 2025)
-- **[wordpress-playground-handler](https://github.com/juanmaguitar/wordpress-playground-handler)**: [393b9c1](https://github.com/juanmaguitar/wordpress-playground-handler/commit/393b9c1feccc72e38f0eb50378423be3ea3ef544) - Remove outdated deployment documentation and vercel configuration files. Update package.json description to reflect optimizations for Node.js runtime environments and add relevant keywords for better discoverability. (September 19, 2025)
-- **[wordpress-playground-handler](https://github.com/juanmaguitar/wordpress-playground-handler)**: [94e1a5f](https://github.com/juanmaguitar/wordpress-playground-handler/commit/94e1a5f4185e76852821ddb761ec18a811066b75) - Increment version in package.json from 1.1.1 to 1.1.2 for release preparation (September 19, 2025)
-- **[list-urls-extension](https://github.com/juanmaguitar/list-urls-extension)**: [4c4393c](https://github.com/juanmaguitar/list-urls-extension/commit/4c4393ce11b78c1d619813588e82f8057981bd7e) - Update README.md to adjust image sizes for the extension and settings page, improving visual consistency and presentation. This change enhances the overall user experience by ensuring images are appropriately scaled. (September 18, 2025)
-- **[list-urls-extension](https://github.com/juanmaguitar/list-urls-extension)**: [9167ff8](https://github.com/juanmaguitar/list-urls-extension/commit/9167ff8f0ca64aa46f64e13ba1edd23aa39c127f) - Update README.md to change the image syntax for the extension, improving compatibility and visual presentation. This adjustment ensures the documentation adheres to HTML standards and enhances the overall user experience. (September 18, 2025)
-<!-- GITHUB-ACTIVITY:END -->
+<!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: [c04ea26](https://github.com/juanma-wp/.github/commit/c04ea261ad1ad70793904af0f99d7a2e505bfb7f) - Refactor update_posts.py to use the correct GitHub username and enhance the fetch_github_activity function to include organization repositories, improving the activity feed retrieval process. (October 24, 2025)
+- **[streams](https://github.com/juanma-wp/streams)**: [aed4d9e](https://github.com/juanma-wp/streams/commit/aed4d9e591abad7d9744bbde07365f77ac2bfcbb) - Fix link for the session dated 2025-10-24 titled "DataViews y DataForm" in README.md to point to the correct README file, ensuring accurate documentation for Streams 2025. (October 24, 2025)
+- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: [3aa1338](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/3aa1338bb91f1a210110d6323fd2638708fa3c11) - Update .gitignore and build-plugin.sh for improved project management (October 16, 2025)
+- **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: [8d26620](https://github.com/juanma-wp/test-stream-abilities-api/commit/8d26620b7b83431c98f92be327a60d5b85c744fc) - Remove MCP server creation from plugin.php and update README with new API URL and password. Clean up unused input schema code and delete error image assets to streamline the project. (October 20, 2025)
+- **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)
+<!-- RECENT-REPOS:END -->
 
 ---
 
