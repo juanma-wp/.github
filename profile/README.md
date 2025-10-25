@@ -14,15 +14,18 @@ Welcome to my GitHub profile!
 
 ## 🔨 What I've been working on on GitHub lately
 
+> [!NOTE]
+> Most of my recent work happens under the [juanma-wp](https://github.com/juanma-wp)organization, dedicated to WordPress development, while my personal GitHub profile is [juanmaguitar](https://github.com/juanmaguitar).
+
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - Last commit: [37778c0](https://github.com/juanma-wp/.github/commit/37778c042caa449eadaa1b05d48ef4f75540507e) - Enhance README.md generation by including repository descriptions and last commit details for improved clarity and context in the profile overview. (October 25, 2025)
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - Last commit: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)
 - **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: A minimal WordPress plugin used to exercise the Abilities API and the WordPress MCP adapter.
   - Last commit: [8d26620](https://github.com/juanma-wp/test-stream-abilities-api/commit/8d26620b7b83431c98f92be327a60d5b85c744fc) - Remove MCP server creation from plugin.php and update README with new API URL and password. Clean up unused input schema code and delete error image assets to streamline the project. (October 20, 2025)
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - Last commit: [aed4d9e](https://github.com/juanma-wp/streams/commit/aed4d9e591abad7d9744bbde07365f77ac2bfcbb) - Fix link for the session dated 2025-10-24 titled "DataViews y DataForm" in README.md to point to the correct README file, ensuring accurate documentation for Streams 2025. (October 24, 2025)
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - Last commit: [0117717](https://github.com/juanma-wp/.github/commit/01177170739dffb0b67c18dfce3813b87e1275f3) - Add initial project structure with TypeScript setup, README, and environment configuration (October 25, 2025)
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
   - Last commit: [3aa1338](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/3aa1338bb91f1a210110d6323fd2638708fa3c11) - Update .gitignore and build-plugin.sh for improved project management (October 16, 2025)
 <!-- RECENT-REPOS:END -->
