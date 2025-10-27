@@ -29,6 +29,8 @@ const ACTIVITY_START_MARKER = '<!-- GITHUB-ACTIVITY:START -->';
 const ACTIVITY_END_MARKER = '<!-- GITHUB-ACTIVITY:END -->';
 const REPOS_START_MARKER = '<!-- RECENT-REPOS:START -->';
 const REPOS_END_MARKER = '<!-- RECENT-REPOS:END -->';
+const FEATURED_START_MARKER = '<!-- FEATURED-REPOS:START -->';
+const FEATURED_END_MARKER = '<!-- FEATURED-REPOS:END -->';
 
 interface BlogPost {
   title: string;
@@ -53,6 +55,7 @@ interface GitHubRepo {
   updated_at: string;
   fork: boolean;
   description?: string;
+  topics?: string[];
   owner: {
     login: string;
   };
@@ -243,29 +246,30 @@ interface RepoWithCommit extends GitHubRepo {
 
 /**
  * Fetch the most recently updated repositories from the organization with their last commits.
+ * Excludes repositories with the "featured" topic to avoid duplication.
  */
 async function fetchRecentRepos(orgName: string, maxRepos: number): Promise<RepoWithCommit[]> {
   try {
     // Prepare headers with token if available
     const headers: any = {
-      'Accept': 'application/vnd.github.v3+json'
+      'Accept': 'application/vnd.github.mercy-preview+json' // Required for topics API
     };
     if (GITHUB_TOKEN) {
       headers['Authorization'] = `token ${GITHUB_TOKEN}`;
     }
 
     // Get organization repos - fetch more to ensure we get enough after filtering
-    const fetchCount = Math.max(maxRepos * 2, 10); // Fetch at least 10 to account for forks
+    const fetchCount = Math.max(maxRepos * 3, 15); // Fetch more to account for forks and featured repos
     const orgReposUrl = `https://api.github.com/orgs/${orgName}/repos?per_page=${fetchCount}&type=all&sort=updated`;
 
     try {
       const orgReposResponse = await axios.get<GitHubRepo[]>(orgReposUrl, { headers });
-      // Filter out forks and get exactly maxRepos repositories
+      // Filter out forks and featured repos, then get exactly maxRepos repositories
       const repos = orgReposResponse.data
-        .filter(r => !r.fork)
+        .filter(r => !r.fork && (!r.topics || !r.topics.includes('featured')))
         .slice(0, maxRepos);
 
-      console.log(`Found ${repos.length} recent non-fork repositories from ${orgName}`);
+      console.log(`Found ${repos.length} recent non-fork, non-featured repositories from ${orgName}`);
 
       // Fetch the last commit for each repository
       const reposWithCommits: RepoWithCommit[] = [];
@@ -351,6 +355,73 @@ function generateActivityMarkdown(activities: GitHubActivity[]): string {
 }
 
 /**
+ * Fetch repositories with "featured" topic from the organization.
+ */
+async function fetchFeaturedRepos(orgName: string): Promise<RepoWithCommit[]> {
+  try {
+    // Prepare headers with token if available
+    const headers: any = {
+      'Accept': 'application/vnd.github.mercy-preview+json' // Required for topics API
+    };
+    if (GITHUB_TOKEN) {
+      headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+    }
+
+    // Get all organization repos
+    const orgReposUrl = `https://api.github.com/orgs/${orgName}/repos?per_page=100&type=all`;
+
+    try {
+      const orgReposResponse = await axios.get<GitHubRepo[]>(orgReposUrl, { headers });
+      // Filter repos that have the "featured" topic and are not forks
+      const featuredRepos = orgReposResponse.data.filter(
+        r => !r.fork && r.topics && r.topics.includes('featured')
+      );
+
+      console.log(`Found ${featuredRepos.length} featured repositories from ${orgName}`);
+
+      // Sort by updated date
+      featuredRepos.sort((a, b) =>
+        new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime()
+      );
+
+      // Fetch the last commit for each featured repository
+      const reposWithCommits: RepoWithCommit[] = [];
+      for (const repo of featuredRepos) {
+        const repoWithCommit: RepoWithCommit = { ...repo };
+
+        // Get the last commit
+        const commitsUrl = `https://api.github.com/repos/${repo.owner.login}/${repo.name}/commits?per_page=1`;
+        try {
+          const commitsResponse = await axios.get<GitHubCommit[]>(commitsUrl, { headers });
+          if (commitsResponse.data.length > 0) {
+            const commit = commitsResponse.data[0];
+            repoWithCommit.lastCommit = {
+              sha: commit.sha.substring(0, 7),
+              url: commit.html_url,
+              message: commit.commit.message.split('\n')[0], // First line only
+              date: new Date(commit.commit.author.date)
+            };
+          }
+        } catch (error) {
+          // If we can't get the commit, just continue without it
+          console.log(`Could not fetch last commit for ${repo.name}`);
+        }
+
+        reposWithCommits.push(repoWithCommit);
+      }
+
+      return reposWithCommits;
+    } catch (error: any) {
+      console.error(`Could not fetch featured repos from organization ${orgName}:`, error.message);
+      return [];
+    }
+  } catch (error) {
+    console.error('Error fetching featured repos:', error);
+    return [];
+  }
+}
+
+/**
  * Generate markdown for recent repositories.
  */
 function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
@@ -377,7 +448,7 @@ function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
         day: '2-digit'
       });
 
-      line += `\n  - Last commit: [${repo.lastCommit.sha}](${repo.lastCommit.url}) - ${repo.lastCommit.message} (${commitDate})`;
+      line += `\n  - <small><em>Last commit: [${repo.lastCommit.sha}](${repo.lastCommit.url}) - ${repo.lastCommit.message} (${commitDate})</em></small>`;
     } else {
       // Fallback if we couldn't fetch the last commit
       const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', {
@@ -385,13 +456,58 @@ function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
         month: 'long',
         day: '2-digit'
       });
-      line += `\n  - Last updated: ${updatedDate}`;
+      line += `\n  - <small><em>Last updated: ${updatedDate}</em></small>`;
     }
 
     lines.push(line);
   }
 
   lines.push(REPOS_END_MARKER);
+  return lines.join('\n');
+}
+
+/**
+ * Generate markdown for featured repositories with the "featured" topic.
+ */
+function generateFeaturedReposMarkdown(repos: RepoWithCommit[]): string {
+  if (repos.length === 0) {
+    return `${FEATURED_START_MARKER}\n*No featured repositories found. Add the "featured" topic to repositories you want to highlight.*\n${FEATURED_END_MARKER}`;
+  }
+
+  const lines = [FEATURED_START_MARKER];
+
+  for (const repo of repos) {
+    // Start with repo name
+    let line = `- **[${repo.name}](${repo.html_url})**`;
+
+    // Add description if available
+    if (repo.description) {
+      line += `: ${repo.description}`;
+    }
+
+    // Add last commit details with small/em formatting
+    if (repo.lastCommit) {
+      const commitDate = repo.lastCommit.date.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: '2-digit'
+      });
+
+      line += `\n  - <small><em>Last commit: [${repo.lastCommit.sha}](${repo.lastCommit.url}) - ${repo.lastCommit.message} (${commitDate})</em></small>`;
+    } else {
+      // Fallback if we couldn't fetch the last commit
+      const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: '2-digit'
+      });
+      line += `\n  - <small><em>Last updated: ${updatedDate}</em></small>`;
+    }
+
+    lines.push(line);
+  }
+
+  lines.push(FEATURED_END_MARKER);
   return lines.join('\n');
 }
 
@@ -417,13 +533,14 @@ function updateReadmeSection(
 }
 
 /**
- * Update the README file with the latest posts, GitHub activity, and recent repos.
+ * Update the README file with the latest posts, GitHub activity, recent repos, and featured repos.
  */
 function updateReadme(
   readmePath: string,
   postsMarkdown: string,
   activityMarkdown: string,
-  recentReposMarkdown: string
+  recentReposMarkdown: string,
+  featuredReposMarkdown: string
 ): void {
   let content = fs.readFileSync(readmePath, 'utf-8');
   let sectionsUpdated = 0;
@@ -461,6 +578,17 @@ function updateReadme(
     sectionsUpdated++;
   }
 
+  // Update featured repos section if markdown is provided
+  if (featuredReposMarkdown) {
+    content = updateReadmeSection(
+      content,
+      FEATURED_START_MARKER,
+      FEATURED_END_MARKER,
+      featuredReposMarkdown
+    );
+    sectionsUpdated++;
+  }
+
   if (sectionsUpdated > 0) {
     fs.writeFileSync(readmePath, content, 'utf-8');
     console.log(`✓ README updated successfully (${sectionsUpdated} section${sectionsUpdated === 1 ? '' : 's'} updated)`);
@@ -494,8 +622,9 @@ async function main(): Promise<void> {
     const hasBlogPosts = hasMarkers(readmeContent, POSTS_START_MARKER, POSTS_END_MARKER);
     const hasGitHubActivity = hasMarkers(readmeContent, ACTIVITY_START_MARKER, ACTIVITY_END_MARKER);
     const hasRecentRepos = hasMarkers(readmeContent, REPOS_START_MARKER, REPOS_END_MARKER);
+    const hasFeaturedRepos = hasMarkers(readmeContent, FEATURED_START_MARKER, FEATURED_END_MARKER);
 
-    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos) {
+    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos && !hasFeaturedRepos) {
       console.log('No update markers found in README. Nothing to update.');
       return;
     }
@@ -503,6 +632,7 @@ async function main(): Promise<void> {
     let postsMarkdown = '';
     let activityMarkdown = '';
     let recentReposMarkdown = '';
+    let featuredReposMarkdown = '';
 
     // Fetch blog posts only if markers exist
     if (hasBlogPosts) {
@@ -534,8 +664,18 @@ async function main(): Promise<void> {
       console.log('Recent repositories section not found in README, skipping...');
     }
 
+    // Fetch featured repos only if markers exist
+    if (hasFeaturedRepos) {
+      console.log(`Fetching featured repositories from ${GITHUB_ORG}...`);
+      const featuredRepos = await fetchFeaturedRepos(GITHUB_ORG);
+      console.log(`✓ Found ${featuredRepos.length} featured repositories`);
+      featuredReposMarkdown = generateFeaturedReposMarkdown(featuredRepos);
+    } else {
+      console.log('Featured repositories section not found in README, skipping...');
+    }
+
     // Update README with only the sections that exist
-    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown);
+    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown, featuredReposMarkdown);
 
     console.log('✓ Done!');
   } catch (error) {
