@@ -21,10 +21,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
+  - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
   - <small><em>Last commit: [3aa1338](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/3aa1338bb91f1a210110d6323fd2638708fa3c11) - Update .gitignore and build-plugin.sh for improved project management (October 16, 2025)</em></small>
-- **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins.
-  - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [aed4d9e](https://github.com/juanma-wp/streams/commit/aed4d9e591abad7d9744bbde07365f77ac2bfcbb) - Fix link for the session dated 2025-10-24 titled "DataViews y DataForm" in README.md to point to the correct README file, ensuring accurate documentation for Streams 2025. (October 24, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
@@ -33,7 +33,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [b190ed9](https://github.com/juanma-wp/.github/commit/b190ed9b36bfd0ddfc275a27fe9b5457ac50a98b) - Add social media badges to README.md for enhanced profile visibility and engagement. (October 25, 2025)</em></small>
+  - <small><em>Last commit: [6c47ba9](https://github.com/juanma-wp/.github/commit/6c47ba9c58679e6c9ed63c71a1cae7e479c9dc4d) - Implement featured repositories section in README.md and enhance update logic in update-profile.ts (October 27, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)</em></small>
 - **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: A minimal WordPress plugin used to exercise the Abilities API and the WordPress MCP adapter.
