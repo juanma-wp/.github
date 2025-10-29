@@ -33,15 +33,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [6c47ba9](https://github.com/juanma-wp/.github/commit/6c47ba9c58679e6c9ed63c71a1cae7e479c9dc4d) - Implement featured repositories section in README.md and enhance update logic in update-profile.ts (October 27, 2025)</em></small>
+  - <small><em>Last commit: [606082f](https://github.com/juanma-wp/.github/commit/606082f09214b6ea48efac02807e2de8779394bd) - Update GitHub Actions workflow to add profile/README.md instead of README.md for automated updates, ensuring correct file handling in the README generation process. (October 29, 2025)</em></small>
+- **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
+  - <small><em>Last commit: [606a6cc](https://github.com/juanma-wp/block-mermaid-diagram/commit/606a6cc05e8df851bd7dc9c93bf4c269c92fcb31) - Remove InjectDependenciesPlugin and related Webpack configuration, along with the Mermaid.js bundling script and PHPCS wrapper. Refactor mermaid_diagram_block.php to directly enqueue the Mermaid.js library only when the block is present, optimizing asset loading. (October 29, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)</em></small>
 - **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: A minimal WordPress plugin used to exercise the Abilities API and the WordPress MCP adapter.
   - <small><em>Last commit: [8d26620](https://github.com/juanma-wp/test-stream-abilities-api/commit/8d26620b7b83431c98f92be327a60d5b85c744fc) - Remove MCP server creation from plugin.php and update README with new API URL and password. Clean up unused input schema code and delete error image assets to streamline the project. (October 20, 2025)</em></small>
 - **[meetup-cheltenham-workshop](https://github.com/juanma-wp/meetup-cheltenham-workshop)**
   - <small><em>Last commit: [6adf4df](https://github.com/juanma-wp/meetup-cheltenham-workshop/commit/6adf4dfaa58ade258fac276f6ddc325273c37695) - Update README.md to change the live demo URL to the final export file in the meetup-cheltenham-workshop repository (October 14, 2025)</em></small>
-- **[oauth2-auth-pro-wp-rest-api](https://github.com/juanma-wp/oauth2-auth-pro-wp-rest-api)**
-  - <small><em>Last commit: [aa74451](https://github.com/juanma-wp/oauth2-auth-pro-wp-rest-api/commit/aa74451e1d4c208ddde3d566252ddfe29a71d7fd) - Update package-lock.json for Plugin Renaming and Dependency Versions (October 06, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
