@@ -32,16 +32,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [606082f](https://github.com/juanma-wp/.github/commit/606082f09214b6ea48efac02807e2de8779394bd) - Update GitHub Actions workflow to add profile/README.md instead of README.md for automated updates, ensuring correct file handling in the README generation process. (October 29, 2025)</em></small>
+- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
+  - <small><em>Last commit: [8ce6f61](https://github.com/juanma-wp/dataviews-dataform-examples/commit/8ce6f619dcc4ec799442ffa32b9b37f638f31e33) - Refactor CSS styles for DataViews examples, introducing a new root element for better structure and organization. Updated styles for dashboard and picker managers, ensuring consistent padding and layout. Retained legacy styles for backward compatibility during migration. (October 29, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
-  - <small><em>Last commit: [606a6cc](https://github.com/juanma-wp/block-mermaid-diagram/commit/606a6cc05e8df851bd7dc9c93bf4c269c92fcb31) - Remove InjectDependenciesPlugin and related Webpack configuration, along with the Mermaid.js bundling script and PHPCS wrapper. Refactor mermaid_diagram_block.php to directly enqueue the Mermaid.js library only when the block is present, optimizing asset loading. (October 29, 2025)</em></small>
+  - <small><em>Last commit: [87c2ae0](https://github.com/juanma-wp/block-mermaid-diagram/commit/87c2ae0bb4543c93bbfbab5ddb85a21b11b80eaf) - Refactor asset loading and improve editor integration for JuanMa Mermaid Diagram Block (October 29, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [c041c68](https://github.com/juanma-wp/.github/commit/c041c681223b7437333f2370de590c8e500bf5c0) - Update README with latest posts (October 29, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)</em></small>
 - **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: A minimal WordPress plugin used to exercise the Abilities API and the WordPress MCP adapter.
   - <small><em>Last commit: [8d26620](https://github.com/juanma-wp/test-stream-abilities-api/commit/8d26620b7b83431c98f92be327a60d5b85c744fc) - Remove MCP server creation from plugin.php and update README with new API URL and password. Clean up unused input schema code and delete error image assets to streamline the project. (October 20, 2025)</em></small>
-- **[meetup-cheltenham-workshop](https://github.com/juanma-wp/meetup-cheltenham-workshop)**
-  - <small><em>Last commit: [6adf4df](https://github.com/juanma-wp/meetup-cheltenham-workshop/commit/6adf4dfaa58ade258fac276f6ddc325273c37695) - Update README.md to change the live demo URL to the final export file in the meetup-cheltenham-workshop repository (October 14, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
