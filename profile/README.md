@@ -33,15 +33,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**
-  - <small><em>Last commit: [4d32dcc](https://github.com/juanma-wp/abilities-dashboard/commit/4d32dccb366ed8adf8950bec9fba5b58759c9633) - Refactor abilities dashboard for improved clarity and user experience (November 01, 2025)</em></small>
+  - <small><em>Last commit: [e21c1ac](https://github.com/juanma-wp/abilities-dashboard/commit/e21c1acbf42e5643d5034b8b7eaa3940daa7d3b8) - Refactor blueprint.json to replace pluginData with a simplified plugins array, enhancing clarity and streamlining the installation process. (November 01, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [98a0752](https://github.com/juanma-wp/dataviews-dataform-examples/commit/98a07528ca6f54c7c95cbb17a639ea989fcce5af) - Refactor BasicFormExample to utilize external data and fields, enhancing structure and functionality. Update form layout to use card design and improve customer data handling. Introduce new data and fields files for better organization. Update asset version in index.asset.php for consistency. (October 30, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [3c860e1](https://github.com/juanma-wp/.github/commit/3c860e1fb7c1486d3a2f47c21b69a363c8c5040b) - Update README with latest posts (November 01, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
   - <small><em>Last commit: [d378e71](https://github.com/juanma-wp/block-mermaid-diagram/commit/d378e71b918069ddacabf5c09ceb33c50e015a66) - Refactor view.js to improve Mermaid diagram initialization and rendering process (October 30, 2025)</em></small>
 - **[dataform-example](https://github.com/juanma-wp/dataform-example)**
   - <small><em>Last commit: [807d27e](https://github.com/juanma-wp/dataform-example/commit/807d27ed86eb4e2018411627f348556784c6c56d) - Add README with issue report context (October 31, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [507f85b](https://github.com/juanma-wp/.github/commit/507f85b4932f18bcd2c44b747b1a9e60455ec298) - Update README with latest posts (October 31, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
