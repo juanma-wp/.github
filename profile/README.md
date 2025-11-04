@@ -32,10 +32,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [2ca4e1f](https://github.com/juanma-wp/.github/commit/2ca4e1f5d28ff12ad63a634ea03a4d85e6bdc7ad) - Update README with latest posts (November 03, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**
   - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [e6d3f47](https://github.com/juanma-wp/.github/commit/e6d3f475510f4cb904ffb5826270c836cb5d2a14) - Update README with latest posts (November 02, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [98a0752](https://github.com/juanma-wp/dataviews-dataform-examples/commit/98a07528ca6f54c7c95cbb17a639ea989fcce5af) - Refactor BasicFormExample to utilize external data and fields, enhancing structure and functionality. Update form layout to use card design and improve customer data handling. Introduce new data and fields files for better organization. Update asset version in index.asset.php for consistency. (October 30, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
