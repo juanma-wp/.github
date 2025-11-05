@@ -32,16 +32,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[wordpress-contributions-guides-2025](https://github.com/juanma-wp/wordpress-contributions-guides-2025)**
+  - <small><em>Last commit: [9354cc2](https://github.com/juanma-wp/wordpress-contributions-guides-2025/commit/9354cc2e5c1e4204e75fe2e30d69f1c5b96498e8) - Add initial files for the WordPress Core and Developer Handbooks, including sections on contributing, testing, and documentation processes. (November 04, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2ca4e1f](https://github.com/juanma-wp/.github/commit/2ca4e1f5d28ff12ad63a634ea03a4d85e6bdc7ad) - Update README with latest posts (November 03, 2025)</em></small>
+  - <small><em>Last commit: [927c57b](https://github.com/juanma-wp/.github/commit/927c57b98955493d6af199098e3e3d20d1dbb84e) - Update README with latest posts (November 04, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**
   - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [98a0752](https://github.com/juanma-wp/dataviews-dataform-examples/commit/98a07528ca6f54c7c95cbb17a639ea989fcce5af) - Refactor BasicFormExample to utilize external data and fields, enhancing structure and functionality. Update form layout to use card design and improve customer data handling. Introduce new data and fields files for better organization. Update asset version in index.asset.php for consistency. (October 30, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
   - <small><em>Last commit: [d378e71](https://github.com/juanma-wp/block-mermaid-diagram/commit/d378e71b918069ddacabf5c09ceb33c50e015a66) - Refactor view.js to improve Mermaid diagram initialization and rendering process (October 30, 2025)</em></small>
-- **[dataform-example](https://github.com/juanma-wp/dataform-example)**
-  - <small><em>Last commit: [807d27e](https://github.com/juanma-wp/dataform-example/commit/807d27ed86eb4e2018411627f348556784c6c56d) - Add README with issue report context (October 31, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
