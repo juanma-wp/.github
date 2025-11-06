@@ -21,21 +21,21 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
+  - <small><em>Last commit: [a565572](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/a5655721c81e3fd577d932e56b400703af446488) - Update author information and package references across the codebase (October 24, 2025)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [163b973](https://github.com/juanma-wp/streams/commit/163b9732501cccb701a897b7a4dedb4fb8c9943f) - Add new session for 2025-10-31 titled "DataViews y DataForm" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added a DataForm example plugin with initial setup and functionality for testing DataViews. (October 31, 2025)</em></small>
 - **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
   - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
-- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
-  - <small><em>Last commit: [3aa1338](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/3aa1338bb91f1a210110d6323fd2638708fa3c11) - Update .gitignore and build-plugin.sh for improved project management (October 16, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
 
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[wordpress-contributions-guides-2025](https://github.com/juanma-wp/wordpress-contributions-guides-2025)**
-  - <small><em>Last commit: [9354cc2](https://github.com/juanma-wp/wordpress-contributions-guides-2025/commit/9354cc2e5c1e4204e75fe2e30d69f1c5b96498e8) - Add initial files for the WordPress Core and Developer Handbooks, including sections on contributing, testing, and documentation processes. (November 04, 2025)</em></small>
+- **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**
+  - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [927c57b](https://github.com/juanma-wp/.github/commit/927c57b98955493d6af199098e3e3d20d1dbb84e) - Update README with latest posts (November 04, 2025)</em></small>
+  - <small><em>Last commit: [03746b4](https://github.com/juanma-wp/.github/commit/03746b462cba29389a780e88436177fc019e6d51) - Update README with latest posts (November 05, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**
   - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
