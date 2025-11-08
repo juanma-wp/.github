@@ -34,16 +34,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
-  - <small><em>Last commit: [d429178](https://github.com/juanma-wp/dataviews-dataform-examples/commit/d429178cbffde9da3c24d3c0aebdf2b3705e5e19) - Update blueprint.json to change landing page path for DataViews examples, ensuring correct navigation within the application. (November 06, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [aebee05](https://github.com/juanma-wp/.github/commit/aebee0566f503bce5e9d532e0398ef3e1bcfda7f) - Update README with latest posts (November 06, 2025)</em></small>
-- **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**
+- **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
+- **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
+  - <small><em>Last commit: [03b00ce](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/03b00ce70bc87e05b8a67264cd4c91f1ccf4098e) - Add live demo link to README and update landing page in blueprint.json (November 07, 2025)</em></small>
+- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
+  - <small><em>Last commit: [4e29b8b](https://github.com/juanma-wp/dataviews-dataform-examples/commit/4e29b8bbe8dba1d09c79e09f14927c9e19f60d64) - Update asset version in index.asset.php and adjust import paths in index.js for consistency. Modify CSS styles to enhance layout support for multiple root elements and improve overall structure across examples. (November 07, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
-  - <small><em>Last commit: [d378e71](https://github.com/juanma-wp/block-mermaid-diagram/commit/d378e71b918069ddacabf5c09ceb33c50e015a66) - Refactor view.js to improve Mermaid diagram initialization and rendering process (October 30, 2025)</em></small>
-- **[dataform-example](https://github.com/juanma-wp/dataform-example)**
-  - <small><em>Last commit: [807d27e](https://github.com/juanma-wp/dataform-example/commit/807d27ed86eb4e2018411627f348556784c6c56d) - Add README with issue report context (October 31, 2025)</em></small>
+  - <small><em>Last commit: [c2c5559](https://github.com/juanma-wp/block-mermaid-diagram/commit/c2c55595248515284cd1f0a0e380ad6cae0004f1) - Remove deprecated Mermaid library files to streamline asset management and improve build efficiency. (November 07, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [22629a8](https://github.com/juanma-wp/.github/commit/22629a8beeb850b93831637c526a7eaaf95d170a) - Update README with latest posts (November 07, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
