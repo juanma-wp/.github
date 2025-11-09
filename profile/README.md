@@ -34,6 +34,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [053af5f](https://github.com/juanma-wp/.github/commit/053af5fa6d45dc51d742babb179c16de4bf83029) - Update README with latest posts (November 08, 2025)</em></small>
 - **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 - **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
@@ -42,8 +44,6 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Last commit: [4e29b8b](https://github.com/juanma-wp/dataviews-dataform-examples/commit/4e29b8bbe8dba1d09c79e09f14927c9e19f60d64) - Update asset version in index.asset.php and adjust import paths in index.js for consistency. Modify CSS styles to enhance layout support for multiple root elements and improve overall structure across examples. (November 07, 2025)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
   - <small><em>Last commit: [c2c5559](https://github.com/juanma-wp/block-mermaid-diagram/commit/c2c55595248515284cd1f0a0e380ad6cae0004f1) - Remove deprecated Mermaid library files to streamline asset management and improve build efficiency. (November 07, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [22629a8](https://github.com/juanma-wp/.github/commit/22629a8beeb850b93831637c526a7eaaf95d170a) - Update README with latest posts (November 07, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
