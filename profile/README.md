@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Herramientas gratuitas para entender repositorios de GitHub más fácilmente](https://juanma.codes/2025/11/15/herramientas-gratuitas-para-entender-repositorios-de-github-mas-facilmente/) - November 15, 2025
 - [Cómo contribuir a Gutenberg: scripts NPM y configuración local](https://juanma.codes/2025/11/06/como-contribuir-a-gutenberg-scripts-npm-y-configuracion-local/) - November 06, 2025
 - [A DataViews-powered explorer for the Abilities API](https://juanma.codes/2025/11/02/a-dataviews-powered-explorer-for-the-abilities-api/) - November 02, 2025
 - [Enabling CORS in a Headless WordPress Setup](https://juanma.codes/2025/10/09/enabling-cors-in-a-headless-wordpress-setup/) - October 09, 2025
 - [My first MCP Server: WordPress Plugin Directory for LLMs](https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/) - September 25, 2025
-- [CodeRabbit CLI: Catch Issues Locally Before You Open a PR](https://juanma.codes/2025/09/25/coderabbit-cli-catch-issues-locally-before-you-open-a-pr/) - September 25, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [46eab2d](https://github.com/juanma-wp/.github/commit/46eab2d8cabc1453a5333778ddef0d5255caf9ac) - Update README with latest posts (November 14, 2025)</em></small>
+  - <small><em>Last commit: [a7bcef0](https://github.com/juanma-wp/.github/commit/a7bcef0933b5b697e250108325b001328d8621ce) - Update README with latest posts (November 15, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
