@@ -20,6 +20,7 @@ const MAX_ACTIVITY = 5;
 const MAX_RECENT_REPOS = 5;
 const MAX_STARRED_REPOS = 5;
 const GITHUB_ORG = 'juanma-wp';
+const GITHUB_USER = 'juanmaguitar'; // User account for starred repos
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Optional, improves rate limits
 const EXCLUDED_REPOS: string[] = []; // Repos to exclude from activity feed
 
@@ -437,9 +438,9 @@ async function fetchFeaturedRepos(orgName: string): Promise<RepoWithCommit[]> {
 }
 
 /**
- * Fetch starred repositories for the organization user.
+ * Fetch starred repositories for a user account.
  */
-async function fetchStarredRepos(orgName: string, maxRepos: number): Promise<StarredRepo[]> {
+async function fetchStarredRepos(username: string, maxRepos: number): Promise<StarredRepo[]> {
   try {
     // Prepare headers with token if available
     const headers: any = {
@@ -449,18 +450,18 @@ async function fetchStarredRepos(orgName: string, maxRepos: number): Promise<Sta
       headers['Authorization'] = `token ${GITHUB_TOKEN}`;
     }
 
-    // Get starred repositories for the organization/user
-    // Note: GitHub API uses the username for this endpoint, not org name
-    const starredUrl = `https://api.github.com/users/${orgName}/starred?per_page=${maxRepos}&sort=created&direction=desc`;
+    // Get starred repositories for the user
+    // This endpoint only works with user accounts, not organizations
+    const starredUrl = `https://api.github.com/users/${username}/starred?per_page=${maxRepos}&sort=created&direction=desc`;
 
     try {
       const starredResponse = await axios.get<StarredRepo[]>(starredUrl, { headers });
       const starredRepos = starredResponse.data.slice(0, maxRepos);
 
-      console.log(`Found ${starredRepos.length} starred repositories for ${orgName}`);
+      console.log(`Found ${starredRepos.length} starred repositories for user ${username}`);
       return starredRepos;
     } catch (error: any) {
-      console.error(`Could not fetch starred repos for ${orgName}:`, error.message);
+      console.error(`Could not fetch starred repos for user ${username}:`, error.message);
       return [];
     }
   } catch (error) {
@@ -777,8 +778,8 @@ async function main(): Promise<void> {
 
     // Fetch starred repos only if markers exist
     if (hasStarredRepos) {
-      console.log(`Fetching ${MAX_STARRED_REPOS} most recent starred repositories for ${GITHUB_ORG}...`);
-      const starredRepos = await fetchStarredRepos(GITHUB_ORG, MAX_STARRED_REPOS);
+      console.log(`Fetching ${MAX_STARRED_REPOS} most recent starred repositories for user ${GITHUB_USER}...`);
+      const starredRepos = await fetchStarredRepos(GITHUB_USER, MAX_STARRED_REPOS);
       console.log(`✓ Found ${starredRepos.length} starred repositories`);
       starredReposMarkdown = generateStarredReposMarkdown(starredRepos);
     } else {
