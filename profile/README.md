@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [789a93e](https://github.com/juanma-wp/.github/commit/789a93ecb422211052e280c7139ab61e424af3e9) - Merge branch 'main' of github.com:juanma-wp/.github (November 19, 2025)</em></small>
+  - <small><em>Last commit: [87928f1](https://github.com/juanma-wp/.github/commit/87928f13f5da116b5c903b81d00ceedf49354e75) - Merge branch 'main' of github.com:juanma-wp/.github (November 19, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -49,7 +49,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
-*No starred repositories found*
+- **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
+  - <small><em>Python • ⭐ 41,858</em></small>
+- **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
+  - <small><em>JavaScript • ⭐ 5</em></small>
+- **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
+  - <small><em>PHP • ⭐ 8</em></small>
+- **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
+  - <small><em>PHP • ⭐ 21</em></small>
+- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+  - <small><em>Shell • ⭐ 6,849</em></small>
 <!-- STARRED-REPOS:END -->
 
 
