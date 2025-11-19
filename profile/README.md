@@ -31,7 +31,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
 
-## 🔨 What else I've been working on on GitHub lately
+## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
@@ -45,6 +45,12 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
+
+## 👍 What I starred on GitHub lately
+
+<!-- STARRED-REPOS:START -->
+<!-- STARRED-REPOS:END -->
+
 
 ---
 
