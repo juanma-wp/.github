@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [758d835](https://github.com/juanma-wp/.github/commit/758d835fa2f39a234ebe8b8c3f32a257d45c96bc) - Add functionality to fetch and display starred repositories in README (November 19, 2025)</em></small>
+  - <small><em>Last commit: [789a93e](https://github.com/juanma-wp/.github/commit/789a93ecb422211052e280c7139ab61e424af3e9) - Merge branch 'main' of github.com:juanma-wp/.github (November 19, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -49,6 +49,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+*No starred repositories found*
 <!-- STARRED-REPOS:END -->
 
 
