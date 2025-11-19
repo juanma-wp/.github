@@ -11,37 +11,39 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [A practical symlink workflow for plugin development with WordPress Studio](https://juanma.codes/2025/11/18/a-practical-symlink-workflow-for-plugin-development-with-wordpress-studio/) - November 18, 2025
+- [Cómo contribuir a Gutenberg: scripts NPM y configuración local](https://juanma.codes/2025/11/06/como-contribuir-a-gutenberg-scripts-npm-y-configuracion-local/) - November 06, 2025
+- [A DataViews-powered explorer for the Abilities API](https://juanma.codes/2025/11/02/a-dataviews-powered-explorer-for-the-abilities-api/) - November 02, 2025
 - [Enabling CORS in a Headless WordPress Setup](https://juanma.codes/2025/10/09/enabling-cors-in-a-headless-wordpress-setup/) - October 09, 2025
 - [My first MCP Server: WordPress Plugin Directory for LLMs](https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/) - September 25, 2025
-- [CodeRabbit CLI: Catch Issues Locally Before You Open a PR](https://juanma.codes/2025/09/25/coderabbit-cli-catch-issues-locally-before-you-open-a-pr/) - September 25, 2025
-- [Fixing Composer’s “API Rate Limit Exceeded” Errors with a GitHub Token](https://juanma.codes/2025/09/24/fixing-composers-api-rate-limit-exceeded-errors-with-a-github-token/) - September 24, 2025
-- [Playing with Telex: Building a Mermaid Diagram Block in Just a Few Prompts](https://juanma.codes/2025/09/19/playing-with-telex-building-a-mermaid-diagram-block-in-just-a-few-prompts/) - September 19, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
+  - <small><em>Last commit: [915885d](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/915885d0cebd5597582190a99451b3e00c67b3fa) - Merge pull request #8 from juanma-wp/feature/deactivate-uninstall-wp-standards (November 16, 2025)</em></small>
+- **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**
+  - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
+- **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
+  - <small><em>Last commit: [163b973](https://github.com/juanma-wp/streams/commit/163b9732501cccb701a897b7a4dedb4fb8c9943f) - Add new session for 2025-10-31 titled "DataViews y DataForm" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added a DataForm example plugin with initial setup and functionality for testing DataViews. (October 31, 2025)</em></small>
 - **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
   - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
-- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
-  - <small><em>Last commit: [3aa1338](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/3aa1338bb91f1a210110d6323fd2638708fa3c11) - Update .gitignore and build-plugin.sh for improved project management (October 16, 2025)</em></small>
-- **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
-  - <small><em>Last commit: [aed4d9e](https://github.com/juanma-wp/streams/commit/aed4d9e591abad7d9744bbde07365f77ac2bfcbb) - Fix link for the session dated 2025-10-24 titled "DataViews y DataForm" in README.md to point to the correct README file, ensuring accurate documentation for Streams 2025. (October 24, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
 
 ## 🔨 What else I've been working on on GitHub lately
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [6c47ba9](https://github.com/juanma-wp/.github/commit/6c47ba9c58679e6c9ed63c71a1cae7e479c9dc4d) - Implement featured repositories section in README.md and enhance update logic in update-profile.ts (October 27, 2025)</em></small>
+  - <small><em>Last commit: [fa89aab](https://github.com/juanma-wp/.github/commit/fa89aabc8ca83c7f925b63621a7bb4b41b800a91) - Update README with latest posts (November 18, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
-  - <small><em>Last commit: [e5af37e](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/e5af37e376f33fcddc275cdec12e99a34dec0ee5) - Refactor RefreshTokenManager to remove cache group parameter (October 16, 2025)</em></small>
-- **[test-stream-abilities-api](https://github.com/juanma-wp/test-stream-abilities-api)**: A minimal WordPress plugin used to exercise the Abilities API and the WordPress MCP adapter.
-  - <small><em>Last commit: [8d26620](https://github.com/juanma-wp/test-stream-abilities-api/commit/8d26620b7b83431c98f92be327a60d5b85c744fc) - Remove MCP server creation from plugin.php and update README with new API URL and password. Clean up unused input schema code and delete error image assets to streamline the project. (October 20, 2025)</em></small>
-- **[meetup-cheltenham-workshop](https://github.com/juanma-wp/meetup-cheltenham-workshop)**
-  - <small><em>Last commit: [6adf4df](https://github.com/juanma-wp/meetup-cheltenham-workshop/commit/6adf4dfaa58ade258fac276f6ddc325273c37695) - Update README.md to change the live demo URL to the final export file in the meetup-cheltenham-workshop repository (October 14, 2025)</em></small>
-- **[oauth2-auth-pro-wp-rest-api](https://github.com/juanma-wp/oauth2-auth-pro-wp-rest-api)**
-  - <small><em>Last commit: [aa74451](https://github.com/juanma-wp/oauth2-auth-pro-wp-rest-api/commit/aa74451e1d4c208ddde3d566252ddfe29a71d7fd) - Update package-lock.json for Plugin Renaming and Dependency Versions (October 06, 2025)</em></small>
+  - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
+- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
+  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
+- **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
+  - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
+- **[wordpress-contributions-guides-nov-2025](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
+  - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ---
