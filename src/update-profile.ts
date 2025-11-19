@@ -93,6 +93,7 @@ interface StarredRepo {
   owner: {
     login: string;
   };
+  starred_at?: string; // Date when the repo was starred
 }
 
 /**
@@ -443,8 +444,9 @@ async function fetchFeaturedRepos(orgName: string): Promise<RepoWithCommit[]> {
 async function fetchStarredRepos(username: string, maxRepos: number): Promise<StarredRepo[]> {
   try {
     // Prepare headers with token if available
+    // Use the star media type to get the starred_at timestamp
     const headers: any = {
-      'Accept': 'application/vnd.github.v3+json'
+      'Accept': 'application/vnd.github.v3.star+json'
     };
     if (GITHUB_TOKEN) {
       headers['Authorization'] = `token ${GITHUB_TOKEN}`;
@@ -455,8 +457,14 @@ async function fetchStarredRepos(username: string, maxRepos: number): Promise<St
     const starredUrl = `https://api.github.com/users/${username}/starred?per_page=${maxRepos}&sort=created&direction=desc`;
 
     try {
-      const starredResponse = await axios.get<StarredRepo[]>(starredUrl, { headers });
-      const starredRepos = starredResponse.data.slice(0, maxRepos);
+      const starredResponse = await axios.get<any[]>(starredUrl, { headers });
+
+      // When using the star media type, the response structure is different
+      // Each item has { starred_at: string, repo: StarredRepo }
+      const starredRepos: StarredRepo[] = starredResponse.data.slice(0, maxRepos).map(item => ({
+        ...item.repo,
+        starred_at: item.starred_at
+      }));
 
       console.log(`Found ${starredRepos.length} starred repositories for user ${username}`);
       return starredRepos;
@@ -579,13 +587,21 @@ function generateStarredReposMarkdown(repos: StarredRepo[]): string {
       line += `: ${repo.description}`;
     }
 
-    // Add language and stars info
+    // Add language, stars info, and starred date
     const details: string[] = [];
     if (repo.language) {
       details.push(repo.language);
     }
     if (repo.stargazers_count > 0) {
       details.push(`⭐ ${repo.stargazers_count.toLocaleString()}`);
+    }
+    if (repo.starred_at) {
+      const starredDate = new Date(repo.starred_at).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: '2-digit'
+      });
+      details.push(`Starred on ${starredDate}`);
     }
 
     if (details.length > 0) {
