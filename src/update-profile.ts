@@ -18,6 +18,7 @@ const README_PATH = process.env.README_PATH || path.join(process.cwd(), 'profile
 const MAX_POSTS = 5;
 const MAX_ACTIVITY = 5;
 const MAX_RECENT_REPOS = 5;
+const MAX_STARRED_REPOS = 5;
 const GITHUB_ORG = 'juanma-wp';
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Optional, improves rate limits
 const EXCLUDED_REPOS: string[] = []; // Repos to exclude from activity feed
@@ -31,6 +32,8 @@ const REPOS_START_MARKER = '<!-- RECENT-REPOS:START -->';
 const REPOS_END_MARKER = '<!-- RECENT-REPOS:END -->';
 const FEATURED_START_MARKER = '<!-- FEATURED-REPOS:START -->';
 const FEATURED_END_MARKER = '<!-- FEATURED-REPOS:END -->';
+const STARRED_START_MARKER = '<!-- STARRED-REPOS:START -->';
+const STARRED_END_MARKER = '<!-- STARRED-REPOS:END -->';
 
 interface BlogPost {
   title: string;
@@ -77,6 +80,18 @@ interface GitHubRelease {
   tag_name: string;
   published_at: string;
   html_url: string;
+}
+
+interface StarredRepo {
+  name: string;
+  full_name: string;
+  html_url: string;
+  description?: string;
+  language?: string;
+  stargazers_count: number;
+  owner: {
+    login: string;
+  };
 }
 
 /**
@@ -422,6 +437,39 @@ async function fetchFeaturedRepos(orgName: string): Promise<RepoWithCommit[]> {
 }
 
 /**
+ * Fetch starred repositories for the organization user.
+ */
+async function fetchStarredRepos(orgName: string, maxRepos: number): Promise<StarredRepo[]> {
+  try {
+    // Prepare headers with token if available
+    const headers: any = {
+      'Accept': 'application/vnd.github.v3+json'
+    };
+    if (GITHUB_TOKEN) {
+      headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+    }
+
+    // Get starred repositories for the organization/user
+    // Note: GitHub API uses the username for this endpoint, not org name
+    const starredUrl = `https://api.github.com/users/${orgName}/starred?per_page=${maxRepos}&sort=created&direction=desc`;
+
+    try {
+      const starredResponse = await axios.get<StarredRepo[]>(starredUrl, { headers });
+      const starredRepos = starredResponse.data.slice(0, maxRepos);
+
+      console.log(`Found ${starredRepos.length} starred repositories for ${orgName}`);
+      return starredRepos;
+    } catch (error: any) {
+      console.error(`Could not fetch starred repos for ${orgName}:`, error.message);
+      return [];
+    }
+  } catch (error) {
+    console.error('Error fetching starred repos:', error);
+    return [];
+  }
+}
+
+/**
  * Generate markdown for recent repositories.
  */
 function generateRecentReposMarkdown(repos: RepoWithCommit[]): string {
@@ -512,6 +560,45 @@ function generateFeaturedReposMarkdown(repos: RepoWithCommit[]): string {
 }
 
 /**
+ * Generate markdown for starred repositories.
+ */
+function generateStarredReposMarkdown(repos: StarredRepo[]): string {
+  if (repos.length === 0) {
+    return `${STARRED_START_MARKER}\n*No starred repositories found*\n${STARRED_END_MARKER}`;
+  }
+
+  const lines = [STARRED_START_MARKER];
+
+  for (const repo of repos) {
+    // Start with repo name and owner
+    let line = `- **[${repo.full_name}](${repo.html_url})**`;
+
+    // Add description if available
+    if (repo.description) {
+      line += `: ${repo.description}`;
+    }
+
+    // Add language and stars info
+    const details: string[] = [];
+    if (repo.language) {
+      details.push(repo.language);
+    }
+    if (repo.stargazers_count > 0) {
+      details.push(`⭐ ${repo.stargazers_count.toLocaleString()}`);
+    }
+
+    if (details.length > 0) {
+      line += `\n  - <small><em>${details.join(' • ')}</em></small>`;
+    }
+
+    lines.push(line);
+  }
+
+  lines.push(STARRED_END_MARKER);
+  return lines.join('\n');
+}
+
+/**
  * Update a specific section in the README between markers.
  */
 function updateReadmeSection(
@@ -533,14 +620,15 @@ function updateReadmeSection(
 }
 
 /**
- * Update the README file with the latest posts, GitHub activity, recent repos, and featured repos.
+ * Update the README file with the latest posts, GitHub activity, recent repos, featured repos, and starred repos.
  */
 function updateReadme(
   readmePath: string,
   postsMarkdown: string,
   activityMarkdown: string,
   recentReposMarkdown: string,
-  featuredReposMarkdown: string
+  featuredReposMarkdown: string,
+  starredReposMarkdown: string
 ): void {
   let content = fs.readFileSync(readmePath, 'utf-8');
   let sectionsUpdated = 0;
@@ -589,6 +677,17 @@ function updateReadme(
     sectionsUpdated++;
   }
 
+  // Update starred repos section if markdown is provided
+  if (starredReposMarkdown) {
+    content = updateReadmeSection(
+      content,
+      STARRED_START_MARKER,
+      STARRED_END_MARKER,
+      starredReposMarkdown
+    );
+    sectionsUpdated++;
+  }
+
   if (sectionsUpdated > 0) {
     fs.writeFileSync(readmePath, content, 'utf-8');
     console.log(`✓ README updated successfully (${sectionsUpdated} section${sectionsUpdated === 1 ? '' : 's'} updated)`);
@@ -623,8 +722,9 @@ async function main(): Promise<void> {
     const hasGitHubActivity = hasMarkers(readmeContent, ACTIVITY_START_MARKER, ACTIVITY_END_MARKER);
     const hasRecentRepos = hasMarkers(readmeContent, REPOS_START_MARKER, REPOS_END_MARKER);
     const hasFeaturedRepos = hasMarkers(readmeContent, FEATURED_START_MARKER, FEATURED_END_MARKER);
+    const hasStarredRepos = hasMarkers(readmeContent, STARRED_START_MARKER, STARRED_END_MARKER);
 
-    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos && !hasFeaturedRepos) {
+    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos && !hasFeaturedRepos && !hasStarredRepos) {
       console.log('No update markers found in README. Nothing to update.');
       return;
     }
@@ -633,6 +733,7 @@ async function main(): Promise<void> {
     let activityMarkdown = '';
     let recentReposMarkdown = '';
     let featuredReposMarkdown = '';
+    let starredReposMarkdown = '';
 
     // Fetch blog posts only if markers exist
     if (hasBlogPosts) {
@@ -674,8 +775,18 @@ async function main(): Promise<void> {
       console.log('Featured repositories section not found in README, skipping...');
     }
 
+    // Fetch starred repos only if markers exist
+    if (hasStarredRepos) {
+      console.log(`Fetching ${MAX_STARRED_REPOS} most recent starred repositories for ${GITHUB_ORG}...`);
+      const starredRepos = await fetchStarredRepos(GITHUB_ORG, MAX_STARRED_REPOS);
+      console.log(`✓ Found ${starredRepos.length} starred repositories`);
+      starredReposMarkdown = generateStarredReposMarkdown(starredRepos);
+    } else {
+      console.log('Starred repositories section not found in README, skipping...');
+    }
+
     // Update README with only the sections that exist
-    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown, featuredReposMarkdown);
+    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown, featuredReposMarkdown, starredReposMarkdown);
 
     console.log('✓ Done!');
   } catch (error) {
