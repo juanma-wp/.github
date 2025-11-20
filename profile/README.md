@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f9bdbff](https://github.com/juanma-wp/.github/commit/f9bdbffa2cfa83b7ecbc03f43929b1824167fecd) - Update README with latest posts (November 20, 2025)</em></small>
+  - <small><em>Last commit: [fbd84ad](https://github.com/juanma-wp/.github/commit/fbd84ad26ed7a018bb07f690b6e12acbdb394bd9) - Revise README to replace "My latest starred Gists" section with "My latest highlighted Gists" and update the list of starred gists for improved visibility. (November 20, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -50,7 +50,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 42,489 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 42,493 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
@@ -58,22 +58,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
   - <small><em>PHP • ⭐ 21 • Starred on November 13, 2025</em></small>
 - **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-  - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
-  - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
+  - <small><em>Shell • ⭐ 6,878 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
 ## 💥 My latest highlighted Gists
 
 <!-- STARRED-GISTS:START -->
-- **[get-all-items-all-post-types.js](https://gist.github.com/juanmaguitar/0a4f8afb59252cf79d942f5cfce8b787)**
-  - <small><em>2 files • JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[registered-blocks-with-any-variation.js](https://gist.github.com/juanmaguitar/4f5581a54193b423f8ba208f23a290ec)**
-  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
-  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
-  - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
+*No starred gists found*
 <!-- STARRED-GISTS:END -->
 
 
