@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [7ef8b66](https://github.com/juanma-wp/media-manager-tutorial/commit/7ef8b66f36f49c016382a3aed020957c69b799d8) - Update export.xml to use 'main' branch for asset URLs (November 20, 2025)</em></small>
+  - <small><em>Last commit: [0f2a6be](https://github.com/juanma-wp/media-manager-tutorial/commit/0f2a6be44744b4c3680079c94b2c3c08d9263d9e) - Update export.xml to standardize asset URLs with date prefixes (November 20, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2bb16ff](https://github.com/juanma-wp/.github/commit/2bb16ff606ca2f30747d7cc4f9b741b3fee616a5) - Update README with latest posts (November 20, 2025)</em></small>
+  - <small><em>Last commit: [f16e74e](https://github.com/juanma-wp/.github/commit/f16e74e3914a3dae73fe17186b1504e711b58c8f) - Update README with latest posts (November 20, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -50,7 +50,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 42,507 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 42,509 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
@@ -73,6 +73,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
 - **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
   - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[State of Artificial Intelligence Integration in WordPress (October 2025)](https://gist.github.com/juanmaguitar/29c5a7b70d605a5a3b9ade1c23fe398a)**
+  - <small><em>Markdown • ⭐ 1 • Updated October 13, 2025</em></small>
 <!-- STARRED-GISTS:END -->
 
 
