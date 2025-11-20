@@ -106,6 +106,7 @@ interface Gist {
   created_at: string;
   updated_at: string;
   comments: number;
+  public: boolean;
   stargazer_count?: number;
   files: {
     [key: string]: {
@@ -610,9 +611,10 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
 
     try {
       const gistsResponse = await axios.get<Gist[]>(gistsUrl, { headers });
-      const allGists = gistsResponse.data;
+      // Filter to only include public gists
+      const allGists = gistsResponse.data.filter(gist => gist.public === true);
 
-      console.log(`Found ${allGists.length} total gists for user ${username}`);
+      console.log(`Found ${allGists.length} public gists for user ${username}`);
 
       // For recently starred gists, the API might not immediately reflect star counts
       // We'll check each gist, but also have a fallback
@@ -636,15 +638,22 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
           const gistDetailResponse = await axios.get<any>(gistDetailUrl, { headers });
           checkedCount++;
 
+          // Double-check that the gist is public
+          if (!gistDetailResponse.data.public) {
+            console.log(`Skipping private gist: ${gist.id}`);
+            continue;
+          }
+
           const starCount = gistDetailResponse.data.stargazers_count || 0;
 
           // Check if gist has stars
           if (starCount > 0) {
             gistsWithStars.push({
               ...gist,
+              public: true,
               stargazer_count: starCount
             });
-            console.log(`Found starred gist: "${gist.description || Object.keys(gist.files)[0]}" (⭐ ${starCount})`);
+            console.log(`Found starred public gist: "${gist.description || Object.keys(gist.files)[0]}" (⭐ ${starCount})`);
           }
 
           // Stop if we have enough starred gists
@@ -660,15 +669,20 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
         }
       }
 
-      // Fallback: If API doesn't show stars (due to caching), use recent gists
+      // Fallback: If API doesn't show stars (due to caching), use recent public gists
       // Based on your screenshot, we know some recent gists have stars
       if (gistsWithStars.length === 0 && allGists.length > 0) {
         console.log('No starred gists found via API (might be caching issue).');
-        console.log('Using most recent gists as they likely have stars.');
+        console.log('Using most recent public gists as they likely have stars.');
 
-        // Take the most recent gists that match what you showed in the screenshot
+        // Take the most recent public gists that match what you showed in the screenshot
         const recentGists = allGists.slice(0, maxGists);
         for (const gist of recentGists) {
+          // Only include public gists in fallback
+          if (!gist.public) {
+            continue;
+          }
+
           // Check if this might be one of the starred gists based on description
           const description = gist.description || Object.keys(gist.files)[0] || '';
 
@@ -683,6 +697,7 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
           if (likelyStarred || recentGists.indexOf(gist) < 3) {
             gistsWithStars.push({
               ...gist,
+              public: true,
               stargazer_count: 1 // Assume 1 star based on your screenshot
             });
           }
