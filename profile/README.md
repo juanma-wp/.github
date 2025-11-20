@@ -72,6 +72,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>PHP • ⭐ 21 • Starred on November 13, 2025</em></small>
 - **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
   - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
+  - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
