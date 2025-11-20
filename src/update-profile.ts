@@ -607,12 +607,32 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
     }
 
     // Get all gists for the user
+    // Note: When authenticated, this returns both public and private gists
+    // We need to explicitly filter for public ones
     const gistsUrl = `https://api.github.com/users/${username}/gists?per_page=50`;
 
     try {
       const gistsResponse = await axios.get<Gist[]>(gistsUrl, { headers });
-      // Filter to only include public gists
-      const allGists = gistsResponse.data.filter(gist => gist.public === true);
+      // Filter to only include public gists and exclude known private patterns
+      const allGists = gistsResponse.data.filter(gist => {
+        // Must be explicitly public
+        if (gist.public !== true) return false;
+
+        // Exclude gists with generic private names
+        const description = (gist.description || '').toLowerCase();
+        const firstFileName = Object.keys(gist.files)[0]?.toLowerCase() || '';
+
+        // Common names for private gists
+        const privatePatterns = ['snippets', 'private', 'secret', 'temp', 'test'];
+        if (privatePatterns.some(pattern =>
+          description === pattern || firstFileName === pattern
+        )) {
+          console.log(`Filtering out potentially private gist: "${gist.description || firstFileName}"`);
+          return false;
+        }
+
+        return true;
+      });
 
       console.log(`Found ${allGists.length} public gists for user ${username}`);
 
@@ -686,6 +706,13 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
           // Check if this might be one of the starred gists based on description
           const description = gist.description || Object.keys(gist.files)[0] || '';
 
+          // Skip "Snippets" and other likely private gists
+          const descLower = description.toLowerCase();
+          if (descLower === 'snippets' || descLower === 'private' || descLower === 'secret') {
+            console.log(`Skipping potentially private gist in fallback: "${description}"`);
+            continue;
+          }
+
           // These are the gists you showed as starred in your screenshot
           const likelyStarred =
             description.includes('Custom blocks registered') ||
@@ -694,7 +721,8 @@ async function fetchStarredGists(username: string, maxGists: number): Promise<Gi
             description.includes('get-all-items-all-post-types') ||
             description.includes('registered-blocks-with-any-variation');
 
-          if (likelyStarred || recentGists.indexOf(gist) < 3) {
+          // Only add if likely starred or in top positions and we need more
+          if (likelyStarred || (recentGists.indexOf(gist) < 5 && gistsWithStars.length < maxGists)) {
             gistsWithStars.push({
               ...gist,
               public: true,
