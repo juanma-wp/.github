@@ -29,7 +29,7 @@ jobs:
 
       - name: Update README with latest posts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: npm run update-profile
 
       - name: Commit and push if changed
