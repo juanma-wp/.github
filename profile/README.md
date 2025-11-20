@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [e741d91](https://github.com/juanma-wp/.github/commit/e741d91adc22e76ebe7670f3cb4f8261213ae2ac) - Update README with latest posts (November 20, 2025)</em></small>
+  - <small><em>Last commit: [5c1c06a](https://github.com/juanma-wp/.github/commit/5c1c06a9475d0b00e5e28c6ef48042cab818e20e) - Merge branch 'main' of github.com:juanma-wp/.github (November 20, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [9c044b5](https://github.com/juanma-wp/media-manager-tutorial/commit/9c044b58786b45d005d58de0eae4320a1b83ce94) - Remove deprecated installPlugin step from blueprint.json to streamline plugin installation process. (November 20, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
@@ -50,7 +50,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 42,519 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 42,520 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
