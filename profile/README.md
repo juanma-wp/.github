@@ -46,19 +46,6 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
-## 💥 My latest starred Gists
-
-<!-- STARRED-GISTS:START -->
-- **[get-all-items-all-post-types.js](https://gist.github.com/juanmaguitar/0a4f8afb59252cf79d942f5cfce8b787)**
-  - <small><em>2 files • JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[registered-blocks-with-any-variation.js](https://gist.github.com/juanmaguitar/4f5581a54193b423f8ba208f23a290ec)**
-  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
-  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
-  - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
-<!-- STARRED-GISTS:END -->
-
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
@@ -74,6 +61,20 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
   - <small><em>Shell • ⭐ 6,877 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
+
+
+## 💥 My latest highlighted Gists
+
+<!-- STARRED-GISTS:START -->
+- **[get-all-items-all-post-types.js](https://gist.github.com/juanmaguitar/0a4f8afb59252cf79d942f5cfce8b787)**
+  - <small><em>2 files • JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[registered-blocks-with-any-variation.js](https://gist.github.com/juanmaguitar/4f5581a54193b423f8ba208f23a290ec)**
+  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
+  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
+  - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
+<!-- STARRED-GISTS:END -->
 
 
 ---
