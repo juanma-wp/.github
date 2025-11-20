@@ -19,6 +19,7 @@ const MAX_POSTS = 5;
 const MAX_ACTIVITY = 5;
 const MAX_RECENT_REPOS = 5;
 const MAX_STARRED_REPOS = 5;
+const MAX_STARRED_GISTS = 5;
 const GITHUB_ORG = 'juanma-wp';
 const GITHUB_USER = 'juanmaguitar'; // User account for starred repos
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Optional, improves rate limits
@@ -35,6 +36,8 @@ const FEATURED_START_MARKER = '<!-- FEATURED-REPOS:START -->';
 const FEATURED_END_MARKER = '<!-- FEATURED-REPOS:END -->';
 const STARRED_START_MARKER = '<!-- STARRED-REPOS:START -->';
 const STARRED_END_MARKER = '<!-- STARRED-REPOS:END -->';
+const GISTS_START_MARKER = '<!-- STARRED-GISTS:START -->';
+const GISTS_END_MARKER = '<!-- STARRED-GISTS:END -->';
 
 interface BlogPost {
   title: string;
@@ -94,6 +97,26 @@ interface StarredRepo {
     login: string;
   };
   starred_at?: string; // Date when the repo was starred
+}
+
+interface Gist {
+  id: string;
+  html_url: string;
+  description?: string;
+  created_at: string;
+  updated_at: string;
+  comments: number;
+  stargazer_count?: number;
+  files: {
+    [key: string]: {
+      filename: string;
+      language?: string;
+      size: number;
+    };
+  };
+  owner: {
+    login: string;
+  };
 }
 
 /**
@@ -569,6 +592,70 @@ function generateFeaturedReposMarkdown(repos: RepoWithCommit[]): string {
 }
 
 /**
+ * Fetch gists with at least one star for a user account.
+ */
+async function fetchStarredGists(username: string, maxGists: number): Promise<Gist[]> {
+  try {
+    // Prepare headers with token if available
+    const headers: any = {
+      'Accept': 'application/vnd.github.v3+json'
+    };
+    if (GITHUB_TOKEN) {
+      headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+    }
+
+    // Get all gists for the user
+    const gistsUrl = `https://api.github.com/users/${username}/gists?per_page=100&sort=updated`;
+
+    try {
+      const gistsResponse = await axios.get<Gist[]>(gistsUrl, { headers });
+      const allGists = gistsResponse.data;
+
+      console.log(`Found ${allGists.length} total gists for user ${username}`);
+
+      // For each gist, we need to fetch its star count
+      // The list endpoint doesn't include star count, so we need individual fetches
+      const gistsWithStars: Gist[] = [];
+
+      for (const gist of allGists) {
+        try {
+          // Fetch individual gist details to get stargazer_count
+          const gistDetailUrl = `https://api.github.com/gists/${gist.id}`;
+          const gistDetailResponse = await axios.get<any>(gistDetailUrl, { headers });
+
+          // Only include gists with at least one star
+          if (gistDetailResponse.data.stargazers_count && gistDetailResponse.data.stargazers_count > 0) {
+            gistsWithStars.push({
+              ...gist,
+              stargazer_count: gistDetailResponse.data.stargazers_count
+            });
+          }
+        } catch (error) {
+          console.log(`Could not fetch details for gist ${gist.id}`);
+        }
+      }
+
+      // Sort by star count (descending) and then by updated date
+      gistsWithStars.sort((a, b) => {
+        const starDiff = (b.stargazer_count || 0) - (a.stargazer_count || 0);
+        if (starDiff !== 0) return starDiff;
+        return new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime();
+      });
+
+      const resultGists = gistsWithStars.slice(0, maxGists);
+      console.log(`Found ${gistsWithStars.length} starred gists, returning ${resultGists.length}`);
+      return resultGists;
+    } catch (error: any) {
+      console.error(`Could not fetch gists for user ${username}:`, error.message);
+      return [];
+    }
+  } catch (error) {
+    console.error('Error fetching starred gists:', error);
+    return [];
+  }
+}
+
+/**
  * Generate markdown for starred repositories.
  */
 function generateStarredReposMarkdown(repos: StarredRepo[]): string {
@@ -616,6 +703,69 @@ function generateStarredReposMarkdown(repos: StarredRepo[]): string {
 }
 
 /**
+ * Generate markdown for starred gists.
+ */
+function generateStarredGistsMarkdown(gists: Gist[]): string {
+  if (gists.length === 0) {
+    return `${GISTS_START_MARKER}\n*No starred gists found*\n${GISTS_END_MARKER}`;
+  }
+
+  const lines = [GISTS_START_MARKER];
+
+  for (const gist of gists) {
+    // Get the first filename as the main title
+    const filenames = Object.keys(gist.files);
+    const mainFile = filenames[0] || 'Gist';
+
+    // Start with gist title (first filename or description)
+    let line = `- **[${gist.description || mainFile}](${gist.html_url})**`;
+
+    // Add file details and metadata
+    const details: string[] = [];
+
+    // Add file count if more than one
+    if (filenames.length > 1) {
+      details.push(`${filenames.length} files`);
+    }
+
+    // Add primary language
+    const languages = new Set<string>();
+    for (const file of Object.values(gist.files)) {
+      if (file.language) {
+        languages.add(file.language);
+      }
+    }
+    if (languages.size > 0) {
+      details.push(Array.from(languages).slice(0, 2).join(', '));
+    }
+
+    // Add star count
+    if (gist.stargazer_count && gist.stargazer_count > 0) {
+      details.push(`⭐ ${gist.stargazer_count}`);
+    }
+
+    // Add last updated date
+    if (gist.updated_at) {
+      const updatedDate = new Date(gist.updated_at).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: '2-digit'
+      });
+      details.push(`Updated ${updatedDate}`);
+    }
+
+    if (details.length > 0) {
+      line += `\n  - <small><em>${details.join(' • ')}</em></small>`;
+    }
+
+    lines.push(line);
+  }
+
+  lines.push(GISTS_END_MARKER);
+  return lines.join('\n');
+}
+
+/**
  * Update a specific section in the README between markers.
  */
 function updateReadmeSection(
@@ -637,7 +787,7 @@ function updateReadmeSection(
 }
 
 /**
- * Update the README file with the latest posts, GitHub activity, recent repos, featured repos, and starred repos.
+ * Update the README file with the latest posts, GitHub activity, recent repos, featured repos, starred repos, and starred gists.
  */
 function updateReadme(
   readmePath: string,
@@ -645,7 +795,8 @@ function updateReadme(
   activityMarkdown: string,
   recentReposMarkdown: string,
   featuredReposMarkdown: string,
-  starredReposMarkdown: string
+  starredReposMarkdown: string,
+  starredGistsMarkdown: string
 ): void {
   let content = fs.readFileSync(readmePath, 'utf-8');
   let sectionsUpdated = 0;
@@ -705,6 +856,17 @@ function updateReadme(
     sectionsUpdated++;
   }
 
+  // Update starred gists section if markdown is provided
+  if (starredGistsMarkdown) {
+    content = updateReadmeSection(
+      content,
+      GISTS_START_MARKER,
+      GISTS_END_MARKER,
+      starredGistsMarkdown
+    );
+    sectionsUpdated++;
+  }
+
   if (sectionsUpdated > 0) {
     fs.writeFileSync(readmePath, content, 'utf-8');
     console.log(`✓ README updated successfully (${sectionsUpdated} section${sectionsUpdated === 1 ? '' : 's'} updated)`);
@@ -740,8 +902,9 @@ async function main(): Promise<void> {
     const hasRecentRepos = hasMarkers(readmeContent, REPOS_START_MARKER, REPOS_END_MARKER);
     const hasFeaturedRepos = hasMarkers(readmeContent, FEATURED_START_MARKER, FEATURED_END_MARKER);
     const hasStarredRepos = hasMarkers(readmeContent, STARRED_START_MARKER, STARRED_END_MARKER);
+    const hasStarredGists = hasMarkers(readmeContent, GISTS_START_MARKER, GISTS_END_MARKER);
 
-    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos && !hasFeaturedRepos && !hasStarredRepos) {
+    if (!hasBlogPosts && !hasGitHubActivity && !hasRecentRepos && !hasFeaturedRepos && !hasStarredRepos && !hasStarredGists) {
       console.log('No update markers found in README. Nothing to update.');
       return;
     }
@@ -751,6 +914,7 @@ async function main(): Promise<void> {
     let recentReposMarkdown = '';
     let featuredReposMarkdown = '';
     let starredReposMarkdown = '';
+    let starredGistsMarkdown = '';
 
     // Fetch blog posts only if markers exist
     if (hasBlogPosts) {
@@ -802,8 +966,18 @@ async function main(): Promise<void> {
       console.log('Starred repositories section not found in README, skipping...');
     }
 
+    // Fetch starred gists only if markers exist
+    if (hasStarredGists) {
+      console.log(`Fetching ${MAX_STARRED_GISTS} most starred gists for user ${GITHUB_USER}...`);
+      const starredGists = await fetchStarredGists(GITHUB_USER, MAX_STARRED_GISTS);
+      console.log(`✓ Found ${starredGists.length} starred gists`);
+      starredGistsMarkdown = generateStarredGistsMarkdown(starredGists);
+    } else {
+      console.log('Starred gists section not found in README, skipping...');
+    }
+
     // Update README with only the sections that exist
-    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown, featuredReposMarkdown, starredReposMarkdown);
+    updateReadme(README_PATH, postsMarkdown, activityMarkdown, recentReposMarkdown, featuredReposMarkdown, starredReposMarkdown, starredGistsMarkdown);
 
     console.log('✓ Done!');
   } catch (error) {

@@ -46,6 +46,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2025/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
+## 💥 My latest starred Gists
+
+<!-- STARRED-GISTS:START -->
+<!-- STARRED-GISTS:END -->
+
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
