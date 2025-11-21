@@ -34,10 +34,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [5c1c06a](https://github.com/juanma-wp/.github/commit/5c1c06a9475d0b00e5e28c6ef48042cab818e20e) - Merge branch 'main' of github.com:juanma-wp/.github (November 20, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [9c044b5](https://github.com/juanma-wp/media-manager-tutorial/commit/9c044b58786b45d005d58de0eae4320a1b83ce94) - Remove deprecated installPlugin step from blueprint.json to streamline plugin installation process. (November 20, 2025)</em></small>
+  - <small><em>Last commit: [bb72686](https://github.com/juanma-wp/media-manager-tutorial/commit/bb72686f6f88aa92d4ded986670bf2718aa9f895) - Update media management components to integrate EditMedia functionality (November 20, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [0e7914e](https://github.com/juanma-wp/.github/commit/0e7914e58ec92f340322135c080283fdb9b5c908) - Update README with latest posts (November 20, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -50,7 +50,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 42,520 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 42,852 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
@@ -58,7 +58,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
   - <small><em>PHP • ⭐ 21 • Starred on November 13, 2025</em></small>
 - **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-  - <small><em>Shell • ⭐ 6,878 • Starred on November 10, 2025</em></small>
+  - <small><em>Shell • ⭐ 6,898 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
