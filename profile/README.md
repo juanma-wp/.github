@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [bb72686](https://github.com/juanma-wp/media-manager-tutorial/commit/bb72686f6f88aa92d4ded986670bf2718aa9f895) - Update media management components to integrate EditMedia functionality (November 20, 2025)</em></small>
+  - <small><em>Last commit: [edb9777](https://github.com/juanma-wp/media-manager-tutorial/commit/edb9777c5fc7994e0fdf2bfb29b9fbf9afd51403) - Update media management layout and versioning for improved structure and styling (November 21, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0e7914e](https://github.com/juanma-wp/.github/commit/0e7914e58ec92f340322135c080283fdb9b5c908) - Update README with latest posts (November 20, 2025)</em></small>
+  - <small><em>Last commit: [7055ac7](https://github.com/juanma-wp/.github/commit/7055ac7dceaf2c2aa854ddba35d4243d3c558c5a) - Update README with latest posts (November 21, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -50,15 +50,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 42,852 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 43,172 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
   - <small><em>PHP • ⭐ 8 • Starred on November 17, 2025</em></small>
 - **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
-  - <small><em>PHP • ⭐ 21 • Starred on November 13, 2025</em></small>
+  - <small><em>PHP • ⭐ 22 • Starred on November 13, 2025</em></small>
 - **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-  - <small><em>Shell • ⭐ 6,898 • Starred on November 10, 2025</em></small>
+  - <small><em>Shell • ⭐ 6,936 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
