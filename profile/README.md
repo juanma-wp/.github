@@ -21,10 +21,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
-- **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
-  - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
   - <small><em>Last commit: [915885d](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/915885d0cebd5597582190a99451b3e00c67b3fa) - Merge pull request #8 from juanma-wp/feature/deactivate-uninstall-wp-standards (November 16, 2025)</em></small>
+- **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
+  - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [163b973](https://github.com/juanma-wp/streams/commit/163b9732501cccb701a897b7a4dedb4fb8c9943f) - Add new session for 2025-10-31 titled "DataViews y DataForm" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added a DataForm example plugin with initial setup and functionality for testing DataViews. (October 31, 2025)</em></small>
 - **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
@@ -34,31 +34,31 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
+  - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [edb9777](https://github.com/juanma-wp/media-manager-tutorial/commit/edb9777c5fc7994e0fdf2bfb29b9fbf9afd51403) - Update media management layout and versioning for improved structure and styling (November 21, 2025)</em></small>
+  - <small><em>Last commit: [c002aac](https://github.com/juanma-wp/media-manager-tutorial/commit/c002aac50a2d35fe70b846e1bb30f611d13d339b) - Enhance SidebarPanel functionality with dismissible messages and update versioning (November 22, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [7055ac7](https://github.com/juanma-wp/.github/commit/7055ac7dceaf2c2aa854ddba35d4243d3c558c5a) - Update README with latest posts (November 21, 2025)</em></small>
+  - <small><em>Last commit: [7c42b11](https://github.com/juanma-wp/.github/commit/7c42b119ad9af9508a2e8326b13920bfd9bf952f) - Update README with latest posts (November 22, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
-- **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
-  - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
+  - <small><em>PHP • ⭐ 99 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 43,172 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 43,451 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
   - <small><em>PHP • ⭐ 8 • Starred on November 17, 2025</em></small>
 - **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
   - <small><em>PHP • ⭐ 22 • Starred on November 13, 2025</em></small>
-- **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-  - <small><em>Shell • ⭐ 6,936 • Starred on November 10, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
