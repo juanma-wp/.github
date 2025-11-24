@@ -34,12 +34,12 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
+  - <small><em>Last commit: [85dc12d](https://github.com/juanma-wp/media-manager-tutorial/commit/85dc12d894ddc596b6de78495f1b908a528cee59) - Update index.asset.php version and refactor useMediaData for improved media fetching (November 23, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [a275642](https://github.com/juanma-wp/.github/commit/a27564265cb93293f43c5001adc748c3c783d7df) - Update README with latest posts (November 23, 2025)</em></small>
 - **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
   - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
-- **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [c002aac](https://github.com/juanma-wp/media-manager-tutorial/commit/c002aac50a2d35fe70b846e1bb30f611d13d339b) - Enhance SidebarPanel functionality with dismissible messages and update versioning (November 22, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [7c42b11](https://github.com/juanma-wp/.github/commit/7c42b119ad9af9508a2e8326b13920bfd9bf952f) - Update README with latest posts (November 22, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -52,7 +52,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 99 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 43,451 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 43,762 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
