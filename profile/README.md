@@ -34,31 +34,31 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
+  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [8783724](https://github.com/juanma-wp/.github/commit/8783724a096f89ff3050bd2e490ff1a653ae70cc) - Update README with latest posts (November 25, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [b8e604e](https://github.com/juanma-wp/media-manager-tutorial/commit/b8e604e147fdc68e5dcc51970c66b6ea148e8ce7) - Update index.asset.php version and refactor useMediaEditor for enhanced state management (November 24, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [d3ae6c0](https://github.com/juanma-wp/.github/commit/d3ae6c0cc9ec1f125ed24d8ff8db0a3578e3fe8b) - Update README with latest posts (November 24, 2025)</em></small>
 - **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
   - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
 - **[wp-rest-auth-toolkit](https://github.com/juanma-wp/wp-rest-auth-toolkit)**: Shared authentication utilities for WordPress REST API plugins - JWT encoding/decoding, OAuth2 helpers, refresh token management, and security utilities.
   - <small><em>Last commit: [747fcb0](https://github.com/juanma-wp/wp-rest-auth-toolkit/commit/747fcb030be36d5939c3dd5fae6d729ab0896e44) - Update version to 1.0.1 and enhance documentation in readme.txt (November 13, 2025)</em></small>
-- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
-  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
+  - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 99 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 44,053 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 44,294 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 - **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
   - <small><em>PHP • ⭐ 8 • Starred on November 17, 2025</em></small>
-- **[roots/post-content-to-markdown](https://github.com/roots/post-content-to-markdown)**: A WordPress plugin that serves post content as Markdown via Accept headers or query parameters.
-  - <small><em>PHP • ⭐ 22 • Starred on November 13, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
