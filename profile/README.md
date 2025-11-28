@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[interactivity-router-region-quiz](https://github.com/juanma-wp/interactivity-router-region-quiz)**
-  - <small><em>Last commit: [4df6434](https://github.com/juanma-wp/interactivity-router-region-quiz/commit/4df6434ed0055abf06759afee7b449da497b5af9) - first commit (November 26, 2025)</em></small>
+  - <small><em>Last commit: [02f0338](https://github.com/juanma-wp/interactivity-router-region-quiz/commit/02f03387feb62f6cf47138ba8e7b18986bb0f219) - Refactor URLs in export.xml to remove hardcoded links and use relative paths for better portability and maintainability. (November 27, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [6187241](https://github.com/juanma-wp/.github/commit/6187241d1e347a9b1c05d4941a81d8f45d7359e7) - Update README with latest posts (November 26, 2025)</em></small>
+  - <small><em>Last commit: [2c73b29](https://github.com/juanma-wp/.github/commit/2c73b2952a95e9537fc8b2bae8dbb65f56feb325) - Update README with latest posts (November 27, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
@@ -49,16 +49,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+  - <small><em>⭐ 98,165 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 99 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 44,514 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 45,019 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
-- **[x3p0-dev/x3p0-media-data](https://github.com/x3p0-dev/x3p0-media-data)**: 📸 Media data in the block editor.
-  - <small><em>PHP • ⭐ 9 • Starred on November 17, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
