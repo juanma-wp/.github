@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [State of the Word 2025, el día después](https://juanma.codes/2025/12/03/state-of-the-word-2025-el-dia-despues/) - December 03, 2025
+- [WordPress 6.9 “Gene” ya está aqui!](https://juanma.codes/2025/12/03/wordpress-6-9-gene-ya-esta-aqui/) - December 03, 2025
+- [Quedadas WordPress: CINCO novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/03/quedadas-wordpress-cinco-novedades-para-desarrolladores-en-wordpress-6-9/) - December 03, 2025
 - [A practical symlink workflow for plugin development with WordPress Studio](https://juanma.codes/2025/11/18/a-practical-symlink-workflow-for-plugin-development-with-wordpress-studio/) - November 18, 2025
 - [Cómo contribuir a Gutenberg: scripts NPM y configuración local](https://juanma.codes/2025/11/06/como-contribuir-a-gutenberg-scripts-npm-y-configuracion-local/) - November 06, 2025
-- [A DataViews-powered explorer for the Abilities API](https://juanma.codes/2025/11/02/a-dataviews-powered-explorer-for-the-abilities-api/) - November 02, 2025
-- [Enabling CORS in a Headless WordPress Setup](https://juanma.codes/2025/10/09/enabling-cors-in-a-headless-wordpress-setup/) - October 09, 2025
-- [My first MCP Server: WordPress Plugin Directory for LLMs](https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/) - September 25, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -34,10 +34,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [e150a03](https://github.com/juanma-wp/.github/commit/e150a03965f758aca11cc4178c1d5addb90c68c3) - Update README with latest posts (December 03, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [5099394](https://github.com/juanma-wp/media-manager-tutorial/commit/5099394c33ba54348e0a50c49fbf0e5c50b86845) - Update index.asset.php version and modify fields.js for improved functionality (December 02, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [3c9a064](https://github.com/juanma-wp/.github/commit/3c9a064f5bf76f140bb5aafaab723daea8608380) - Update README with latest posts (December 02, 2025)</em></small>
 - **[interactivity-router-region-quiz](https://github.com/juanma-wp/interactivity-router-region-quiz)**
   - <small><em>Last commit: [02f0338](https://github.com/juanma-wp/interactivity-router-region-quiz/commit/02f03387feb62f6cf47138ba8e7b18986bb0f219) - Refactor URLs in export.xml to remove hardcoded links and use relative paths for better portability and maintainability. (November 27, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -50,13 +50,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 98,968 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 99,147 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 100 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 46,352 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 46,571 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 <!-- STARRED-REPOS:END -->
