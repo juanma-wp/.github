@@ -22,7 +22,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- FEATURED-REPOS:START -->
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
-  - <small><em>Last commit: [163b973](https://github.com/juanma-wp/streams/commit/163b9732501cccb701a897b7a4dedb4fb8c9943f) - Add new session for 2025-10-31 titled "DataViews y DataForm" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added a DataForm example plugin with initial setup and functionality for testing DataViews. (October 31, 2025)</em></small>
+  - <small><em>Last commit: [cb98998](https://github.com/juanma-wp/streams/commit/cb989984071dc58699beced59ab755e15d4cf306) - Add new session for 2025-12-05 titled "API de la Paleta de Comandos" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added initial setup for the Command Palette Expander Plugin with dynamic command registration and functionality for toggling custom fields in the WordPress editor. (December 05, 2025)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
   - <small><em>Last commit: [915885d](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/915885d0cebd5597582190a99451b3e00c67b3fa) - Merge pull request #8 from juanma-wp/feature/deactivate-uninstall-wp-standards (November 16, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
@@ -34,14 +34,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
+  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [9aeb596](https://github.com/juanma-wp/.github/commit/9aeb596d5d57bf6e55b9d2e1723552af056ff82a) - Update README with latest posts (December 04, 2025)</em></small>
+  - <small><em>Last commit: [75fabf9](https://github.com/juanma-wp/.github/commit/75fabf980d1e6b4b093fdde5bc2d8439800d4524) - Update README with latest posts (December 05, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [5099394](https://github.com/juanma-wp/media-manager-tutorial/commit/5099394c33ba54348e0a50c49fbf0e5c50b86845) - Update index.asset.php version and modify fields.js for improved functionality (December 02, 2025)</em></small>
 - **[interactivity-router-region-quiz](https://github.com/juanma-wp/interactivity-router-region-quiz)**
   - <small><em>Last commit: [02f0338](https://github.com/juanma-wp/interactivity-router-region-quiz/commit/02f03387feb62f6cf47138ba8e7b18986bb0f219) - Refactor URLs in export.xml to remove hardcoded links and use relative paths for better portability and maintainability. (November 27, 2025)</em></small>
-- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
-  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[wcv2025-extending-core-blocks-iapi](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi)**
   - <small><em>Last commit: [964524a](https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi/commit/964524a7dfcd3df128ab63d1fd597c4d0347675d) - Update image source in README.md (November 10, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
@@ -50,13 +50,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 99,391 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 99,573 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 100 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 46,836 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 46,994 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 <!-- STARRED-REPOS:END -->
