@@ -21,10 +21,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
+  - <small><em>Last commit: [a4f22bd](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/a4f22bda4f82000217ffb8c71e08385ef856d1e1) - Merge branch 'main' of github.com:juanma-wp/jwt-auth-pro-wp-rest-api (December 09, 2025)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [cb98998](https://github.com/juanma-wp/streams/commit/cb989984071dc58699beced59ab755e15d4cf306) - Add new session for 2025-12-05 titled "API de la Paleta de Comandos" in README.md, enhancing documentation for Streams 2025 with a link to the session's README. Introduced a new README file for the session, including resource links and a thumbnail image. Added initial setup for the Command Palette Expander Plugin with dynamic command registration and functionality for toggling custom fields in the WordPress editor. (December 05, 2025)</em></small>
-- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
-  - <small><em>Last commit: [915885d](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/915885d0cebd5597582190a99451b3e00c67b3fa) - Merge pull request #8 from juanma-wp/feature/deactivate-uninstall-wp-standards (November 16, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
   - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
 - **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
@@ -34,12 +34,12 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [31d07df](https://github.com/juanma-wp/.github/commit/31d07df28c340c4bcde664c5eb91bcb9dfa5603c) - Update README with latest posts (December 09, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[command-palette-notes](https://github.com/juanma-wp/command-palette-notes)**
   - <small><em>Last commit: [675c598](https://github.com/juanma-wp/command-palette-notes/commit/675c598b4d9b465f00416c69274d834dc2065ade) - Initialize Command Palette Notes Plugin with essential files and configurations (December 08, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [aa15881](https://github.com/juanma-wp/.github/commit/aa1588113e13c1536332ee13f6bc132947786f03) - Update README with latest posts (December 08, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [5099394](https://github.com/juanma-wp/media-manager-tutorial/commit/5099394c33ba54348e0a50c49fbf0e5c50b86845) - Update index.asset.php version and modify fields.js for improved functionality (December 02, 2025)</em></small>
 - **[interactivity-router-region-quiz](https://github.com/juanma-wp/interactivity-router-region-quiz)**
@@ -50,13 +50,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 99,959 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 100,106 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 100 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 47,307 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 47,384 • Starred on November 19, 2025</em></small>
 - **[wptrainingteam/refactoring-multi-block-plugin](https://github.com/wptrainingteam/refactoring-multi-block-plugin)**: An example repo to accompany a WordPress Developer Blog article about building a multi-block plugin. 
   - <small><em>JavaScript • ⭐ 5 • Starred on November 18, 2025</em></small>
 <!-- STARRED-REPOS:END -->
