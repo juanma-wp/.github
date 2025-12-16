@@ -34,16 +34,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
+  - <small><em>Last commit: [abc98a9](https://github.com/juanma-wp/word-switcher-core-blocks/commit/abc98a9126681a2ca11f9ea0707ce8cb2df38fa9) - Step 6 - Adding Styles and Animation (December 15, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f638eaa](https://github.com/juanma-wp/.github/commit/f638eaa3582a8da2e754375cb10b50985b445c37) - Update README with latest posts (December 14, 2025)</em></small>
+  - <small><em>Last commit: [f716b26](https://github.com/juanma-wp/.github/commit/f716b26bdbdea5fe1166700924f58fc92d3e0fb6) - Update README with latest posts (December 15, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[command-palette-notes](https://github.com/juanma-wp/command-palette-notes)**
   - <small><em>Last commit: [675c598](https://github.com/juanma-wp/command-palette-notes/commit/675c598b4d9b465f00416c69274d834dc2065ade) - Initialize Command Palette Notes Plugin with essential files and configurations (December 08, 2025)</em></small>
 - **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
   - <small><em>Last commit: [5099394](https://github.com/juanma-wp/media-manager-tutorial/commit/5099394c33ba54348e0a50c49fbf0e5c50b86845) - Update index.asset.php version and modify fields.js for improved functionality (December 02, 2025)</em></small>
-- **[interactivity-router-region-quiz](https://github.com/juanma-wp/interactivity-router-region-quiz)**
-  - <small><em>Last commit: [02f0338](https://github.com/juanma-wp/interactivity-router-region-quiz/commit/02f03387feb62f6cf47138ba8e7b18986bb0f219) - Refactor URLs in export.xml to remove hardcoded links and use relative paths for better portability and maintainability. (November 27, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 100,588 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 100,708 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 100 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 47,740 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 47,800 • Starred on November 19, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
