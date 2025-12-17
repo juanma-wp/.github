@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
-  - <small><em>Last commit: [abc98a9](https://github.com/juanma-wp/word-switcher-core-blocks/commit/abc98a9126681a2ca11f9ea0707ce8cb2df38fa9) - Step 6 - Adding Styles and Animation (December 15, 2025)</em></small>
+  - <small><em>Last commit: [4421e2c](https://github.com/juanma-wp/word-switcher-core-blocks/commit/4421e2cfde19e6b720772de03bad23210f0da174) - Step 6 - Adding Styles and Animation (December 16, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f716b26](https://github.com/juanma-wp/.github/commit/f716b26bdbdea5fe1166700924f58fc92d3e0fb6) - Update README with latest posts (December 15, 2025)</em></small>
+  - <small><em>Last commit: [78c44bb](https://github.com/juanma-wp/.github/commit/78c44bb192d9368a440a95e7edfa819cea62ca65) - Update README with latest posts (December 16, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[command-palette-notes](https://github.com/juanma-wp/command-palette-notes)**
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 100,708 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 100,819 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
   - <small><em>PHP • ⭐ 100 • Starred on November 22, 2025</em></small>
 - **[Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)**: all of the workflows of n8n i could find (also from the site itself)
-  - <small><em>Python • ⭐ 47,800 • Starred on November 19, 2025</em></small>
+  - <small><em>Python • ⭐ 47,878 • Starred on November 19, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
