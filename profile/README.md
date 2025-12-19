@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/18/novedades-para-desarrolladores-en-wordpress-6-9/) - December 18, 2025
 - [Registering Custom Commands for the WordPress Command Palette in different contexts](https://juanma.codes/2025/12/08/registering-custom-commands-for-the-wordpress-command-palette-in-different-contexts/) - December 08, 2025
 - [State of the Word 2025, el día después](https://juanma.codes/2025/12/03/state-of-the-word-2025-el-dia-despues/) - December 03, 2025
 - [WordPress 6.9 “Gene” ya está aqui!](https://juanma.codes/2025/12/03/wordpress-6-9-gene-ya-esta-aqui/) - December 03, 2025
 - [Quedadas WordPress: CINCO novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/02/quedadas-wordpress-cinco-novedades-para-desarrolladores-en-wordpress-6-9/) - December 02, 2025
-- [A practical symlink workflow for plugin development with WordPress Studio](https://juanma.codes/2025/11/18/a-practical-symlink-workflow-for-plugin-development-with-wordpress-studio/) - November 18, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [a15c882](https://github.com/juanma-wp/.github/commit/a15c882aa748e482b9697820b4015f4864893488) - Update README with latest posts (December 17, 2025)</em></small>
+  - <small><em>Last commit: [185efcc](https://github.com/juanma-wp/.github/commit/185efccacebb27e0a4da22627d288d709dbbefe0) - Update README with latest posts (December 18, 2025)</em></small>
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
   - <small><em>Last commit: [4421e2c](https://github.com/juanma-wp/word-switcher-core-blocks/commit/4421e2cfde19e6b720772de03bad23210f0da174) - Step 6 - Adding Styles and Animation (December 16, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
@@ -54,7 +54,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 100,952 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 101,056 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 - **[akirk/friends](https://github.com/akirk/friends)**: A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
