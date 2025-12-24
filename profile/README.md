@@ -34,16 +34,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
+  - <small><em>Last commit: [62aaeea](https://github.com/juanma-wp/demo-plugin-with-tests/commit/62aaeeacde76a82e8470e43b4e9ea39771fdbfcf) - Update README.md to include GitHub Actions badge for testing status (December 23, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2bd1992](https://github.com/juanma-wp/.github/commit/2bd19927b9c721072d4b0ef13da83df3087d9b51) - Update README with latest posts (December 22, 2025)</em></small>
+  - <small><em>Last commit: [1703e71](https://github.com/juanma-wp/.github/commit/1703e71338243809c3210e127c7fe2e49297cf4c) - Update README with latest posts (December 23, 2025)</em></small>
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
   - <small><em>Last commit: [941d74c](https://github.com/juanma-wp/word-switcher-core-blocks/commit/941d74ce095443f3723887311573f6a2349648d0) - README.md and build styles (December 21, 2025)</em></small>
 - **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
   - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 - **[command-palette-notes](https://github.com/juanma-wp/command-palette-notes)**
   - <small><em>Last commit: [675c598](https://github.com/juanma-wp/command-palette-notes/commit/675c598b4d9b465f00416c69274d834dc2065ade) - Initialize Command Palette Notes Plugin with essential files and configurations (December 08, 2025)</em></small>
-- **[media-manager-tutorial](https://github.com/juanma-wp/media-manager-tutorial)**
-  - <small><em>Last commit: [5099394](https://github.com/juanma-wp/media-manager-tutorial/commit/5099394c33ba54348e0a50c49fbf0e5c50b86845) - Update index.asset.php version and modify fields.js for improved functionality (December 02, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
@@ -52,11 +52,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
   - <small><em>Python • ⭐ 6 • Starred on December 19, 2025</em></small>
 - **[jonathanbossenger/wp-mail](https://github.com/jonathanbossenger/wp-mail)**: An app to log and view emails sent from a WordPress Studio local site
-  - <small><em>JavaScript • ⭐ 2 • Starred on December 17, 2025</em></small>
+  - <small><em>JavaScript • ⭐ 3 • Starred on December 17, 2025</em></small>
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 101,471 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 101,795 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 <!-- STARRED-REPOS:END -->
