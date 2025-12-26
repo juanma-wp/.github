@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
-  - <small><em>Last commit: [340b23d](https://github.com/juanma-wp/detect-site-post-editor/commit/340b23d05a181ae2fb66c85fa281534d1c5f62b3) - Update Playwright configuration to always reuse existing server for tests, improving test execution efficiency. (December 24, 2025)</em></small>
+  - <small><em>Last commit: [ed2ad19](https://github.com/juanma-wp/detect-site-post-editor/commit/ed2ad1992bee6562c27fdef28daa953ef3cd0121) - Add E2E tests for conditional rendering components (December 25, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [bfacd41](https://github.com/juanma-wp/.github/commit/bfacd416b64a574ee6bd225d21fa46565ef3b5e7) - Update README with latest posts (December 24, 2025)</em></small>
+  - <small><em>Last commit: [cea3927](https://github.com/juanma-wp/.github/commit/cea3927cd39c387455e7a1db4ad074eedd93f7f1) - Update README with latest posts (December 25, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
   - <small><em>Last commit: [62aaeea](https://github.com/juanma-wp/demo-plugin-with-tests/commit/62aaeeacde76a82e8470e43b4e9ea39771fdbfcf) - Update README.md to include GitHub Actions badge for testing status (December 23, 2025)</em></small>
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
@@ -56,7 +56,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 102,039 • Starred on November 27, 2025</em></small>
+  - <small><em>⭐ 102,210 • Starred on November 27, 2025</em></small>
 - **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
   - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
 <!-- STARRED-REPOS:END -->
