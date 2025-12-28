@@ -35,9 +35,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
-  - <small><em>Last commit: [9cb44ad](https://github.com/juanma-wp/detect-site-post-editor/commit/9cb44ad391bac7106308848ce0ac93545e91aa48) - Enhance debug logging in CombinedConditionsComponent E2E tests to capture all console and page error logs. This improves troubleshooting capabilities by providing comprehensive visibility into rendering conditions and errors during tests. (December 26, 2025)</em></small>
+  - <small><em>Last commit: [b573fbe](https://github.com/juanma-wp/detect-site-post-editor/commit/b573fbe7c9b6ca798c3d80b409fb438b401dd79c) - Add E2E tests for ExcludePostTypesComponent to verify rendering behavior based on post types. Tests ensure the component is visible for non-excluded post types and not visible for excluded types like 'wp_block' and in the Site Editor, enhancing coverage for conditional rendering scenarios. (December 27, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [186d68c](https://github.com/juanma-wp/.github/commit/186d68c19790eca74836e7530cd8851b0ecfd38a) - Update README with latest posts (December 26, 2025)</em></small>
+  - <small><em>Last commit: [8f8cecf](https://github.com/juanma-wp/.github/commit/8f8cecf766136619756726cf7a876871d8115ecf) - Update README with latest posts (December 27, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
   - <small><em>Last commit: [62aaeea](https://github.com/juanma-wp/demo-plugin-with-tests/commit/62aaeeacde76a82e8470e43b4e9ea39771fdbfcf) - Update README.md to include GitHub Actions badge for testing status (December 23, 2025)</em></small>
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
@@ -49,6 +49,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+  - <small><em>Python • ⭐ 12,053 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
   - <small><em>Python • ⭐ 7 • Starred on December 19, 2025</em></small>
 - **[jonathanbossenger/wp-mail](https://github.com/jonathanbossenger/wp-mail)**: An app to log and view emails sent from a WordPress Studio local site
@@ -56,9 +58,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 - **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 102,413 • Starred on November 27, 2025</em></small>
-- **[ryanwelcher/mastering-the-interactivity-api](https://github.com/ryanwelcher/mastering-the-interactivity-api)**
-  - <small><em>JavaScript • ⭐ 5 • Starred on November 25, 2025</em></small>
+  - <small><em>⭐ 102,639 • Starred on November 27, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
