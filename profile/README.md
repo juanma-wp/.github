@@ -34,10 +34,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [e631e18](https://github.com/juanma-wp/.github/commit/e631e18120d5b188c30cacafaa03a0acb45a8c0e) - Update README with latest posts (December 31, 2025)</em></small>
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
   - <small><em>Last commit: [07960b3](https://github.com/juanma-wp/detect-site-post-editor/commit/07960b3ebc79d0f2c3f98f65668fd04d28659c22) - Update README to include new components for detecting editor mode, selected block type, and sidebar state, along with site editor context detection. Enhance examples and test references to reflect these additions, ensuring clarity on conditional rendering capabilities. (December 30, 2025)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [b03ab4d](https://github.com/juanma-wp/.github/commit/b03ab4d4f560807a9ae5f07d11ea683fdfd9eb04) - Update README with latest posts (December 30, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
   - <small><em>Last commit: [62aaeea](https://github.com/juanma-wp/demo-plugin-with-tests/commit/62aaeeacde76a82e8470e43b4e9ea39771fdbfcf) - Update README.md to include GitHub Actions badge for testing status (December 23, 2025)</em></small>
 - **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
@@ -49,16 +49,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
+  - <small><em>JavaScript • ⭐ 25 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 13,034 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 13,486 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
   - <small><em>Python • ⭐ 8 • Starred on December 19, 2025</em></small>
 - **[jonathanbossenger/wp-mail](https://github.com/jonathanbossenger/wp-mail)**: An app to log and view emails sent from a WordPress Studio local site
   - <small><em>JavaScript • ⭐ 3 • Starred on December 17, 2025</em></small>
 - **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
   - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
-- **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-  - <small><em>⭐ 104,116 • Starred on November 27, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
