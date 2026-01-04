@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [c988ba7](https://github.com/juanma-wp/.github/commit/c988ba771350573dddb69dfa9ccb6333c90a5e53) - Update README with latest posts (January 02, 2026)</em></small>
+  - <small><em>Last commit: [f28d6fc](https://github.com/juanma-wp/.github/commit/f28d6fc0b0f7a48efef425f0283dfbd1e4a6db50) - Update README with latest posts (January 03, 2026)</em></small>
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
   - <small><em>Last commit: [07960b3](https://github.com/juanma-wp/detect-site-post-editor/commit/07960b3ebc79d0f2c3f98f65668fd04d28659c22) - Update README to include new components for detecting editor mode, selected block type, and sidebar state, along with site editor context detection. Enhance examples and test references to reflect these additions, ensuring clarity on conditional rendering capabilities. (December 30, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
@@ -49,16 +49,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
+  - <small><em>C# • ⭐ 595 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
   - <small><em>JavaScript • ⭐ 27 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 13,985 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 14,201 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
   - <small><em>Python • ⭐ 8 • Starred on December 19, 2025</em></small>
 - **[jonathanbossenger/wp-mail](https://github.com/jonathanbossenger/wp-mail)**: An app to log and view emails sent from a WordPress Studio local site
   - <small><em>JavaScript • ⭐ 3 • Starred on December 17, 2025</em></small>
-- **[emdashcodes/claude-code-plugins](https://github.com/emdashcodes/claude-code-plugins)**: Claude Code plugins featuring specialized agents, commands, and development skills.
-  - <small><em>TypeScript • ⭐ 4 • Starred on December 14, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
