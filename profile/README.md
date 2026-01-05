@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Detecting and Controlling Sidebars in the Block Editor](https://juanma.codes/2026/01/04/detecting-and-controlling-sidebars-in-the-block-editor/) - January 04, 2026
 - [Adding Interactivity to Core Blocks with the Interactivity API](https://juanma.codes/2025/12/24/adding-interactivity-to-core-blocks-with-the-interactivity-api/) - December 24, 2025
 - [Novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/18/novedades-para-desarrolladores-en-wordpress-6-9/) - December 18, 2025
 - [Registering Custom Commands for the WordPress Command Palette in different contexts](https://juanma.codes/2025/12/08/registering-custom-commands-for-the-wordpress-command-palette-in-different-contexts/) - December 08, 2025
 - [State of the Word 2025, el día después](https://juanma.codes/2025/12/03/state-of-the-word-2025-el-dia-despues/) - December 03, 2025
-- [WordPress 6.9 “Gene” ya está aqui!](https://juanma.codes/2025/12/03/wordpress-6-9-gene-ya-esta-aqui/) - December 03, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f28d6fc](https://github.com/juanma-wp/.github/commit/f28d6fc0b0f7a48efef425f0283dfbd1e4a6db50) - Update README with latest posts (January 03, 2026)</em></small>
+  - <small><em>Last commit: [a6ca065](https://github.com/juanma-wp/.github/commit/a6ca06566e3d45a9f93148c784a54d954351d2ed) - Update README with latest posts (January 04, 2026)</em></small>
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
   - <small><em>Last commit: [07960b3](https://github.com/juanma-wp/detect-site-post-editor/commit/07960b3ebc79d0f2c3f98f65668fd04d28659c22) - Update README to include new components for detecting editor mode, selected block type, and sidebar state, along with site editor context detection. Enhance examples and test references to reflect these additions, ensuring clarity on conditional rendering capabilities. (December 30, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
@@ -49,16 +49,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
+  - <small><em>TypeScript • ⭐ 3,171 • Starred on January 04, 2026</em></small>
 - **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 595 • Starred on January 03, 2026</em></small>
+  - <small><em>C# • ⭐ 637 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
   - <small><em>JavaScript • ⭐ 27 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 14,201 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 14,578 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
   - <small><em>Python • ⭐ 8 • Starred on December 19, 2025</em></small>
-- **[jonathanbossenger/wp-mail](https://github.com/jonathanbossenger/wp-mail)**: An app to log and view emails sent from a WordPress Studio local site
-  - <small><em>JavaScript • ⭐ 3 • Starred on December 17, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
