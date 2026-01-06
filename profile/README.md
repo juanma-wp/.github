@@ -35,7 +35,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [a6ca065](https://github.com/juanma-wp/.github/commit/a6ca06566e3d45a9f93148c784a54d954351d2ed) - Update README with latest posts (January 04, 2026)</em></small>
+  - <small><em>Last commit: [08ec5f6](https://github.com/juanma-wp/.github/commit/08ec5f668d63d29d43ab0d55b4dcb637e0560115) - Update README with latest posts (January 05, 2026)</em></small>
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
   - <small><em>Last commit: [07960b3](https://github.com/juanma-wp/detect-site-post-editor/commit/07960b3ebc79d0f2c3f98f65668fd04d28659c22) - Update README to include new components for detecting editor mode, selected block type, and sidebar state, along with site editor context detection. Enhance examples and test references to reflect these additions, ensuring clarity on conditional rendering capabilities. (December 30, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
@@ -50,15 +50,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 3,171 • Starred on January 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,457 • Starred on January 04, 2026</em></small>
 - **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 637 • Starred on January 03, 2026</em></small>
+  - <small><em>C# • ⭐ 683 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
-  - <small><em>JavaScript • ⭐ 27 • Starred on December 31, 2025</em></small>
+  - <small><em>JavaScript • ⭐ 30 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 14,578 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 15,002 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
-  - <small><em>Python • ⭐ 8 • Starred on December 19, 2025</em></small>
+  - <small><em>Python • ⭐ 10 • Starred on December 19, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
