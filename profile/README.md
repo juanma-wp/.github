@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Conditionally Executing Code in Different WordPress Block Editor Contexts](https://juanma.codes/2026/01/06/conditionally-executing-code-in-different-wordpress-block-editor-contexts/) - January 06, 2026
 - [Detecting and Controlling Sidebars in the Block Editor](https://juanma.codes/2026/01/04/detecting-and-controlling-sidebars-in-the-block-editor/) - January 04, 2026
 - [Adding Interactivity to Core Blocks with the Interactivity API](https://juanma.codes/2025/12/24/adding-interactivity-to-core-blocks-with-the-interactivity-api/) - December 24, 2025
 - [Novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/18/novedades-para-desarrolladores-en-wordpress-6-9/) - December 18, 2025
 - [Registering Custom Commands for the WordPress Command Palette in different contexts](https://juanma.codes/2025/12/08/registering-custom-commands-for-the-wordpress-command-palette-in-different-contexts/) - December 08, 2025
-- [State of the Word 2025, el día después](https://juanma.codes/2025/12/03/state-of-the-word-2025-el-dia-despues/) - December 03, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -34,31 +34,31 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
+  - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
+- **[sidebar-detecting-controlling-examples](https://github.com/juanma-wp/sidebar-detecting-controlling-examples)**
+  - <small><em>Last commit: [7c33e0d](https://github.com/juanma-wp/sidebar-detecting-controlling-examples/commit/7c33e0d6dc011ae9a096fa6bded305a4e2e8226c) - Add reference to blog post in README.md for enhanced documentation (January 06, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [08ec5f6](https://github.com/juanma-wp/.github/commit/08ec5f668d63d29d43ab0d55b4dcb637e0560115) - Update README with latest posts (January 05, 2026)</em></small>
+  - <small><em>Last commit: [690e1a4](https://github.com/juanma-wp/.github/commit/690e1a40b85321b3f47475b7500b97e5ef31121c) - Update README with latest posts (January 06, 2026)</em></small>
 - **[detect-site-post-editor](https://github.com/juanma-wp/detect-site-post-editor)**
   - <small><em>Last commit: [07960b3](https://github.com/juanma-wp/detect-site-post-editor/commit/07960b3ebc79d0f2c3f98f65668fd04d28659c22) - Update README to include new components for detecting editor mode, selected block type, and sidebar state, along with site editor context detection. Enhance examples and test references to reflect these additions, ensuring clarity on conditional rendering capabilities. (December 30, 2025)</em></small>
 - **[demo-plugin-with-tests](https://github.com/juanma-wp/demo-plugin-with-tests)**
   - <small><em>Last commit: [62aaeea](https://github.com/juanma-wp/demo-plugin-with-tests/commit/62aaeeacde76a82e8470e43b4e9ea39771fdbfcf) - Update README.md to include GitHub Actions badge for testing status (December 23, 2025)</em></small>
-- **[word-switcher-core-blocks](https://github.com/juanma-wp/word-switcher-core-blocks)**
-  - <small><em>Last commit: [941d74c](https://github.com/juanma-wp/word-switcher-core-blocks/commit/941d74ce095443f3723887311573f6a2349648d0) - README.md and build styles (December 21, 2025)</em></small>
-- **[dataviews-dataform-examples](https://github.com/juanma-wp/dataviews-dataform-examples)**: DataViews and DataForm examples
-  - <small><em>Last commit: [c3e2df1](https://github.com/juanma-wp/dataviews-dataform-examples/commit/c3e2df16bdc9592d0f824bdc4a2bccbbef47b9b7) - Update README.md and blueprint.json to change repository references from 'juanma-wp' to 'wptrainingteam' for consistency across documentation and plugin installation instructions. (November 13, 2025)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
 - **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 3,457 • Starred on January 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,691 • Starred on January 04, 2026</em></small>
 - **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 683 • Starred on January 03, 2026</em></small>
+  - <small><em>C# • ⭐ 703 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
-  - <small><em>JavaScript • ⭐ 30 • Starred on December 31, 2025</em></small>
+  - <small><em>JavaScript • ⭐ 32 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 15,002 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 15,376 • Starred on December 27, 2025</em></small>
 - **[WordPress/wp-bench](https://github.com/WordPress/wp-bench)**: The official WordPress AI benchmark. Evaluate how well language models understand WordPress development—from core APIs and coding standards to plugin architecture and security best practices.
-  - <small><em>Python • ⭐ 10 • Starred on December 19, 2025</em></small>
+  - <small><em>Python • ⭐ 11 • Starred on December 19, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
