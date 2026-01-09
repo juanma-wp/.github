@@ -34,12 +34,12 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[search-handbooks-commands](https://github.com/juanma-wp/search-handbooks-commands)**
-  - <small><em>Last commit: [4c6c50a](https://github.com/juanma-wp/search-handbooks-commands/commit/4c6c50af64476c6e1805793f38fe93e823327921) - Enhance README.md by adding a video link and a snapshot image for better visualization of the plugin's functionality. (January 07, 2026)</em></small>
+- **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
+  - <small><em>Last commit: [58c5c5b](https://github.com/juanma-wp/search-resources-commands/commit/58c5c5b2dd56617220e7d910393062e6ea6123cc) - Update version in index.asset.php and enhance resource command functionality by importing prefillCommandPalette in useResourceCommands.js. Adjust notification message to provide clearer instructions for users. (January 08, 2026)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [a78ae74](https://github.com/juanma-wp/.github/commit/a78ae741e1e003510a3aca99859b47d0b1117d22) - Update README with latest posts (January 08, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
   - <small><em>Last commit: [741549f](https://github.com/juanma-wp/juanma-codes-theme-exploration/commit/741549f6b9e0eaa6a871f0a914b8e5278dd626f1) - chore -- clear scaffold action (January 07, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [ab43483](https://github.com/juanma-wp/.github/commit/ab4348395a6d46604c5c5d9671b089f03a9063fb) - Update README with latest posts (January 07, 2026)</em></small>
 - **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
   - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 - **[sidebar-detecting-controlling-examples](https://github.com/juanma-wp/sidebar-detecting-controlling-examples)**
@@ -50,15 +50,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)**: Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
-  - <small><em>Shell • ⭐ 201 • Starred on January 07, 2026</em></small>
+  - <small><em>Shell • ⭐ 263 • Starred on January 07, 2026</em></small>
 - **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 3,865 • Starred on January 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,993 • Starred on January 04, 2026</em></small>
 - **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 712 • Starred on January 03, 2026</em></small>
+  - <small><em>C# • ⭐ 721 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
-  - <small><em>JavaScript • ⭐ 34 • Starred on December 31, 2025</em></small>
+  - <small><em>JavaScript • ⭐ 35 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 15,915 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 16,458 • Starred on December 27, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
