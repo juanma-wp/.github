@@ -35,30 +35,30 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
-  - <small><em>Last commit: [58c5c5b](https://github.com/juanma-wp/search-resources-commands/commit/58c5c5b2dd56617220e7d910393062e6ea6123cc) - Update version in index.asset.php and enhance resource command functionality by importing prefillCommandPalette in useResourceCommands.js. Adjust notification message to provide clearer instructions for users. (January 08, 2026)</em></small>
+  - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
+- **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
+  - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [a78ae74](https://github.com/juanma-wp/.github/commit/a78ae741e1e003510a3aca99859b47d0b1117d22) - Update README with latest posts (January 08, 2026)</em></small>
+  - <small><em>Last commit: [8b34694](https://github.com/juanma-wp/.github/commit/8b34694462da3d2818f596c68531427751d68dc4) - Update README with latest posts (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
   - <small><em>Last commit: [741549f](https://github.com/juanma-wp/juanma-codes-theme-exploration/commit/741549f6b9e0eaa6a871f0a914b8e5278dd626f1) - chore -- clear scaffold action (January 07, 2026)</em></small>
 - **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
   - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
-- **[sidebar-detecting-controlling-examples](https://github.com/juanma-wp/sidebar-detecting-controlling-examples)**
-  - <small><em>Last commit: [7c33e0d](https://github.com/juanma-wp/sidebar-detecting-controlling-examples/commit/7c33e0d6dc011ae9a096fa6bded305a4e2e8226c) - Add reference to blog post in README.md for enhanced documentation (January 06, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)**: Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
-  - <small><em>Shell • ⭐ 263 • Starred on January 07, 2026</em></small>
+  - <small><em>Shell • ⭐ 298 • Starred on January 07, 2026</em></small>
 - **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 3,993 • Starred on January 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,090 • Starred on January 04, 2026</em></small>
 - **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 721 • Starred on January 03, 2026</em></small>
+  - <small><em>C# • ⭐ 728 • Starred on January 03, 2026</em></small>
 - **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
-  - <small><em>JavaScript • ⭐ 35 • Starred on December 31, 2025</em></small>
+  - <small><em>JavaScript • ⭐ 37 • Starred on December 31, 2025</em></small>
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 16,458 • Starred on December 27, 2025</em></small>
+  - <small><em>Python • ⭐ 16,937 • Starred on December 27, 2025</em></small>
 <!-- STARRED-REPOS:END -->
 
 
