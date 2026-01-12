@@ -21,6 +21,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
+  - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [d5268aa](https://github.com/juanma-wp/streams/commit/d5268aaa00d4e8715694849c041d69ad5290ffb7) - Add new sessions for 2025-11-05, 2025-11-14, 2025-11-21, and 2025-11-28 in README.md, enhancing documentation for Streams 2025 with links to each session's README. Introduced new README files for each session, including resource links and thumbnail images, covering topics such as contributing to WordPress Core, Block Bindings, and the Interactivity API. (December 13, 2025)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
@@ -35,30 +37,30 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [7450186](https://github.com/juanma-wp/.github/commit/74501867d44ce4adb816dde0ca268a450172e068) - Update README with latest posts (January 10, 2026)</em></small>
-- **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
-  - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
+  - <small><em>Last commit: [b7ee1f4](https://github.com/juanma-wp/.github/commit/b7ee1f491440fb6420f649c2af47a6fe98c788a9) - Update README with latest posts (January 11, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
   - <small><em>Last commit: [741549f](https://github.com/juanma-wp/juanma-codes-theme-exploration/commit/741549f6b9e0eaa6a871f0a914b8e5278dd626f1) - chore -- clear scaffold action (January 07, 2026)</em></small>
 - **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
   - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
+- **[sidebar-detecting-controlling-examples](https://github.com/juanma-wp/sidebar-detecting-controlling-examples)**
+  - <small><em>Last commit: [7c33e0d](https://github.com/juanma-wp/sidebar-detecting-controlling-examples/commit/7c33e0d6dc011ae9a096fa6bded305a4e2e8226c) - Add reference to blog post in README.md for enhanced documentation (January 06, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[immich-app/immich](https://github.com/immich-app/immich)**: High performance self-hosted photo and video management solution.
+  - <small><em>TypeScript • ⭐ 88,807 • Starred on January 11, 2026</em></small>
+- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)**: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+  - <small><em>Python • ⭐ 13,449 • Starred on January 11, 2026</em></small>
+- **[agentailor/create-mcp-server](https://github.com/agentailor/create-mcp-server)**: Scaffold production-ready MCP servers in seconds
+  - <small><em>TypeScript • ⭐ 6 • Starred on January 11, 2026</em></small>
 - **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)**: Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
-  - <small><em>Shell • ⭐ 314 • Starred on January 07, 2026</em></small>
+  - <small><em>Shell • ⭐ 333 • Starred on January 07, 2026</em></small>
 - **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 4,146 • Starred on January 04, 2026</em></small>
-- **[j-brooke/FracturedJson](https://github.com/j-brooke/FracturedJson)**: JSON formatter that produces highly readable but fairly compact output. 
-  - <small><em>C# • ⭐ 733 • Starred on January 03, 2026</em></small>
-- **[Automattic/agent-skills](https://github.com/Automattic/agent-skills)**: Agent Skills - folders of instructions, scripts, and resources - for WordPress
-  - <small><em>JavaScript • ⭐ 37 • Starred on December 31, 2025</em></small>
-- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)**: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  - <small><em>Python • ⭐ 17,340 • Starred on December 27, 2025</em></small>
+  - <small><em>TypeScript • ⭐ 4,216 • Starred on January 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
