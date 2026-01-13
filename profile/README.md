@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [b7ee1f4](https://github.com/juanma-wp/.github/commit/b7ee1f491440fb6420f649c2af47a6fe98c788a9) - Update README with latest posts (January 11, 2026)</em></small>
+  - <small><em>Last commit: [69de0b4](https://github.com/juanma-wp/.github/commit/69de0b4800ee8764994582725ab8cc4c80c47bbf) - Update README with latest posts (January 12, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[fellyph/php-exercise-playground](https://github.com/fellyph/php-exercise-playground)**: Web IDE for learning PHP
+  - <small><em>TypeScript • ⭐ 2 • Starred on January 12, 2026</em></small>
+- **[ebinnion/Quill-CLI](https://github.com/ebinnion/Quill-CLI)**: A CLI tool to simplify exporting notes from Quill.
+  - <small><em>TypeScript • ⭐ 1 • Starred on January 12, 2026</em></small>
+- **[Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli)**: Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
+  - <small><em>Go • ⭐ 781 • Starred on January 12, 2026</em></small>
+- **[KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery)**: This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.
+  - <small><em>⭐ 2,695 • Starred on January 12, 2026</em></small>
 - **[immich-app/immich](https://github.com/immich-app/immich)**: High performance self-hosted photo and video management solution.
-  - <small><em>TypeScript • ⭐ 88,807 • Starred on January 11, 2026</em></small>
-- **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)**: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-  - <small><em>Python • ⭐ 13,449 • Starred on January 11, 2026</em></small>
-- **[agentailor/create-mcp-server](https://github.com/agentailor/create-mcp-server)**: Scaffold production-ready MCP servers in seconds
-  - <small><em>TypeScript • ⭐ 6 • Starred on January 11, 2026</em></small>
-- **[alinaqi/claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)**: Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
-  - <small><em>Shell • ⭐ 333 • Starred on January 07, 2026</em></small>
-- **[AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)**: Beautiful map components. 100% Free, Zero config, one command setup.
-  - <small><em>TypeScript • ⭐ 4,216 • Starred on January 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 88,914 • Starred on January 11, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
