@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [69de0b4](https://github.com/juanma-wp/.github/commit/69de0b4800ee8764994582725ab8cc4c80c47bbf) - Update README with latest posts (January 12, 2026)</em></small>
+  - <small><em>Last commit: [b7fc10d](https://github.com/juanma-wp/.github/commit/b7fc10d62328e875004dc9065b6e37955f824d5a) - Update README with latest posts (January 13, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -56,11 +56,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[ebinnion/Quill-CLI](https://github.com/ebinnion/Quill-CLI)**: A CLI tool to simplify exporting notes from Quill.
   - <small><em>TypeScript • ⭐ 1 • Starred on January 12, 2026</em></small>
 - **[Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli)**: Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
-  - <small><em>Go • ⭐ 781 • Starred on January 12, 2026</em></small>
+  - <small><em>Go • ⭐ 787 • Starred on January 12, 2026</em></small>
 - **[KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery)**: This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.
-  - <small><em>⭐ 2,695 • Starred on January 12, 2026</em></small>
+  - <small><em>⭐ 2,824 • Starred on January 12, 2026</em></small>
 - **[immich-app/immich](https://github.com/immich-app/immich)**: High performance self-hosted photo and video management solution.
-  - <small><em>TypeScript • ⭐ 88,914 • Starred on January 11, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 88,977 • Starred on January 11, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
