@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [819dbec](https://github.com/juanma-wp/.github/commit/819dbeca58f1fcf409fa9393e890d92d199429da) - Update README with latest posts (January 14, 2026)</em></small>
+  - <small><em>Last commit: [e95413f](https://github.com/juanma-wp/.github/commit/e95413f805ec3bbe61c41ab445f1f8aa62fb201b) - Update README with latest posts (January 15, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[akirk/playground-ai-assistant](https://github.com/akirk/playground-ai-assistant)**: An AI-powered chat interface for WordPress Playground. Bring your own API key or connect to a local LLM.
+  - <small><em>PHP • ⭐ 1 • Starred on January 15, 2026</em></small>
+- **[sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)**: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+  - <small><em>TypeScript • ⭐ 2,867 • Starred on January 15, 2026</em></small>
 - **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)**
-  - <small><em>JavaScript • ⭐ 2,062 • Starred on January 14, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 6,134 • Starred on January 14, 2026</em></small>
 - **[fellyph/php-exercise-playground](https://github.com/fellyph/php-exercise-playground)**: Web IDE for learning PHP
   - <small><em>TypeScript • ⭐ 2 • Starred on January 12, 2026</em></small>
 - **[ebinnion/Quill-CLI](https://github.com/ebinnion/Quill-CLI)**: A CLI tool to simplify exporting notes from Quill.
   - <small><em>TypeScript • ⭐ 1 • Starred on January 12, 2026</em></small>
-- **[Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli)**: Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
-  - <small><em>Go • ⭐ 789 • Starred on January 12, 2026</em></small>
-- **[KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery)**: This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.
-  - <small><em>⭐ 2,882 • Starred on January 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
