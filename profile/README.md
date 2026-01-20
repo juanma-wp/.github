@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [5e00c3a](https://github.com/juanma-wp/.github/commit/5e00c3a9f935784caa597628ad5e34335905b3f4) - Update README with latest posts (January 18, 2026)</em></small>
+  - <small><em>Last commit: [6eaccdb](https://github.com/juanma-wp/.github/commit/6eaccdbbca13e88474d40c19c33691d6396a1779) - Update README with latest posts (January 19, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -54,9 +54,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[akirk/playground-ai-assistant](https://github.com/akirk/playground-ai-assistant)**: An AI-powered chat interface for WordPress Playground. Bring your own API key or connect to a local LLM.
   - <small><em>PHP • ⭐ 1 • Starred on January 15, 2026</em></small>
 - **[sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)**: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
-  - <small><em>TypeScript • ⭐ 2,957 • Starred on January 15, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 2,994 • Starred on January 15, 2026</em></small>
 - **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)**
-  - <small><em>JavaScript • ⭐ 12,579 • Starred on January 14, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 13,565 • Starred on January 14, 2026</em></small>
 - **[fellyph/php-exercise-playground](https://github.com/fellyph/php-exercise-playground)**: Web IDE for learning PHP
   - <small><em>TypeScript • ⭐ 2 • Starred on January 12, 2026</em></small>
 - **[ebinnion/Quill-CLI](https://github.com/ebinnion/Quill-CLI)**: A CLI tool to simplify exporting notes from Quill.
