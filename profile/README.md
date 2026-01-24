@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [4b4ba3f](https://github.com/juanma-wp/.github/commit/4b4ba3f38234d2a866e2fa946cd8922354ece094) - Update README with latest posts (January 22, 2026)</em></small>
+  - <small><em>Last commit: [54c7b48](https://github.com/juanma-wp/.github/commit/54c7b4831f68b9e66a35da39719a263d8efe5035) - Update README with latest posts (January 23, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri)**: Advanced modes for Obsidian URI
-  - <small><em>TypeScript • ⭐ 1,039 • Starred on January 22, 2026</em></small>
-- **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)**: A curated list of resources about Ralph (aka Ralph Wiggum), the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
-  - <small><em>⭐ 501 • Starred on January 20, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 1,040 • Starred on January 22, 2026</em></small>
+- **[snwfdhmp/awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)**: A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
+  - <small><em>⭐ 517 • Starred on January 20, 2026</em></small>
 - **[daymade/claude-code-skills](https://github.com/daymade/claude-code-skills)**: Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
-  - <small><em>Python • ⭐ 470 • Starred on January 20, 2026</em></small>
+  - <small><em>Python • ⭐ 484 • Starred on January 20, 2026</em></small>
 - **[akirk/playground-ai-assistant](https://github.com/akirk/playground-ai-assistant)**: An AI-powered chat interface for WordPress Playground. Bring your own API key or connect to a local LLM.
   - <small><em>PHP • ⭐ 1 • Starred on January 15, 2026</em></small>
 - **[sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)**: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
-  - <small><em>TypeScript • ⭐ 3,079 • Starred on January 15, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,134 • Starred on January 15, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
