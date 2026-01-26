@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [e5c0146](https://github.com/juanma-wp/.github/commit/e5c014679d56301aae0a25961e748754c5989ed1) - Update README with latest posts (January 24, 2026)</em></small>
+  - <small><em>Last commit: [7ca8091](https://github.com/juanma-wp/.github/commit/7ca80919c13aca2191f1cb2e58010b3e10570ef2) - Update README with latest posts (January 25, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills)**: A collection of AI agent skills for Clawdbot, Claude Code, Codex
-  - <small><em>HTML • ⭐ 13 • Starred on January 24, 2026</em></small>
+  - <small><em>HTML • ⭐ 84 • Starred on January 24, 2026</em></small>
 - **[ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**: Claude Code skills for Obsidian | Claude Code Camp starts Jan 27
   - <small><em>Python • ⭐ 40 • Starred on January 24, 2026</em></small>
 - **[lexiaoyao20/excalidraw-generator](https://github.com/lexiaoyao20/excalidraw-generator)**: A Claude Code skill for generating professional Excalidraw diagrams from natural language descriptions
   - <small><em>⭐ 1 • Starred on January 24, 2026</em></small>
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)**: Agent skills for Obsidian
-  - <small><em>⭐ 8,048 • Starred on January 24, 2026</em></small>
+  - <small><em>⭐ 8,174 • Starred on January 24, 2026</em></small>
 - **[Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri)**: Advanced modes for Obsidian URI
   - <small><em>TypeScript • ⭐ 1,041 • Starred on January 22, 2026</em></small>
 <!-- STARRED-REPOS:END -->
