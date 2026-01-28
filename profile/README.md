@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [ccb83f2](https://github.com/juanma-wp/.github/commit/ccb83f2c76f1fbeae576d3ad7786c97241d6b7c7) - Update README with latest posts (January 26, 2026)</em></small>
+  - <small><em>Last commit: [c564cd5](https://github.com/juanma-wp/.github/commit/c564cd539131ac2e154a6dd63c449a1e446f6763) - Update README with latest posts (January 27, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[tobi/qmd](https://github.com/tobi/qmd)**: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+  - <small><em>TypeScript • ⭐ 3,846 • Starred on January 27, 2026</em></small>
 - **[jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills)**: A collection of AI agent skills for Clawdbot, Claude Code, Codex
-  - <small><em>HTML • ⭐ 100 • Starred on January 24, 2026</em></small>
+  - <small><em>Python • ⭐ 108 • Starred on January 24, 2026</em></small>
 - **[ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**: Claude Code skills for Obsidian | Claude Code Camp starts Jan 27
-  - <small><em>Python • ⭐ 40 • Starred on January 24, 2026</em></small>
+  - <small><em>Python • ⭐ 41 • Starred on January 24, 2026</em></small>
 - **[lexiaoyao20/excalidraw-generator](https://github.com/lexiaoyao20/excalidraw-generator)**: A Claude Code skill for generating professional Excalidraw diagrams from natural language descriptions
   - <small><em>⭐ 1 • Starred on January 24, 2026</em></small>
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)**: Agent skills for Obsidian
-  - <small><em>⭐ 8,286 • Starred on January 24, 2026</em></small>
-- **[Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri)**: Advanced modes for Obsidian URI
-  - <small><em>TypeScript • ⭐ 1,040 • Starred on January 22, 2026</em></small>
+  - <small><em>⭐ 8,384 • Starred on January 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
