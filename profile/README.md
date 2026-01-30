@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0f04145](https://github.com/juanma-wp/.github/commit/0f0414593e4f1c497951099085fac7bc2124d822) - Update README with latest posts (January 28, 2026)</em></small>
+  - <small><em>Last commit: [f88c601](https://github.com/juanma-wp/.github/commit/f88c601712d267b44c615e5ca610dd3df211c58b) - Update README with latest posts (January 29, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)**: A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
+  - <small><em>Shell • ⭐ 890 • Starred on January 29, 2026</em></small>
 - **[tobi/qmd](https://github.com/tobi/qmd)**: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-  - <small><em>TypeScript • ⭐ 4,183 • Starred on January 27, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,424 • Starred on January 27, 2026</em></small>
 - **[jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills)**: A collection of AI agent skills for Clawdbot, Claude Code, Codex
-  - <small><em>Python • ⭐ 142 • Starred on January 24, 2026</em></small>
+  - <small><em>Python • ⭐ 152 • Starred on January 24, 2026</em></small>
 - **[ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**: Claude Code skills for Obsidian | Claude Code Camp starts Jan 27
   - <small><em>Python • ⭐ 42 • Starred on January 24, 2026</em></small>
 - **[lexiaoyao20/excalidraw-generator](https://github.com/lexiaoyao20/excalidraw-generator)**: A Claude Code skill for generating professional Excalidraw diagrams from natural language descriptions
   - <small><em>⭐ 1 • Starred on January 24, 2026</em></small>
-- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)**: Agent skills for Obsidian
-  - <small><em>⭐ 8,517 • Starred on January 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
