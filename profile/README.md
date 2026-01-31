@@ -22,7 +22,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- FEATURED-REPOS:START -->
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
-  - <small><em>Last commit: [cb1cdfe](https://github.com/juanma-wp/streams/commit/cb1cdfe6af6f82260962cf38f42411f65778bd78) - Add new sessions for 2026-01-16 and 2026-01-23 in README.md, including detailed descriptions, resource links, and thumbnail images. The sessions cover topics such as Agent Skills for WordPress and the PHP AI Client SDK, enhancing documentation for the Streams 2026 initiative. (January 28, 2026)</em></small>
+  - <small><em>Last commit: [5d38d97](https://github.com/juanma-wp/streams/commit/5d38d97f4f1b39a2adcb567b3f31cafb5ec91b2b) - Add new session for 2026-01-30 titled "Camino a WordPress 7.0" in README.md, including a link to the session's README, resource links, and a thumbnail image. This enhances the documentation for the Streams 2026 initiative. (January 30, 2026)</em></small>
 - **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
   - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f88c601](https://github.com/juanma-wp/.github/commit/f88c601712d267b44c615e5ca610dd3df211c58b) - Update README with latest posts (January 29, 2026)</em></small>
+  - <small><em>Last commit: [2491cfa](https://github.com/juanma-wp/.github/commit/2491cfae5150a3788b6e1441c71332398c88335b) - Update README with latest posts (January 30, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[tw93/Mole](https://github.com/tw93/Mole)**: 🐹 Deep clean and optimize your Mac.
+  - <small><em>Shell • ⭐ 32,539 • Starred on January 30, 2026</em></small>
 - **[ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)**: A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
   - <small><em>Shell • ⭐ 890 • Starred on January 29, 2026</em></small>
 - **[tobi/qmd](https://github.com/tobi/qmd)**: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-  - <small><em>TypeScript • ⭐ 4,424 • Starred on January 27, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,550 • Starred on January 27, 2026</em></small>
 - **[jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills)**: A collection of AI agent skills for Clawdbot, Claude Code, Codex
-  - <small><em>Python • ⭐ 152 • Starred on January 24, 2026</em></small>
+  - <small><em>Python • ⭐ 160 • Starred on January 24, 2026</em></small>
 - **[ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**: Claude Code skills for Obsidian | Claude Code Camp starts Jan 27
-  - <small><em>Python • ⭐ 42 • Starred on January 24, 2026</em></small>
-- **[lexiaoyao20/excalidraw-generator](https://github.com/lexiaoyao20/excalidraw-generator)**: A Claude Code skill for generating professional Excalidraw diagrams from natural language descriptions
-  - <small><em>⭐ 1 • Starred on January 24, 2026</em></small>
+  - <small><em>Python • ⭐ 43 • Starred on January 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
