@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2491cfa](https://github.com/juanma-wp/.github/commit/2491cfae5150a3788b6e1441c71332398c88335b) - Update README with latest posts (January 30, 2026)</em></small>
+  - <small><em>Last commit: [555e96a](https://github.com/juanma-wp/.github/commit/555e96a9d2df96b9f2ac1bad14078b1ae8907705) - Update README with latest posts (January 31, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -52,11 +52,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[tw93/Mole](https://github.com/tw93/Mole)**: 🐹 Deep clean and optimize your Mac.
-  - <small><em>Shell • ⭐ 32,539 • Starred on January 30, 2026</em></small>
+  - <small><em>Shell • ⭐ 32,637 • Starred on January 30, 2026</em></small>
 - **[ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)**: A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
-  - <small><em>Shell • ⭐ 890 • Starred on January 29, 2026</em></small>
+  - <small><em>Shell • ⭐ 892 • Starred on January 29, 2026</em></small>
 - **[tobi/qmd](https://github.com/tobi/qmd)**: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-  - <small><em>TypeScript • ⭐ 4,550 • Starred on January 27, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,949 • Starred on January 27, 2026</em></small>
 - **[jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills)**: A collection of AI agent skills for Clawdbot, Claude Code, Codex
   - <small><em>Python • ⭐ 160 • Starred on January 24, 2026</em></small>
 - **[ArtemXTech/personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**: Claude Code skills for Obsidian | Claude Code Camp starts Jan 27
