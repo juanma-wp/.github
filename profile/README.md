@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [4b4174c](https://github.com/juanma-wp/.github/commit/4b4174c0e0b94a59bdb12ed00b9fda3a77b115dd) - Update README with latest posts (February 01, 2026)</em></small>
+  - <small><em>Last commit: [b58d6bf](https://github.com/juanma-wp/.github/commit/b58d6bf14295f65252e720a8ff2e6b0964b9e773) - Update README with latest posts (February 02, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[fellyph/blog-terminal-skill](https://github.com/fellyph/blog-terminal-skill)**: Terminal Blog - A retro CRT-inspired WordPress block theme built with Stitch design integration
+  - <small><em>PHP • ⭐ 1 • Starred on February 02, 2026</em></small>
 - **[steipete/CodexBar](https://github.com/steipete/CodexBar)**: Show usage stats for OpenAI Codex and Claude Code, without having to login.
-  - <small><em>Swift • ⭐ 3,932 • Starred on February 01, 2026</em></small>
+  - <small><em>Swift • ⭐ 4,313 • Starred on February 01, 2026</em></small>
 - **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**: Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
-  - <small><em>JavaScript • ⭐ 163 • Starred on February 01, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 297 • Starred on February 01, 2026</em></small>
 - **[tw93/Mole](https://github.com/tw93/Mole)**: 🐹 Deep clean and optimize your Mac.
-  - <small><em>Shell • ⭐ 32,815 • Starred on January 30, 2026</em></small>
+  - <small><em>Shell • ⭐ 33,074 • Starred on January 30, 2026</em></small>
 - **[ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)**: A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
-  - <small><em>Shell • ⭐ 894 • Starred on January 29, 2026</em></small>
-- **[tobi/qmd](https://github.com/tobi/qmd)**: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-  - <small><em>TypeScript • ⭐ 5,354 • Starred on January 27, 2026</em></small>
+  - <small><em>Shell • ⭐ 895 • Starred on January 29, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
