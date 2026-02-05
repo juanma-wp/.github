@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2e186f2](https://github.com/juanma-wp/.github/commit/2e186f24abbcd9ef217e2b2e0ddfd370586cec6e) - Update README with latest posts (February 03, 2026)</em></small>
+  - <small><em>Last commit: [c0fbb2e](https://github.com/juanma-wp/.github/commit/c0fbb2e8fa1ce70d8fe297eff69da182469f47d5) - Update README with latest posts (February 04, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[jonathanbossenger/wp-local-model-provider](https://github.com/jonathanbossenger/wp-local-model-provider)**: Extends the PHP AI Client to provide support for local models via Ollama
+  - <small><em>PHP • ⭐ 2 • Starred on February 04, 2026</em></small>
 - **[openclaw/skills](https://github.com/openclaw/skills)**: All versions of all skills that are on clawdhub.com archived
-  - <small><em>Python • ⭐ 519 • Starred on February 03, 2026</em></small>
+  - <small><em>Python • ⭐ 568 • Starred on February 03, 2026</em></small>
 - **[fellyph/blog-terminal-skill](https://github.com/fellyph/blog-terminal-skill)**: Terminal Blog - A retro CRT-inspired WordPress block theme built with Stitch design integration
   - <small><em>PHP • ⭐ 1 • Starred on February 02, 2026</em></small>
 - **[steipete/CodexBar](https://github.com/steipete/CodexBar)**: Show usage stats for OpenAI Codex and Claude Code, without having to login.
-  - <small><em>Swift • ⭐ 4,462 • Starred on February 01, 2026</em></small>
+  - <small><em>Swift • ⭐ 4,556 • Starred on February 01, 2026</em></small>
 - **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**: Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
-  - <small><em>JavaScript • ⭐ 376 • Starred on February 01, 2026</em></small>
-- **[tw93/Mole](https://github.com/tw93/Mole)**: 🐹 Deep clean and optimize your Mac.
-  - <small><em>Shell • ⭐ 33,211 • Starred on January 30, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 418 • Starred on February 01, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
