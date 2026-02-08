@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [b32cc44](https://github.com/juanma-wp/.github/commit/b32cc44914d672252321990409c9e572b4326b70) - Update README with latest posts (February 06, 2026)</em></small>
+  - <small><em>Last commit: [6d3460e](https://github.com/juanma-wp/.github/commit/6d3460e1bccc785dadcc508eb1a376e98e895eee) - Update README with latest posts (February 07, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**: Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
-  - <small><em>TypeScript • ⭐ 1,057 • Starred on February 06, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 1,599 • Starred on February 06, 2026</em></small>
 - **[antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)**: Excalidraw MCP App Server — hand-drawn diagrams for Claude
-  - <small><em>TypeScript • ⭐ 524 • Starred on February 06, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 864 • Starred on February 06, 2026</em></small>
 - **[ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering)**: Learn AI and LLMs from scratch using free resources
-  - <small><em>⭐ 3,668 • Starred on February 06, 2026</em></small>
+  - <small><em>⭐ 3,697 • Starred on February 06, 2026</em></small>
 - **[cloudflare/moltworker](https://github.com/cloudflare/moltworker)**: Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-  - <small><em>TypeScript • ⭐ 7,965 • Starred on February 06, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 8,066 • Starred on February 06, 2026</em></small>
 - **[obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper)**: Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-  - <small><em>TypeScript • ⭐ 2,968 • Starred on February 06, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 2,970 • Starred on February 06, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
