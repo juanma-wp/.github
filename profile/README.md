@@ -37,9 +37,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
-  - <small><em>Last commit: [bce79d0](https://github.com/juanma-wp/wp-trac-triager/commit/bce79d005e3e179231223f1f35a0bca43be3f81e) - Revise Chrome Web Store installation details (February 10, 2026)</em></small>
+  - <small><em>Last commit: [cb2005d](https://github.com/juanma-wp/wp-trac-triager/commit/cb2005d37ab45cd47f5cc5e051535808cf26c4e1) - Merge pull request #4 from juanma-wp/copilot/highlight-core-committer-tickets (February 11, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [876581a](https://github.com/juanma-wp/.github/commit/876581af182d3395977658a2399314059644da9d) - Update README with latest posts (February 10, 2026)</em></small>
+  - <small><em>Last commit: [cdcb606](https://github.com/juanma-wp/.github/commit/cdcb606bef1c23be6019eee78796443c9d5dd27e) - Update README with latest posts (February 11, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[spacecake-labs/spacecake](https://github.com/spacecake-labs/spacecake)**: the best interface for Claude Code
-  - <small><em>TypeScript • ⭐ 166 • Starred on February 10, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 227 • Starred on February 10, 2026</em></small>
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)**: A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.
-  - <small><em>TypeScript • ⭐ 272 • Starred on February 10, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 312 • Starred on February 10, 2026</em></small>
 - **[Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)**: Saves Discord chat logs to a file
-  - <small><em>C# • ⭐ 10,238 • Starred on February 10, 2026</em></small>
+  - <small><em>C# • ⭐ 10,266 • Starred on February 10, 2026</em></small>
 - **[Sarai-Chinwag/wordpress-core-docs](https://github.com/Sarai-Chinwag/wordpress-core-docs)**: AI-generated WordPress core documentation from source code using Homeboy
   - <small><em>⭐ 3 • Starred on February 09, 2026</em></small>
 - **[f/textream](https://github.com/f/textream)**: Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.
-  - <small><em>Swift • ⭐ 894 • Starred on February 09, 2026</em></small>
+  - <small><em>Swift • ⭐ 1,049 • Starred on February 09, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
