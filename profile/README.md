@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [3b29383](https://github.com/juanma-wp/.github/commit/3b29383ca0afa91a466509eb4b99c899c816297f) - Update README with latest posts (February 13, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [b42e0ee](https://github.com/juanma-wp/.github/commit/b42e0eebd4372c00af6e7443c22a09044e31bff1) - Update README with latest posts (February 12, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[nightnei/wordpress-studio-mcp-server](https://github.com/nightnei/wordpress-studio-mcp-server)**
   - <small><em>TypeScript • ⭐ 18 • Starred on February 12, 2026</em></small>
 - **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 11,271 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 11,652 • Starred on February 12, 2026</em></small>
 - **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 16,096 • Starred on February 12, 2026</em></small>
+  - <small><em>Go • ⭐ 16,193 • Starred on February 12, 2026</em></small>
 - **[DataWhisker/x-mcp-server](https://github.com/DataWhisker/x-mcp-server)**
   - <small><em>JavaScript • ⭐ 53 • Starred on February 12, 2026</em></small>
 - **[spacecake-labs/spacecake](https://github.com/spacecake-labs/spacecake)**: the best interface for Claude Code
-  - <small><em>TypeScript • ⭐ 242 • Starred on February 10, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 265 • Starred on February 10, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
