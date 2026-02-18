@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [4ad9e1d](https://github.com/juanma-wp/.github/commit/4ad9e1d792b66d8c8bcfba4172ed9cd4988bba7e) - Update README with latest posts (February 16, 2026)</em></small>
+  - <small><em>Last commit: [82c4076](https://github.com/juanma-wp/.github/commit/82c407672358c3f0d20ada918ea975a5a0142920) - Update README with latest posts (February 17, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 28,629 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 28,792 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-studio-mcp-server](https://github.com/nightnei/wordpress-studio-mcp-server)**
   - <small><em>TypeScript • ⭐ 19 • Starred on February 12, 2026</em></small>
 - **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 12,897 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 13,176 • Starred on February 12, 2026</em></small>
 - **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 16,441 • Starred on February 12, 2026</em></small>
+  - <small><em>Go • ⭐ 16,552 • Starred on February 12, 2026</em></small>
 - **[DataWhisker/x-mcp-server](https://github.com/DataWhisker/x-mcp-server)**
   - <small><em>JavaScript • ⭐ 54 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
