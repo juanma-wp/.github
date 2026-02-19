@@ -21,26 +21,60 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
-*No featured repositories found. Add the "featured" topic to repositories you want to highlight.*
+- **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
+  - <small><em>Last commit: [e2e31ce](https://github.com/juanma-wp/streams/commit/e2e31ceac4f3a36f5314f43b5bff14a261c720bb) - Add new sessions for 2026-02-06 and 2026-02-13 in README.md, including links to session README files and resource links. Introduced new README files for each session, enhancing documentation for the Streams 2026 initiative. Updated the PHP AI Client Test plugin with improved functionality and added a new theme, JuanMa DevRel, featuring a modern design and customizable options. (February 14, 2026)</em></small>
+- **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
+  - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
+- **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
+  - <small><em>Last commit: [1bf2959](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/1bf295915e119c71874f2a8528c1d4625249e841) - Update README to include security comparison image for JWT Auth Pro (December 12, 2025)</em></small>
+- **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
+  - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
+- **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
+  - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
 
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-*No repositories found*
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [35fe215](https://github.com/juanma-wp/.github/commit/35fe215a5b3005e3d0d34d49acf75abcdb2ce2db) - Update README with latest posts (February 19, 2026)</em></small>
+- **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
+  - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
+- **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
+  - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
+- **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
+  - <small><em>Last commit: [741549f](https://github.com/juanma-wp/juanma-codes-theme-exploration/commit/741549f6b9e0eaa6a871f0a914b8e5278dd626f1) - chore -- clear scaffold action (January 07, 2026)</em></small>
+- **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
+  - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
-*No starred repositories found*
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+  - <small><em>JavaScript • ⭐ 48,054 • Starred on February 18, 2026</em></small>
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+  - <small><em>TypeScript • ⭐ 29,096 • Starred on February 14, 2026</em></small>
+- **[nightnei/wordpress-studio-mcp-server](https://github.com/nightnei/wordpress-studio-mcp-server)**
+  - <small><em>TypeScript • ⭐ 19 • Starred on February 12, 2026</em></small>
+- **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+  - <small><em>TypeScript • ⭐ 13,596 • Starred on February 12, 2026</em></small>
+- **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
+  - <small><em>Go • ⭐ 16,666 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
 ## 💥 My latest highlighted Gists
 
 <!-- STARRED-GISTS:START -->
-*No starred gists found*
+- **[get-all-items-all-post-types.js](https://gist.github.com/juanmaguitar/0a4f8afb59252cf79d942f5cfce8b787)**
+  - <small><em>2 files • JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[registered-blocks-with-any-variation.js](https://gist.github.com/juanmaguitar/4f5581a54193b423f8ba208f23a290ec)**
+  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
+  - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
+- **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
+  - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
 <!-- STARRED-GISTS:END -->
 
 
