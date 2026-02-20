@@ -36,31 +36,31 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
+  - <small><em>Last commit: [c2c5559](https://github.com/juanma-wp/block-mermaid-diagram/commit/c2c55595248515284cd1f0a0e380ad6cae0004f1) - Remove deprecated Mermaid library files to streamline asset management and improve build efficiency. (November 07, 2025)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [35fe215](https://github.com/juanma-wp/.github/commit/35fe215a5b3005e3d0d34d49acf75abcdb2ce2db) - Update README with latest posts (February 19, 2026)</em></small>
+  - <small><em>Last commit: [2fc42bd](https://github.com/juanma-wp/.github/commit/2fc42bd9cf2a5e2c68ab0ada5742dd85d78bcedd) - Update README with latest posts (February 19, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
   - <small><em>Last commit: [f71e8a5](https://github.com/juanma-wp/notices-admin-wp/commit/f71e8a59d28a8a24d281559ee4bba3ac7206190e) - Add Notices Showcase Plugin with Asset Management and Styling (January 09, 2026)</em></small>
 - **[juanma-codes-theme-exploration](https://github.com/juanma-wp/juanma-codes-theme-exploration)**
   - <small><em>Last commit: [741549f](https://github.com/juanma-wp/juanma-codes-theme-exploration/commit/741549f6b9e0eaa6a871f0a914b8e5278dd626f1) - chore -- clear scaffold action (January 07, 2026)</em></small>
-- **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
-  - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-  - <small><em>JavaScript • ⭐ 48,054 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 48,404 • Starred on February 18, 2026</em></small>
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 29,096 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 29,343 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-studio-mcp-server](https://github.com/nightnei/wordpress-studio-mcp-server)**
   - <small><em>TypeScript • ⭐ 19 • Starred on February 12, 2026</em></small>
 - **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 13,596 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 13,916 • Starred on February 12, 2026</em></small>
 - **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 16,666 • Starred on February 12, 2026</em></small>
+  - <small><em>Go • ⭐ 16,757 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
