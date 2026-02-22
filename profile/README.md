@@ -22,7 +22,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- FEATURED-REPOS:START -->
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
-  - <small><em>Last commit: [e2e31ce](https://github.com/juanma-wp/streams/commit/e2e31ceac4f3a36f5314f43b5bff14a261c720bb) - Add new sessions for 2026-02-06 and 2026-02-13 in README.md, including links to session README files and resource links. Introduced new README files for each session, enhancing documentation for the Streams 2026 initiative. Updated the PHP AI Client Test plugin with improved functionality and added a new theme, JuanMa DevRel, featuring a modern design and customizable options. (February 14, 2026)</em></small>
+  - <small><em>Last commit: [70a5a43](https://github.com/juanma-wp/streams/commit/70a5a43d363a761a94ee85f00c1afe1aa642f06a) - Remove redundant line and ensure proper formatting in README.md for the session on 2026-02-20, enhancing clarity of resource links. (February 21, 2026)</em></small>
 - **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
   - <small><em>Last commit: [e048936](https://github.com/juanma-wp/search-resources-commands/commit/e0489368efc638009b1a85c38bbc06a4fba763c6) - Implement TypeScript support and refactor resource command functionality by converting JavaScript files to TypeScript, enhancing the Notices component, and updating the command palette helper. Update package.json and package-lock.json with new dependencies and configurations for improved development experience. (January 09, 2026)</em></small>
 - **[juanma-jwt-auth-pro](https://github.com/juanma-wp/juanma-jwt-auth-pro)**: Modern JWT authentication with refresh tokens for WordPress REST API - built for SPAs and mobile apps
@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [b59abd5](https://github.com/juanma-wp/.github/commit/b59abd51b932fde21699195048e1b732632d27b5) - Update README with latest posts (February 21, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [d6016ed](https://github.com/juanma-wp/.github/commit/d6016ed33c7fccf0203b9407241861a7ae320f88) - Update README with latest posts (February 20, 2026)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
   - <small><em>Last commit: [c2c5559](https://github.com/juanma-wp/block-mermaid-diagram/commit/c2c55595248515284cd1f0a0e380ad6cae0004f1) - Remove deprecated Mermaid library files to streamline asset management and improve build efficiency. (November 07, 2025)</em></small>
 - **[notices-admin-wp](https://github.com/juanma-wp/notices-admin-wp)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-  - <small><em>JavaScript • ⭐ 48,788 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 49,102 • Starred on February 18, 2026</em></small>
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 29,583 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 29,911 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-studio-mcp-server](https://github.com/nightnei/wordpress-studio-mcp-server)**
   - <small><em>TypeScript • ⭐ 19 • Starred on February 12, 2026</em></small>
 - **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 14,226 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 14,522 • Starred on February 12, 2026</em></small>
 - **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 16,839 • Starred on February 12, 2026</em></small>
+  - <small><em>Go • ⭐ 16,900 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
