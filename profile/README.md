@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [678f964](https://github.com/juanma-wp/.github/commit/678f96410cbb2d342015229385ed9b6f5f351519) - Update README with latest posts (February 22, 2026)</em></small>
+  - <small><em>Last commit: [cdcc3f0](https://github.com/juanma-wp/.github/commit/cdcc3f01fb879649a3f3f68606ae5fc1cf2c9b10) - Update README with latest posts (February 23, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-  - <small><em>JavaScript • ⭐ 49,533 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 50,367 • Starred on February 18, 2026</em></small>
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 30,228 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 30,463 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-developer-mcp-server](https://github.com/nightnei/wordpress-developer-mcp-server)**: Turn your AI into a full-stack WordPress developer
-  - <small><em>TypeScript • ⭐ 19 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 21 • Starred on February 12, 2026</em></small>
 - **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 14,783 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 15,226 • Starred on February 12, 2026</em></small>
 - **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 16,977 • Starred on February 12, 2026</em></small>
+  - <small><em>Go • ⭐ 17,056 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
