@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [How to enable JSON schema validation in Cursor](https://juanma.codes/2026/02/24/how-to-enable-json-schema-validation-in-cursor/) - February 24, 2026
 - [WP Trac Triager: A Chrome Extension for WordPress Core Ticket Triage](https://juanma.codes/2026/02/16/wp-trac-triager-a-chrome-extension-for-wordpress-core-ticket-triage/) - February 16, 2026
 - [Conditionally Executing Code in Different WordPress Block Editor Contexts](https://juanma.codes/2026/01/06/conditionally-executing-code-in-different-wordpress-block-editor-contexts/) - January 06, 2026
 - [Detecting and Controlling Sidebars in the Block Editor](https://juanma.codes/2026/01/04/detecting-and-controlling-sidebars-in-the-block-editor/) - January 04, 2026
 - [Adding Interactivity to Core Blocks with the Interactivity API](https://juanma.codes/2025/12/24/adding-interactivity-to-core-blocks-with-the-interactivity-api/) - December 24, 2025
-- [Novedades para desarrolladores en WordPress 6.9](https://juanma.codes/2025/12/18/novedades-para-desarrolladores-en-wordpress-6-9/) - December 18, 2025
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [cdcc3f0](https://github.com/juanma-wp/.github/commit/cdcc3f01fb879649a3f3f68606ae5fc1cf2c9b10) - Update README with latest posts (February 23, 2026)</em></small>
+  - <small><em>Last commit: [bbd5746](https://github.com/juanma-wp/.github/commit/bbd57461184979cd2c92f9aefab64030b3aee45a) - Update README with latest posts (February 24, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
+  - <small><em>⭐ 1,420 • Starred on February 24, 2026</em></small>
+- **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
+  - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-  - <small><em>JavaScript • ⭐ 50,367 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 51,322 • Starred on February 18, 2026</em></small>
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 30,463 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 30,729 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-developer-mcp-server](https://github.com/nightnei/wordpress-developer-mcp-server)**: Turn your AI into a full-stack WordPress developer
-  - <small><em>TypeScript • ⭐ 21 • Starred on February 12, 2026</em></small>
-- **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**: AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-  - <small><em>TypeScript • ⭐ 15,226 • Starred on February 12, 2026</em></small>
-- **[steveyegge/beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent
-  - <small><em>Go • ⭐ 17,056 • Starred on February 12, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 23 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
