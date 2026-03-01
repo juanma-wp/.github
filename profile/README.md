@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0c21d6c](https://github.com/juanma-wp/.github/commit/0c21d6c4389f937768e16d7a02a43fdbb998439c) - Update README with latest posts (February 27, 2026)</em></small>
+  - <small><em>Last commit: [48af7fe](https://github.com/juanma-wp/.github/commit/48af7fe7345e35d27c0b21b8eae0dd35b2863805) - Update README with latest posts (February 28, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[block-mermaid-diagram](https://github.com/juanma-wp/block-mermaid-diagram)**
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 1,695 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 1,768 • Starred on February 24, 2026</em></small>
 - **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
   - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
-- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-  - <small><em>JavaScript • ⭐ 54,104 • Starred on February 18, 2026</em></small>
+- **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+  - <small><em>JavaScript • ⭐ 54,898 • Starred on February 18, 2026</em></small>
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)**: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-  - <small><em>TypeScript • ⭐ 31,510 • Starred on February 14, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 31,837 • Starred on February 14, 2026</em></small>
 - **[nightnei/wordpress-developer-mcp-server](https://github.com/nightnei/wordpress-developer-mcp-server)**: Turn your AI into a full-stack WordPress developer
   - <small><em>TypeScript • ⭐ 25 • Starred on February 12, 2026</em></small>
 <!-- STARRED-REPOS:END -->
