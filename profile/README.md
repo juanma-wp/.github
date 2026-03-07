@@ -21,6 +21,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## ⭐ My Featured Projects
 
 <!-- FEATURED-REPOS:START -->
+- **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
+  - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 - **[streams](https://github.com/juanma-wp/streams)**: Compilation of videos and resources of streams done by https://www.youtube.com/@juanmacodes
   - <small><em>Last commit: [70a5a43](https://github.com/juanma-wp/streams/commit/70a5a43d363a761a94ee85f00c1afe1aa642f06a) - Remove redundant line and ensure proper formatting in README.md for the session on 2026-02-20, enhancing clarity of resource links. (February 21, 2026)</em></small>
 - **[search-resources-commands](https://github.com/juanma-wp/search-resources-commands)**
@@ -29,15 +31,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>Last commit: [1bf2959](https://github.com/juanma-wp/juanma-jwt-auth-pro/commit/1bf295915e119c71874f2a8528c1d4625249e841) - Update README to include security comparison image for JWT Auth Pro (December 12, 2025)</em></small>
 - **[abilities-dashboard](https://github.com/juanma-wp/abilities-dashboard)**: A DataViews-powered explorer for the Abilities API
   - <small><em>Last commit: [476b7d6](https://github.com/juanma-wp/abilities-dashboard/commit/476b7d62294f5cb66dd9bc34c37a9ce971e6a558) - Add snapshot image and update README for Abilities Dashboard plugin (November 02, 2025)</em></small>
-- **[wordpress-org-mcp](https://github.com/juanma-wp/wordpress-org-mcp)**: A Model Context Protocol (MCP) server that enables Claude Code to analyze, download, and compare WordPress.org plugins with your local plugins. Read https://juanma.codes/2025/09/25/my-first-mcp-server-wordpress-plugin-directory-for-llms/ for more info.
-  - <small><em>Last commit: [21344ca](https://github.com/juanma-wp/wordpress-org-mcp/commit/21344ca6a0a9d3f6154f2fca91db5d7127eee341) - Refactor Jest configuration and enhance testing structure for MCP server (October 01, 2025)</em></small>
 <!-- FEATURED-REPOS:END -->
 
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [aacc106](https://github.com/juanma-wp/.github/commit/aacc10605fda4e7c84de07b8e01c98ff74bb27f1) - Update README with latest posts (March 05, 2026)</em></small>
+  - <small><em>Last commit: [15c951d](https://github.com/juanma-wp/.github/commit/15c951da1dd4dd41a3c0b4cfc976a7e267192fc4) - Update README with latest posts (March 06, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
   - <small><em>Last commit: [ecc9311](https://github.com/juanma-wp/script-modules-custom-webpack/commit/ecc9311c639c178bf9d3fc2a57edd32add88f774) - README.md (March 04, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
   - <small><em>TypeScript • ⭐ 2 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 87,221 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 87,311 • Starred on March 01, 2026</em></small>
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 2,265 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 2,376 • Starred on February 24, 2026</em></small>
 - **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
   - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-  - <small><em>JavaScript • ⭐ 61,867 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 63,079 • Starred on February 18, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
