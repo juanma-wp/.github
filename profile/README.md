@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [15c951d](https://github.com/juanma-wp/.github/commit/15c951da1dd4dd41a3c0b4cfc976a7e267192fc4) - Update README with latest posts (March 06, 2026)</em></small>
+  - <small><em>Last commit: [019a32a](https://github.com/juanma-wp/.github/commit/019a32a8b3f459668884b9e5e0d7da3f881733fa) - Update README with latest posts (March 07, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
   - <small><em>Last commit: [ecc9311](https://github.com/juanma-wp/script-modules-custom-webpack/commit/ecc9311c639c178bf9d3fc2a57edd32add88f774) - README.md (March 04, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
   - <small><em>TypeScript • ⭐ 2 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 87,311 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 87,361 • Starred on March 01, 2026</em></small>
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 2,376 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 2,430 • Starred on February 24, 2026</em></small>
 - **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
   - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
 - **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-  - <small><em>JavaScript • ⭐ 63,079 • Starred on February 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 64,931 • Starred on February 18, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
