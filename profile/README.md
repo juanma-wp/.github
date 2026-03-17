@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [e1b0348](https://github.com/juanma-wp/.github/commit/e1b03482d1bf3f4b234bc7b22572d6649145c161) - Update README with latest posts (March 15, 2026)</em></small>
+  - <small><em>Last commit: [98a90ef](https://github.com/juanma-wp/.github/commit/98a90ef2ec3f9c616ea7d4d6ae957924d4d64549) - Update README with latest posts (March 16, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
   - <small><em>Last commit: [ecc9311](https://github.com/juanma-wp/script-modules-custom-webpack/commit/ecc9311c639c178bf9d3fc2a57edd32add88f774) - README.md (March 04, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -54,11 +54,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
-  - <small><em>TypeScript • ⭐ 7 • Starred on March 03, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 8 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 88,181 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 88,350 • Starred on March 01, 2026</em></small>
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 2,806 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 3,227 • Starred on February 24, 2026</em></small>
 - **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
   - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
