@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [dc1e815](https://github.com/juanma-wp/.github/commit/dc1e8153e0322907f27b634479e3abff3b5b160a) - Update README with latest posts (March 20, 2026)</em></small>
+  - <small><em>Last commit: [a9f2aec](https://github.com/juanma-wp/.github/commit/a9f2aecada2fc0338281cea738bab6ea9c84de0b) - Update README with latest posts (March 21, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
   - <small><em>Last commit: [ecc9311](https://github.com/juanma-wp/script-modules-custom-webpack/commit/ecc9311c639c178bf9d3fc2a57edd32add88f774) - README.md (March 04, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -56,9 +56,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
   - <small><em>TypeScript • ⭐ 8 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 88,841 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 88,929 • Starred on March 01, 2026</em></small>
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 4,708 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 5,024 • Starred on February 24, 2026</em></small>
 - **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
   - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
