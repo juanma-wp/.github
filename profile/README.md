@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [5c8076e](https://github.com/juanma-wp/.github/commit/5c8076ec24226b510914c869ee4535e393b1a6fd) - Update README with latest posts (March 24, 2026)</em></small>
+  - <small><em>Last commit: [bba20f8](https://github.com/juanma-wp/.github/commit/bba20f8b19da9068c9a045b4a298db2dffb7222d) - Update README with latest posts (March 25, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
   - <small><em>Last commit: [ecc9311](https://github.com/juanma-wp/script-modules-custom-webpack/commit/ecc9311c639c178bf9d3fc2a57edd32add88f774) - README.md (March 04, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
+  - <small><em>TypeScript • ⭐ 2,253 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
   - <small><em>TypeScript • ⭐ 8 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 89,173 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 89,244 • Starred on March 01, 2026</em></small>
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop" 
-  - <small><em>⭐ 5,721 • Starred on February 24, 2026</em></small>
-- **[ananddharne/chrome-history-mcp-server](https://github.com/ananddharne/chrome-history-mcp-server)**: mcp server for chrome history
-  - <small><em>JavaScript • ⭐ 2 • Starred on February 24, 2026</em></small>
+  - <small><em>⭐ 5,841 • Starred on February 24, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
