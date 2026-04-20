@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [a67c5f2](https://github.com/juanma-wp/.github/commit/a67c5f21d4dfa76c81a43e23ecaa4c5fc9e2bfad) - Update README with latest posts (April 18, 2026)</em></small>
+  - <small><em>Last commit: [b0e8da1](https://github.com/juanma-wp/.github/commit/b0e8da191cb6cd96352aa787e411a88cb56ea623) - Update README with latest posts (April 19, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[script-modules-custom-webpack](https://github.com/juanma-wp/script-modules-custom-webpack)**
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 18 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 3,646 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,708 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
-  - <small><em>TypeScript • ⭐ 9 • Starred on March 03, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 10 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 91,049 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 91,098 • Starred on March 01, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
