@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [aa07a58](https://github.com/juanma-wp/.github/commit/aa07a58a57c8af78602f0bfac4e8e038a45c0ccb) - Update README with latest posts (April 30, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [11837f4](https://github.com/juanma-wp/wp-docs-health-monitor/commit/11837f4d902a9dc0f49e3bfbd6973bd379f92c8a) -  feat(types): add not-mapped status for docs (April 29, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [03f4df3](https://github.com/juanma-wp/.github/commit/03f4df3413e6aadaf64e2703a4ed461f3b9cc5f4) - Update README with latest posts (April 29, 2026)</em></small>
 - **[wordpress-contributions-guides-nov-2026](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2026)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
   - <small><em>Last commit: [849451d](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2026/commit/849451dc801714cd35edbc93aa72a2a10b0ba54d) - Update WordPress Developer Handbook with extensive content revisions across multiple sections, including enhancements to the block editor, how-to guides, reference materials, and contributor documentation. This commit also includes updates to various assets and images for improved clarity and usability. (November 05, 2025)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 22 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 4,055 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,081 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
   - <small><em>TypeScript • ⭐ 11 • Starred on March 03, 2026</em></small>
 - **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)**: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-  - <small><em>Jupyter Notebook • ⭐ 91,722 • Starred on March 01, 2026</em></small>
+  - <small><em>Jupyter Notebook • ⭐ 91,765 • Starred on March 01, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
