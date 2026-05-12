@@ -37,9 +37,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
-  - <small><em>Last commit: [9107867](https://github.com/juanma-wp/wp-docs-health-monitor/commit/910786703e2a3bb32ae569727021e473e7277ace) - docs(release-pinning): trim deferred-extensions doc to essentials (May 10, 2026)</em></small>
+  - <small><em>Last commit: [f44c89f](https://github.com/juanma-wp/wp-docs-health-monitor/commit/f44c89f38a14aec29f16b8ff6b2709ce57dc1af7) - feat(skills): add 'to-issues' and 'to-prd' skills for issue tracking and PRD generation (May 11, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [44b968c](https://github.com/juanma-wp/.github/commit/44b968c38878bedbee86f7724dc50e0fe9a8c77e) - Update README with latest posts (May 10, 2026)</em></small>
+  - <small><em>Last commit: [ad67bf5](https://github.com/juanma-wp/.github/commit/ad67bf5754413d67ba4e3ccc0224244496d24ab3) - Update README with latest posts (May 11, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[wordpress-contributions-guides-nov-2026](https://github.com/juanma-wp/wordpress-contributions-guides-nov-2026)**: Repo with contributor handbooks - Ask directly to these handbooks through its deepwiki site
@@ -52,11 +52,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 4,050 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,104 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 22 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 4,278 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,297 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
@@ -67,8 +67,6 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 💥 My latest highlighted Gists
 
 <!-- STARRED-GISTS:START -->
-- **[get-all-items-all-post-types.js](https://gist.github.com/juanmaguitar/0a4f8afb59252cf79d942f5cfce8b787)**
-  - <small><em>2 files • JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
 - **[registered-blocks-with-any-variation.js](https://gist.github.com/juanmaguitar/4f5581a54193b423f8ba208f23a290ec)**
   - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
 - **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
