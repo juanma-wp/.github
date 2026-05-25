@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [e7dcc24](https://github.com/juanma-wp/.github/commit/e7dcc24fa9c5f3d3a70172cbd8e537abfd328acf) - Update README with latest posts (May 23, 2026)</em></small>
+  - <small><em>Last commit: [7169c2f](https://github.com/juanma-wp/.github/commit/7169c2f2437c190222cc51557884b7ee80c4a41f) - Update README with latest posts (May 24, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [de97777](https://github.com/juanma-wp/wp-docs-health-monitor/commit/de97777bfabd5f616920586c587fef6fc44eb37c) - added old version schemas related docs to ignore list for block editor handbook config (May 22, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
@@ -52,11 +52,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 4,880 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,995 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 22 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 4,470 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,472 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
