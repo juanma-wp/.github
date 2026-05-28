@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Desarrollo y gestión de WordPress con Claude Code – WordCamp Portugal 2026](https://juanma.codes/2026/05/27/recap-wordcamp-portugal-2026/) - May 27, 2026
 - [Building a Health Monitor Dashboard for WordPress Docs](https://juanma.codes/2026/05/12/building-a-health-monitor-dashboard-for-wordpress-docs/) - May 12, 2026
 - [Using local AI models with WordPress 7.0: what I learned connecting Ollama](https://juanma.codes/2026/03/29/using-local-ai-models-with-wordpress-7-0-what-i-learned-connecting-ollama/) - March 29, 2026
 - [Bookmark Your Terminal Folders](https://juanma.codes/2026/03/27/bookmark-your-terminal-folders/) - March 27, 2026
 - [Testing HTML output in WordPress](https://juanma.codes/2026/02/27/testing-html-output-in-wordpress/) - February 27, 2026
-- [How to enable JSON schema validation in Cursor](https://juanma.codes/2026/02/24/how-to-enable-json-schema-validation-in-cursor/) - February 24, 2026
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [56d4040](https://github.com/juanma-wp/.github/commit/56d4040b4960232737aebb64e3f66dfea0452380) - Update README with latest posts (May 26, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
-  - <small><em>Last commit: [1fb378b](https://github.com/juanma-wp/wp-docs-health-monitor/commit/1fb378babf625c660266fbe109a2db7fa3455262) - feat: rebuild dashboard from committed data + deploy to GitHub Pages (#107) (May 25, 2026)</em></small>
+  - <small><em>Last commit: [6e23f8c](https://github.com/juanma-wp/wp-docs-health-monitor/commit/6e23f8c1475dfe2a0b3dd75dbe7db848041cba65) - Dashboard doc (May 27, 2026)</em></small>
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [21d68a4](https://github.com/juanma-wp/.github/commit/21d68a4dd814e7e904cc0810d19d004e3943771a) - Update README with latest posts (May 27, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
   - <small><em>Last commit: [668f093](https://github.com/juanma-wp/wp-handbooks-md/commit/668f0936e56193667b2e137e3a27e9eb6e88e732) - Theme Handbook May 2026 (May 22, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -52,11 +52,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 5,172 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 5,237 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 22 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 4,508 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,527 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 - **[eatse21/wp-interactivity-frontend-demo](https://github.com/eatse21/wp-interactivity-frontend-demo)**: Interactive frontend examples showcasing @wordpress/interactivity api, without WordPress.
@@ -71,8 +71,6 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
   - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
 - **[custom-blocks-registered.js](https://gist.github.com/juanmaguitar/26db7ef761e97ff01ad46c6f6bb1d5bc)**
   - <small><em>JavaScript • ⭐ 1 • Updated November 20, 2025</em></small>
-- **[shell-abilities.md](https://gist.github.com/juanmaguitar/a7f4927d264519637f3946f2427349c4)**
-  - <small><em>Markdown • ⭐ 1 • Updated November 20, 2025</em></small>
 <!-- STARRED-GISTS:END -->
 
 
