@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [96f7aae](https://github.com/juanma-wp/.github/commit/96f7aae54c210751c4a5b35f3ee546429a23c222) - Update README with latest posts (May 31, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [10d9a53](https://github.com/juanma-wp/wp-docs-health-monitor/commit/10d9a53e23fe17f2f3eddc7ed4949396074cb23b) - Merge branch 'main' of https://github.com/juanma-wp/wp-docs-health-monitor (May 29, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2460a38](https://github.com/juanma-wp/.github/commit/2460a38e6bf4bae5e19245df78e113f566820fc2) - Update README with latest posts (May 30, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
   - <small><em>Last commit: [668f093](https://github.com/juanma-wp/wp-handbooks-md/commit/668f0936e56193667b2e137e3a27e9eb6e88e732) - Theme Handbook May 2026 (May 22, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -54,11 +54,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 18 • Starred on May 29, 2026</em></small>
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 5,458 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 5,567 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 23 • Starred on April 15, 2026</em></small>
 - **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>TypeScript • ⭐ 4,575 • Starred on March 25, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 4,600 • Starred on March 25, 2026</em></small>
 - **[bph/gt-curator](https://github.com/bph/gt-curator)**: WordPress plugin for curating the Gutenberg Times Weekend Edition newsletter
   - <small><em>PHP • ⭐ 1 • Starred on March 10, 2026</em></small>
 <!-- STARRED-REPOS:END -->
