@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [The triage role in a major WordPress release](https://juanma.codes/2026/06/22/the-triage-role-in-a-major-wordpress-release/) - June 22, 2026
 - [“Inside WordPress 7.0” panel at WordCamp Europe 2026](https://juanma.codes/2026/06/08/inside-wordpress-7-0-panel-at-wordcamp-europe-2026/) - June 08, 2026
 - [Desarrollo y gestión de WordPress con Claude Code – WordCamp Portugal 2026](https://juanma.codes/2026/05/27/recap-wordcamp-portugal-2026/) - May 27, 2026
 - [Building a Health Monitor Dashboard for WordPress Docs](https://juanma.codes/2026/05/12/building-a-health-monitor-dashboard-for-wordpress-docs/) - May 12, 2026
 - [Using local AI models with WordPress 7.0: what I learned connecting Ollama](https://juanma.codes/2026/03/29/using-local-ai-models-with-wordpress-7-0-what-i-learned-connecting-ollama/) - March 29, 2026
-- [Bookmark Your Terminal Folders](https://juanma.codes/2026/03/27/bookmark-your-terminal-folders/) - March 27, 2026
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0d5efa1](https://github.com/juanma-wp/.github/commit/0d5efa17b64e32662914fca98bd812778a3c32a5) - Update README with latest posts (June 21, 2026)</em></small>
+  - <small><em>Last commit: [4ad76aa](https://github.com/juanma-wp/.github/commit/4ad76aa3957933b85ebbfe349d1ec2b68288c62f) - Update README with latest posts (June 22, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [3c4b7d7](https://github.com/juanma-wp/wp-docs-health-monitor/commit/3c4b7d7b7a7e3db7a1d1ca5d0b8f7c741ff913cd) - Update README with dashboard and project links (June 01, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
+  - <small><em>PHP • ⭐ 2 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
-  - <small><em>TypeScript • ⭐ 6 • Starred on June 15, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 7 • Starred on June 15, 2026</em></small>
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 6,271 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 6,310 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 23 • Starred on April 15, 2026</em></small>
-- **[FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)**: A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
-  - <small><em>Python • ⭐ 5,135 • Starred on March 25, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
