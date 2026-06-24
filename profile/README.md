@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [4ad76aa](https://github.com/juanma-wp/.github/commit/4ad76aa3957933b85ebbfe349d1ec2b68288c62f) - Update README with latest posts (June 22, 2026)</em></small>
+  - <small><em>Last commit: [8d77b12](https://github.com/juanma-wp/.github/commit/8d77b12c4389a6bed66a282083bf9816f4b59a85) - Update README with latest posts (June 23, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [3c4b7d7](https://github.com/juanma-wp/wp-docs-health-monitor/commit/3c4b7d7b7a7e3db7a1d1ca5d0b8f7c741ff913cd) - Update README with dashboard and project links (June 01, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
@@ -58,7 +58,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 6,310 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 6,357 • Starred on May 05, 2026</em></small>
 - **[WordPress/experimental-wp-dev-env](https://github.com/WordPress/experimental-wp-dev-env)**: An experiment to explore an easy to install core WordPress development environment app.
   - <small><em>JavaScript • ⭐ 23 • Starred on April 15, 2026</em></small>
 <!-- STARRED-REPOS:END -->
