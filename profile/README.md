@@ -36,16 +36,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
+  - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [388f7cb](https://github.com/juanma-wp/.github/commit/388f7cb8e09c2969c46f63ad18a64697e83529cd) - Update README with latest posts (June 26, 2026)</em></small>
+  - <small><em>Last commit: [e18863f](https://github.com/juanma-wp/.github/commit/e18863f3e7367e8af190c7173cabd187a595b891) - Update README with latest posts (June 27, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
   - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [3c4b7d7](https://github.com/juanma-wp/wp-docs-health-monitor/commit/3c4b7d7b7a7e3db7a1d1ca5d0b8f7c741ff913cd) - Update README with dashboard and project links (June 01, 2026)</em></small>
 - **[wp-handbooks-md](https://github.com/juanma-wp/wp-handbooks-md)**
   - <small><em>Last commit: [668f093](https://github.com/juanma-wp/wp-handbooks-md/commit/668f0936e56193667b2e137e3a27e9eb6e88e732) - Theme Handbook May 2026 (May 22, 2026)</em></small>
-- **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
-  - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
@@ -58,7 +58,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 6,443 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 6,457 • Starred on May 05, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
