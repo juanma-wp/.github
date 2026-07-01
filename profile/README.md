@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0b9ddc3](https://github.com/juanma-wp/.github/commit/0b9ddc3041d8b143bcf4f8b6a8d5fc8e639d10d7) - Update README with latest posts (June 29, 2026)</em></small>
+  - <small><em>Last commit: [f2d79c2](https://github.com/juanma-wp/.github/commit/f2d79c2d206bbe23cda360a7579f696fed78cfd8) - Update README with latest posts (June 30, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
@@ -54,11 +54,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 2 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
-  - <small><em>TypeScript • ⭐ 8 • Starred on June 15, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 9 • Starred on June 15, 2026</em></small>
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
 - **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 6,518 • Starred on May 05, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 6,544 • Starred on May 05, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
