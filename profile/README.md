@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [231c0d7](https://github.com/juanma-wp/.github/commit/231c0d744f8391819c4da5bc547b66c29ff12238) - Update README with latest posts (July 04, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
   - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [7091a30](https://github.com/juanma-wp/.github/commit/7091a30b22a4bf3d3a53bec433794434bb85bfa4) - Update README with latest posts (July 03, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
@@ -51,14 +51,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+  - <small><em>TypeScript • ⭐ 3,331 • Starred on July 04, 2026</em></small>
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 2 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
   - <small><em>TypeScript • ⭐ 9 • Starred on June 15, 2026</em></small>
 - **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
   - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
-- **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)**: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
-  - <small><em>TypeScript • ⭐ 6,616 • Starred on May 05, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
