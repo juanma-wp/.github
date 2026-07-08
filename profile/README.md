@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [92051ae](https://github.com/juanma-wp/.github/commit/92051aecc460253cd1acff4ca2631fe7a71e0e4b) - Update README with latest posts (July 06, 2026)</em></small>
+  - <small><em>Last commit: [abb0cfd](https://github.com/juanma-wp/.github/commit/abb0cfd1124bf9bedbfb9a8c72920257b4aab5f1) - Update README with latest posts (July 07, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
   - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -51,14 +51,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
+  - <small><em>PHP • ⭐ 1 • Starred on July 07, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 7,754 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 9,128 • Starred on July 04, 2026</em></small>
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 3 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
   - <small><em>TypeScript • ⭐ 9 • Starred on June 15, 2026</em></small>
-- **[jonathanbossenger/concilium](https://github.com/jonathanbossenger/concilium)**: A web based, local or public, multi-agent orchestration dashboard. Your council of agents.
-  - <small><em>JavaScript • ⭐ 19 • Starred on May 29, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
