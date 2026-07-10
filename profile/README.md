@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [9f2b403](https://github.com/juanma-wp/.github/commit/9f2b403d4a4888ff38ffad27cef585c823567e60) - Update README with latest posts (July 08, 2026)</em></small>
+  - <small><em>Last commit: [344941a](https://github.com/juanma-wp/.github/commit/344941aee0f34e05f1c28d95b09cc2807f262480) - Update README with latest posts (July 09, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
   - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -53,8 +53,8 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 <!-- STARRED-REPOS:START -->
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 07, 2026</em></small>
-- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 9,820 • Starred on July 04, 2026</em></small>
+- **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
+  - <small><em>TypeScript • ⭐ 10,120 • Starred on July 04, 2026</em></small>
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 3 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
