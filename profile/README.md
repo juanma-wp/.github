@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [fdb19a8](https://github.com/juanma-wp/.github/commit/fdb19a838f444d53bd317a3ee93df47e8d60005a) - Update README with latest posts (July 11, 2026)</em></small>
+  - <small><em>Last commit: [7798f80](https://github.com/juanma-wp/.github/commit/7798f8066b37cc3b3e306954fbde2fe0015a62a9) - Update README with latest posts (July 12, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
@@ -54,7 +54,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 10,581 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 10,773 • Starred on July 04, 2026</em></small>
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 3 • Starred on June 22, 2026</em></small>
 - **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
