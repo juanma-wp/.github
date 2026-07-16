@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [a1d2f2c](https://github.com/juanma-wp/.github/commit/a1d2f2c4b043e36cbb01f2fc3f14f057807d378f) - Update README with latest posts (July 14, 2026)</em></small>
+  - <small><em>Last commit: [e1ca04a](https://github.com/juanma-wp/.github/commit/e1ca04a1ae5c166fcdfc635df0691b009ea30084) - Update README with latest posts (July 15, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
@@ -51,14 +51,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[Automattic/cortext](https://github.com/Automattic/cortext)**
+  - <small><em>JavaScript • ⭐ 36 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 11,273 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 11,617 • Starred on July 04, 2026</em></small>
 - **[x3p0-dev/x3p0-hooks](https://github.com/x3p0-dev/x3p0-hooks)**: 🪝 Attribute-based actions and filters for WordPress.
   - <small><em>PHP • ⭐ 3 • Starred on June 22, 2026</em></small>
-- **[colorful-tones/wp-trend-watcher](https://github.com/colorful-tones/wp-trend-watcher)**: Weekly WordPress trend summaries with local AI review
-  - <small><em>TypeScript • ⭐ 9 • Starred on June 15, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
