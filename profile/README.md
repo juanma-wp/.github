@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [bcd98d7](https://github.com/juanma-wp/.github/commit/bcd98d7d8c04f0cde5ae111172cbfbb8d16556aa) - Update README with latest posts (July 18, 2026)</em></small>
+  - <small><em>Last commit: [bf0b1e1](https://github.com/juanma-wp/.github/commit/bf0b1e140e84a443576167c5071bd7b492a87a65) - Update README with latest posts (July 19, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
@@ -52,13 +52,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 1,366 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 3,308 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
   - <small><em>JavaScript • ⭐ 41 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 12,317 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 12,478 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
