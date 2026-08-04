@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [f343626](https://github.com/juanma-wp/.github/commit/f34362696f23ad7ce18142a9674c6dedb33f52ce) - Update README with latest posts (August 02, 2026)</em></small>
+  - <small><em>Last commit: [5d46e4b](https://github.com/juanma-wp/.github/commit/5d46e4bf3fa243ad6bf26a180fcd4f3d96dd6d57) - Update README with latest posts (August 03, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 16,353 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 16,516 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 10,169 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 10,225 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
   - <small><em>JavaScript • ⭐ 43 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 13,948 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 14,020 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
