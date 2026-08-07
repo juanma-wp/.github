@@ -36,14 +36,14 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
+  - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [218af50](https://github.com/juanma-wp/.github/commit/218af5049ae2a1d5b2eea0dd87b1421776fc8868) - Update README with latest posts (August 05, 2026)</em></small>
+  - <small><em>Last commit: [3a2ad4f](https://github.com/juanma-wp/.github/commit/3a2ad4f8d6845003b864c9aabe29876284815c6b) - Update README with latest posts (August 06, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
 - **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
   - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
-- **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
-  - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[wp-docs-health-monitor](https://github.com/juanma-wp/wp-docs-health-monitor)**
   - <small><em>Last commit: [3c4b7d7](https://github.com/juanma-wp/wp-docs-health-monitor/commit/3c4b7d7b7a7e3db7a1d1ca5d0b8f7c741ff913cd) - Update README with dashboard and project links (June 01, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 16,823 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 17,039 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 10,342 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 10,374 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
-  - <small><em>JavaScript • ⭐ 44 • Starred on July 15, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 45 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 14,220 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 14,274 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
