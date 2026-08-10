@@ -36,10 +36,10 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [f125f83](https://github.com/juanma-wp/.github/commit/f125f8389fe630c3398881d060f20bcb916e4513) - Update README with latest posts (August 09, 2026)</em></small>
 - **[pr-flow-sandbox](https://github.com/juanma-wp/pr-flow-sandbox)**: Sandbox upstream for testing the WordPress Contributor Toolkit pull-request flow (WP_DEV_ENV_GITHUB_UPSTREAM)
   - <small><em>Last commit: [067380d](https://github.com/juanma-wp/pr-flow-sandbox/commit/067380da9acd8f642cdebc7d0428f721332cda49) - Initial commit (August 08, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [0f27cd0](https://github.com/juanma-wp/.github/commit/0f27cd0d79da9019b83cca15df16e37f9e53706f) - Update README with latest posts (August 08, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 17,412 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 17,670 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 10,464 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 10,489 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
-  - <small><em>JavaScript • ⭐ 46 • Starred on July 15, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 47 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 14,725 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 14,788 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
