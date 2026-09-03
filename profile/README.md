@@ -36,31 +36,31 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[wpds-demo-agente](https://github.com/juanma-wp/wpds-demo-agente)**: Account settings screen built with the WordPress Design System outside WordPress (React + Vite), with a step-by-step log of what the design-system MCP did and did not provide
+  - <small><em>Last commit: [1cc0182](https://github.com/juanma-wp/wpds-demo-agente/commit/1cc018237fa828bbe9476c26a85e5f395e0f1bf5) - Rename BITACORA.md to LOG.md and update references (September 02, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [cd893fa](https://github.com/juanma-wp/.github/commit/cd893fa57ecc31e6a424f426c1b68459cad8ee28) - Update README with latest posts (September 01, 2026)</em></small>
+  - <small><em>Last commit: [12e7767](https://github.com/juanma-wp/.github/commit/12e776732d3434a97c8e91edeece27ce6786850d) - Update README with latest posts (September 02, 2026)</em></small>
 - **[pr-flow-sandbox](https://github.com/juanma-wp/pr-flow-sandbox)**: Sandbox upstream for testing the WordPress Contributor Toolkit pull-request flow (WP_DEV_ENV_GITHUB_UPSTREAM)
   - <small><em>Last commit: [067380d](https://github.com/juanma-wp/pr-flow-sandbox/commit/067380da9acd8f642cdebc7d0428f721332cda49) - Initial commit (August 08, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [c78cef8](https://github.com/juanma-wp/wp-trac-triager/commit/c78cef8cc015ac2d94e6ee4866c5e9ab70f70076) - Release version 1.7.0 (February 12, 2026)</em></small>
 - **[wp70-docs-chatbot-demos](https://github.com/juanma-wp/wp70-docs-chatbot-demos)**
   - <small><em>Last commit: [60fb7fc](https://github.com/juanma-wp/wp70-docs-chatbot-demos/commit/60fb7fc225e336af0e69f3942f3710bd20869b1a) - Simplify the approach comparison in the README (July 10, 2026)</em></small>
-- **[webinar-wpcomes-newfordevs-wp70](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70)**
-  - <small><em>Last commit: [6aed1d5](https://github.com/juanma-wp/webinar-wpcomes-newfordevs-wp70/commit/6aed1d5e1718db151454e6de291d9c3b5165df0a) - php only register block (June 25, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 21,381 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 21,500 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 11,974 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 12,008 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
-  - <small><em>JavaScript • ⭐ 50 • Starred on July 15, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 51 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 15,964 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 16,016 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
