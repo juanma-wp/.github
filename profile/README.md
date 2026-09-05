@@ -36,12 +36,12 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
+  - <small><em>Last commit: [0ba3733](https://github.com/juanma-wp/.github/commit/0ba3733c8f6994215ab0bfd4f8f7d673e0a1f5c8) - Update README with latest posts (September 04, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
   - <small><em>Last commit: [a6432b4](https://github.com/juanma-wp/wpds-demo/commit/a6432b495d1ac6cf40bf82ef22d4dca01d502081) - Publish the brief the demo was built from (September 03, 2026)</em></small>
 - **[wpds-demo-agente](https://github.com/juanma-wp/wpds-demo-agente)**: Account settings screen built with the WordPress Design System outside WordPress (React + Vite), with a step-by-step log of what the design-system MCP did and did not provide
   - <small><em>Last commit: [57d4ba1](https://github.com/juanma-wp/wpds-demo-agente/commit/57d4ba1db108274a2900730e7f41a8584a6584b5) - Update README.md (September 03, 2026)</em></small>
-- **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [6c6ec7e](https://github.com/juanma-wp/.github/commit/6c6ec7eca8f7c51bf3f48c7e17a7a9c86c0f8df3) - Update README with latest posts (September 03, 2026)</em></small>
 - **[pr-flow-sandbox](https://github.com/juanma-wp/pr-flow-sandbox)**: Sandbox upstream for testing the WordPress Contributor Toolkit pull-request flow (WP_DEV_ENV_GITHUB_UPSTREAM)
   - <small><em>Last commit: [067380d](https://github.com/juanma-wp/pr-flow-sandbox/commit/067380da9acd8f642cdebc7d0428f721332cda49) - Initial commit (August 08, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 21,621 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 21,715 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 12,055 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 12,092 • Starred on July 18, 2026</em></small>
 - **[Automattic/cortext](https://github.com/Automattic/cortext)**
   - <small><em>JavaScript • ⭐ 51 • Starred on July 15, 2026</em></small>
 - **[Automattic/docs-agent](https://github.com/Automattic/docs-agent)**: Automated documentation upkeep for GitHub repositories.
   - <small><em>PHP • ⭐ 1 • Starred on July 10, 2026</em></small>
 - **[langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)**: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-  - <small><em>TypeScript • ⭐ 16,090 • Starred on July 04, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 16,128 • Starred on July 04, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
