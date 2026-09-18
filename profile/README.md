@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [00afc98](https://github.com/juanma-wp/.github/commit/00afc98197e9d08579cf7b1d60f8758afb4729c4) - Update README with latest posts (September 16, 2026)</em></small>
+  - <small><em>Last commit: [0dfe52e](https://github.com/juanma-wp/.github/commit/0dfe52ece3022aead4b849b20f9d2fd971c63b89) - Update README with latest posts (September 17, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [a463118](https://github.com/juanma-wp/wp-trac-triager/commit/a4631186e2eb2a3e27b4f3d079f5848d54bcdf25) - [Feature] Hand a Trac ticket to the Contributor Toolkit from the sidebar (#10) (September 14, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
-  - <small><em>Shell • ⭐ 3,696 • Starred on September 16, 2026</em></small>
+  - <small><em>Shell • ⭐ 3,742 • Starred on September 16, 2026</em></small>
 - **[block/buzz](https://github.com/block/buzz)**: A hive mind communication platform
-  - <small><em>Rust • ⭐ 33,474 • Starred on September 16, 2026</em></small>
+  - <small><em>Rust • ⭐ 33,540 • Starred on September 16, 2026</em></small>
 - **[omacom/omarchy](https://github.com/omacom/omarchy)**: Beautiful, Modern & Opinionated Linux
-  - <small><em>Shell • ⭐ 41,565 • Starred on September 08, 2026</em></small>
+  - <small><em>Shell • ⭐ 41,756 • Starred on September 08, 2026</em></small>
 - **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-  - <small><em>TypeScript • ⭐ 22,902 • Starred on July 24, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 22,967 • Starred on July 24, 2026</em></small>
 - **[oblien/openship](https://github.com/oblien/openship)**: Self-hosted deployment platform
-  - <small><em>TypeScript • ⭐ 12,319 • Starred on July 18, 2026</em></small>
+  - <small><em>TypeScript • ⭐ 12,341 • Starred on July 18, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
