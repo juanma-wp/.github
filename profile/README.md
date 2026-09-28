@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [2c9cd08](https://github.com/juanma-wp/.github/commit/2c9cd080147878eddcdd00a951af230ccc5fc434) - Update README with latest posts (September 26, 2026)</em></small>
+  - <small><em>Last commit: [2859ff6](https://github.com/juanma-wp/.github/commit/2859ff6d3151905f084b573619ad1bff6cc88c3b) - Update README with latest posts (September 27, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -54,13 +54,13 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
   - <small><em>JavaScript • ⭐ 81 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 139,900 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 140,010 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
-  - <small><em>Shell • ⭐ 3,812 • Starred on September 16, 2026</em></small>
+  - <small><em>Shell • ⭐ 3,815 • Starred on September 16, 2026</em></small>
 - **[block/buzz](https://github.com/block/buzz)**: A hive mind communication platform
-  - <small><em>Rust • ⭐ 34,853 • Starred on September 16, 2026</em></small>
+  - <small><em>Rust • ⭐ 35,108 • Starred on September 16, 2026</em></small>
 - **[omacom/omarchy](https://github.com/omacom/omarchy)**: Beautiful, Modern & Opinionated Linux
-  - <small><em>Shell • ⭐ 43,265 • Starred on September 08, 2026</em></small>
+  - <small><em>Shell • ⭐ 43,419 • Starred on September 08, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
