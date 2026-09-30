@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [989bd82](https://github.com/juanma-wp/.github/commit/989bd827d9f68166db4f093c1c8e9d72c1b0207e) - Update README with latest posts (September 28, 2026)</em></small>
+  - <small><em>Last commit: [21bebe4](https://github.com/juanma-wp/.github/commit/21bebe4a98fc11a7e92e09402a6cca6fa348613c) - Update README with latest posts (September 29, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -52,15 +52,15 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- STARRED-REPOS:START -->
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
-  - <small><em>JavaScript • ⭐ 81 • Starred on September 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 82 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 140,104 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 140,257 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
-  - <small><em>Shell • ⭐ 3,818 • Starred on September 16, 2026</em></small>
+  - <small><em>Shell • ⭐ 3,822 • Starred on September 16, 2026</em></small>
 - **[block/buzz](https://github.com/block/buzz)**: A hive mind communication platform
-  - <small><em>Rust • ⭐ 35,235 • Starred on September 16, 2026</em></small>
+  - <small><em>Rust • ⭐ 35,308 • Starred on September 16, 2026</em></small>
 - **[omacom/omarchy](https://github.com/omacom/omarchy)**: Beautiful, Modern & Opinionated Linux
-  - <small><em>Shell • ⭐ 43,528 • Starred on September 08, 2026</em></small>
+  - <small><em>Shell • ⭐ 43,629 • Starred on September 08, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
