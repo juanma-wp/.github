@@ -37,7 +37,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 
 <!-- RECENT-REPOS:START -->
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [c45fd36](https://github.com/juanma-wp/.github/commit/c45fd36121cf044d53bcd500d91fd9cbd519f9fb) - Update README with latest posts (September 30, 2026)</em></small>
+  - <small><em>Last commit: [a1d8516](https://github.com/juanma-wp/.github/commit/a1d8516911b8c46643d80cc4c9d66f88932438dc) - Update README with latest posts (October 01, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -51,16 +51,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 👍 What I starred on GitHub lately
 
 <!-- STARRED-REPOS:START -->
+- **[podo/design-agent-skills](https://github.com/podo/design-agent-skills)**: Design Skills for Agents
+  - <small><em>JavaScript • ⭐ 15 • Starred on October 01, 2026</em></small>
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
-  - <small><em>JavaScript • ⭐ 82 • Starred on September 18, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 83 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 140,414 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 140,522 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
-  - <small><em>Shell • ⭐ 3,823 • Starred on September 16, 2026</em></small>
+  - <small><em>Shell • ⭐ 3,854 • Starred on September 16, 2026</em></small>
 - **[block/buzz](https://github.com/block/buzz)**: A hive mind communication platform
-  - <small><em>Rust • ⭐ 35,356 • Starred on September 16, 2026</em></small>
-- **[omacom/omarchy](https://github.com/omacom/omarchy)**: Beautiful, Modern & Opinionated Linux
-  - <small><em>Shell • ⭐ 43,692 • Starred on September 08, 2026</em></small>
+  - <small><em>Rust • ⭐ 35,403 • Starred on September 16, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
