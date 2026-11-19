@@ -36,16 +36,16 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 🔨 What else I've been working on GitHub lately
 
 <!-- RECENT-REPOS:START -->
+- **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
+  - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [6e8c62b](https://github.com/juanma-wp/.github/commit/6e8c62bb6c6c0b7dd58ff81eca794002aa3762ec) - Update README with latest posts (November 17, 2026)</em></small>
+  - <small><em>Last commit: [cd81f2d](https://github.com/juanma-wp/.github/commit/cd81f2d823a388c5a95246a444e47389932d3607) - Update README with latest posts (November 18, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
   - <small><em>Last commit: [a6432b4](https://github.com/juanma-wp/wpds-demo/commit/a6432b495d1ac6cf40bf82ef22d4dca01d502081) - Publish the brief the demo was built from (September 03, 2026)</em></small>
 - **[wpds-demo-agente](https://github.com/juanma-wp/wpds-demo-agente)**: Account settings screen built with the WordPress Design System outside WordPress (React + Vite), with a step-by-step log of what the design-system MCP did and did not provide
   - <small><em>Last commit: [57d4ba1](https://github.com/juanma-wp/wpds-demo-agente/commit/57d4ba1db108274a2900730e7f41a8584a6584b5) - Update README.md (September 03, 2026)</em></small>
-- **[pr-flow-sandbox](https://github.com/juanma-wp/pr-flow-sandbox)**: Sandbox upstream for testing the WordPress Contributor Toolkit pull-request flow (WP_DEV_ENV_GITHUB_UPSTREAM)
-  - <small><em>Last commit: [067380d](https://github.com/juanma-wp/pr-flow-sandbox/commit/067380da9acd8f642cdebc7d0428f721332cda49) - Initial commit (August 08, 2026)</em></small>
 <!-- RECENT-REPOS:END -->
 
 ## 👍 What I starred on GitHub lately
@@ -58,7 +58,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
   - <small><em>JavaScript • ⭐ 93 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 144,984 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 145,040 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
   - <small><em>Shell • ⭐ 3,945 • Starred on September 16, 2026</em></small>
 <!-- STARRED-REPOS:END -->
