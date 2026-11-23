@@ -11,11 +11,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [WordPress Contributor Toolkit: from v0.1.0 to v1.2.0](https://juanma.codes/2026/09/27/wordpress-contributor-toolkit-from-v0-1-0-to-v1-2-0-and-whats-next/) - September 27, 2026
 - [The triage role in a major WordPress release](https://juanma.codes/2026/06/22/the-triage-role-in-a-major-wordpress-release/) - June 22, 2026
 - [“Inside WordPress 7.0” panel at WordCamp Europe 2026](https://juanma.codes/2026/06/08/inside-wordpress-7-0-panel-at-wordcamp-europe-2026/) - June 08, 2026
 - [Desarrollo y gestión de WordPress con Claude Code – WordCamp Portugal 2026](https://juanma.codes/2026/05/27/recap-wordcamp-portugal-2026/) - May 27, 2026
 - [Building a Health Monitor Dashboard for WordPress Docs](https://juanma.codes/2026/05/12/building-a-health-monitor-dashboard-for-wordpress-docs/) - May 12, 2026
-- [Using local AI models with WordPress 7.0: what I learned connecting Ollama](https://juanma.codes/2026/03/29/using-local-ai-models-with-wordpress-7-0-what-i-learned-connecting-ollama/) - March 29, 2026
 <!-- BLOG-POSTS:END -->
 
 ## ⭐ My Featured Projects
@@ -39,7 +39,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
   - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [22ef887](https://github.com/juanma-wp/.github/commit/22ef887a75d4909fbe27460511621c2364f7accb) - Update README with latest posts (November 21, 2026)</em></small>
+  - <small><em>Last commit: [0155209](https://github.com/juanma-wp/.github/commit/01552098da5a03c887037365018dd47f1f3121a8) - Update README with latest posts (November 22, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -58,9 +58,9 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
   - <small><em>JavaScript • ⭐ 93 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 145,331 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 145,447 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
-  - <small><em>Shell • ⭐ 3,944 • Starred on September 16, 2026</em></small>
+  - <small><em>Shell • ⭐ 3,945 • Starred on September 16, 2026</em></small>
 <!-- STARRED-REPOS:END -->
 
 
