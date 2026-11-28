@@ -39,7 +39,7 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[command-palette-exploration](https://github.com/juanma-wp/command-palette-exploration)**
   - <small><em>Last commit: [9c2afc1](https://github.com/juanma-wp/command-palette-exploration/commit/9c2afc1cc5200eff71e8823ac7a457a44e6afcf0) - Refactor LatestPostsCommand and update command registration (January 06, 2026)</em></small>
 - **[.github](https://github.com/juanma-wp/.github)**: Script and a GitHub action to periodically update the profile/README.md dynamically.
-  - <small><em>Last commit: [12da146](https://github.com/juanma-wp/.github/commit/12da1467e339a0b0988299c88335fbcd81efbb03) - Update README with latest posts (November 26, 2026)</em></small>
+  - <small><em>Last commit: [0e99dd2](https://github.com/juanma-wp/.github/commit/0e99dd2573904248bbc1c53033b2e938d8604b96) - Update README with latest posts (November 27, 2026)</em></small>
 - **[wp-trac-triager](https://github.com/juanma-wp/wp-trac-triager)**
   - <small><em>Last commit: [aeee8ab](https://github.com/juanma-wp/wp-trac-triager/commit/aeee8ab5508b38fce9efa01eb922141f8348229e) - Release 1.9.0 with automatic next-major release tracking (September 22, 2026)</em></small>
 - **[wpds-demo](https://github.com/juanma-wp/wpds-demo)**: The WordPress Design System used outside WordPress: Vite + React + TypeScript, no WordPress, no Gutenberg checkout. Plus an audit of what got in the way.
@@ -54,11 +54,11 @@ Most of my recent work happens under the [`juanma-wp`](https://github.com/juanma
 - **[CAOShurong/coldshelf](https://github.com/CAOShurong/coldshelf)**: Private offline drive catalog: search unplugged disks, snapshots, hashes, and QR labels.
   - <small><em>Go • ⭐ 8 • Starred on October 18, 2026</em></small>
 - **[podo/design-agent-skills](https://github.com/podo/design-agent-skills)**: Design Skills for Agents
-  - <small><em>JavaScript • ⭐ 36 • Starred on October 01, 2026</em></small>
+  - <small><em>JavaScript • ⭐ 37 • Starred on October 01, 2026</em></small>
 - **[mutonby/vibetube](https://github.com/mutonby/vibetube)**: Desktop multicam recorder for macOS: records your screen and webcam in sync, then Claude Code or Codex edits the final video — shot selection, subtitles, graphics and SFX.
   - <small><em>JavaScript • ⭐ 93 • Starred on September 18, 2026</em></small>
 - **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-  - <small><em>Python • ⭐ 145,881 • Starred on September 18, 2026</em></small>
+  - <small><em>Python • ⭐ 145,981 • Starred on September 18, 2026</em></small>
 - **[gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)**: Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
   - <small><em>Shell • ⭐ 3,942 • Starred on September 16, 2026</em></small>
 <!-- STARRED-REPOS:END -->
